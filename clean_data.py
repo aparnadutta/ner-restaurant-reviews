@@ -70,8 +70,7 @@ def find_stars(bs):
 def find_rec_dishes(bs):
     # Newer reviews have recommended dishes set off from the story in special
     # html tag.
-    tag_searches = [('div', 'class', re.compile('ReviewFooter-recommendedDishes')),
-                    ('span', 'itemprop', re.compile('[Mm]enu'))]
+    tag_searches = [('div', 'class', re.compile('recommendedDishes'))]
     rec_dish_text = ''
     for (tag, property, regex) in tag_searches:
         result = bs.find_all(tag, {property: regex})
@@ -85,9 +84,9 @@ def find_rec_dishes(bs):
     # Older articles have the recommendations in a plain paragraph tag with the
     # format roughly like
     # <p> <strong> RECOMMENDED </strong> Dish1; dish2; ... </p>
-    if rec_dish_text == '':
-        regex = re.compile(r'RECOMMENDED\s*</strong>(.*?)</p>', flags=re.DOTALL)
-        rec_dish_text = re.search(regex, str(bs)).group(1)
+    # if rec_dish_text == '':
+    #     regex = re.compile(r'RECOMMENDED\s*</strong>(.*?)</p>', flags=re.DOTALL)
+    #     rec_dish_text = re.search(regex, str(bs)).group(1)
 
     # Return the number of recommended dishes. First split on semicolons,
     # to deal with descriptions like "chicken, potato, and carrot soup;
@@ -182,10 +181,11 @@ if __name__ == '__main__':
         # if rating != 'NA':
         restaurant_info = {'id': counter,
                            'review_url': review_url,
-                           'review_text': find_review(parsed)}
+                           'review_text': find_review(parsed),
+                           'rec_dishes': find_rec_dishes(parsed)}
         # 'rating': rating,
         # 'price': find_price(parsed),
-        # 'rec_dishes': find_rec_dishes(parsed)}
+        # '}
         cleaned_reviews.append(restaurant_info)
         # else:
         #     print("NA review parse:\n", find_review(parsed))
