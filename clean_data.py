@@ -70,27 +70,24 @@ def find_stars(bs):
 def find_rec_dishes(bs):
     # Newer reviews have recommended dishes set off from the story in special
     # html tag.
-    tag_searches = [('div', 'class', re.compile('recommendedDishes'))]
     rec_dish_text = ''
-    for (tag, property, regex) in tag_searches:
-        result = bs.find_all(tag, {property: regex})
-        if result:
-            if len(result) > 1:
-                rec_dish_text = result[1].get_text()
-            else:
-                rec_dish_text = result[0].get_text()
-            break
 
-    # Older articles have the recommendations in a plain paragraph tag with the
-    # format roughly like
-    # <p> <strong> RECOMMENDED </strong> Dish1; dish2; ... </p>
-    # if rec_dish_text == '':
-    #     regex = re.compile(r'RECOMMENDED\s*</strong>(.*?)</p>', flags=re.DOTALL)
-    #     rec_dish_text = re.search(regex, str(bs)).group(1)
+    scripts = bs.find_all('script')
+    for script in scripts:
+        if 'preloadedData' in script.text:
+            jsonStr = script.text.split('=', 1)[1].strip()  # remove "window.__preloadedData = "
+            jsonStr = jsonStr.rsplit(';', 1)[0]  # remove trailing ;
+            jsonStr = re.sub(re.compile('undefined'), '"undefined"', jsonStr)
+            jsonStr = json.loads(jsonStr)
 
-    # Return the number of recommended dishes. First split on semicolons,
-    # to deal with descriptions like "chicken, potato, and carrot soup;
-    # steak;...". If there are no semicolons, split on commas instead
+    for key, value in jsonStr['initialState'].items():
+        try:
+            if value['recommendedDishes'] != "":
+                rec_dish_text = value['recommendedDishes']
+        except:
+            continue
+
+    # Return a list of recommended dishes.
     if ';' in rec_dish_text:
         rec_dish_list = re.split('; |\. ', rec_dish_text)
     else:
@@ -99,7 +96,7 @@ def find_rec_dishes(bs):
     if rec_dish_list == ['']:
         return 0  # Return 0 if recommended dish list can't be found
     else:
-        return len(rec_dish_list)
+        return rec_dish_list
 
 
 # Convert numeric price to price category - categories here are an approximate
@@ -177,6 +174,7 @@ if __name__ == '__main__':
             print("Completed {0:3d}/{1}".format(counter, total))
         # Read review
         parsed = get_review(counter)
+        # print("parsed", parsed)
         # rating = find_stars(parsed)
         # if rating != 'NA':
         restaurant_info = {'id': counter,
