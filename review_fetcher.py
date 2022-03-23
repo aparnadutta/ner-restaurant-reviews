@@ -16,16 +16,22 @@ def get_urls():
     Returns list of the URLs, or an empty list if there was a problem
     """
 
-    query_url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=restaurant+search&api-key=" + \
-                config.NYT_API_KEY + '&begin_date=20150101' + '&end_date=20200101' + \
-                '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining", "Food")'
+    # TODO lessen restrictions and check number of hits
+    # query_url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=restaurant+search&api-key=" + \
 
+    query_url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" + config.NYT_API_KEY + \
+                '&begin_date=20160101' + '&end_date=20201030' + '&fl=web_url' + \
+                '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining" "Food")'
+
+    # '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining", "Food")'
     # Note API key imported from config file to avoid putting confidential stuff on github
     # Query format according to documentation available from NYT
 
     # Make a first query just to get the total number of reviews
     first_query = requests.get(query_url).json()
     hits = first_query.get('response').get('meta').get('hits')
+    # print("HITS:", hits)
+    # exit()
     num_pages = hits // 10
 
     # Fetch all the urls
@@ -41,17 +47,17 @@ def get_urls():
                 url = article.get('web_url')
                 returned_url_list.append(url)
 
-    if len(returned_url_list) == hits:
-        # Remove some non-review articles returned by the API
-        bad_words = ["(blog)", "(interactive)", "(wine-school)", "(insider)", "(hungry-city)", "(best)",
-                     "(/books/)", "(slideshow)", "(obituaries)", "(recipes)", "(reader-center)", "(technology)"]
-        final_url_list = []
-        for url in returned_url_list:
-            if not re.search("|".join(bad_words), url):
-                final_url_list.append(url)
-        return final_url_list
-    else:
-        return 'Problem getting URLS'
+    # if len(returned_url_list) == hits:
+    # Remove some non-review articles returned by the API
+    bad_words = ["(blog)", "(interactive)", "(wine-school)", "(insider)", "(hungry-city)", "(best)",
+                 "(/books/)", "(slideshow)", "(obituaries)", "(recipes)", "(reader-center)", "(technology)"]
+    final_url_list = []
+    for url in returned_url_list:
+        if not re.search("|".join(bad_words), url):
+            final_url_list.append(url)
+    return final_url_list
+    # else:
+    #     return 'Problem getting URLS'
 
 
 # NYT website has custom error page if it can't find the URL - this finds such pages so they can be re-downloaded
@@ -80,7 +86,8 @@ def get_reviews(to_fetch, n=10):
     """
     final_url_list = []
     counter = 0
-    os.makedirs('reviews', exist_ok=True)
+    DIR_NAME = 'updated_reviews'
+    os.makedirs(DIR_NAME, exist_ok=True)
 
     def get_from_list(url_list, final_url_list, counter):
         refetch_list = []
@@ -92,7 +99,7 @@ def get_reviews(to_fetch, n=10):
             elif is_misclassified(parsed_review):
                 continue
             else:
-                with open('./reviews/review' + str(counter) + '.html', 'w') as newfile:
+                with open(f'./{DIR_NAME}/review' + str(counter) + '.html', 'w') as newfile:
                     newfile.write(parsed_review.prettify())
                 final_url_list.append(review_url)
                 counter += 1
@@ -108,7 +115,7 @@ def get_reviews(to_fetch, n=10):
         for url in to_fetch:
             print(url)
 
-    with open('./reviews/url_list.txt', 'w') as url_output:
+    with open(f'./{DIR_NAME}/url_list.txt', 'w') as url_output:
         json.dump(final_url_list, url_output)
 
 

@@ -152,7 +152,7 @@ def find_price(bs):
 
 # Simple function to read a review from disk and parse it using BeautifulSoup
 def get_review(counter):
-    with open('./reviews/review' + str(counter) + '.html', 'r') as file:
+    with open('./updated_reviews/review' + str(counter) + '.html', 'r') as file:
         parsed = BeautifulSoup(file, 'html.parser', from_encoding="utf-8")
     return parsed
 
@@ -161,7 +161,7 @@ def get_review(counter):
 # TODO the HTML for ratings, prices, recommended foods has changed.
 #  Do we need this? If so, we will need to figure out which html class they are in now.
 if __name__ == '__main__':
-    with open('./reviews/url_list.txt', 'r') as url_file:
+    with open('./updated_reviews/url_list.txt', 'r') as url_file:
         urls = json.load(url_file)
 
     cleaned_reviews = []
@@ -170,17 +170,21 @@ if __name__ == '__main__':
 
     for counter, review_url in enumerate(urls):
         # Progress Counter
-        if counter % 10 == 0:
-            print("Completed {0:3d}/{1}".format(counter, total))
+        # if counter % 10 == 0:
+        print("Completed {0:3d}/{1}".format(counter, total))
         # Read review
         parsed = get_review(counter)
         # print("parsed", parsed)
         # rating = find_stars(parsed)
         # if rating != 'NA':
+        try:
+            rec_dishes = find_rec_dishes(parsed)
+        except json.decoder.JSONDecodeError:
+            rec_dishes = []
         restaurant_info = {'id': counter,
                            'review_url': review_url,
                            'review_text': find_review(parsed),
-                           'rec_dishes': find_rec_dishes(parsed)}
+                           'rec_dishes': rec_dishes}
         # 'rating': rating,
         # 'price': find_price(parsed),
         # '}
@@ -194,11 +198,11 @@ if __name__ == '__main__':
     # The list of such articles is saved here. It ends up being short enough
     # to inspect by hand and see that none of these articles are real reviews
     # with stars
-    os.makedirs('data', exist_ok=True)
-    with open('./data/unprocessed_URLs.txt', 'w') as outfile:
+    os.makedirs('updated_data', exist_ok=True)
+    with open('./updated_data/unprocessed_URLs.txt', 'w') as outfile:
         for url in unprocessed_URLS:
             outfile.write(url + "\n")
 
     # Save cleaned reviews for further analysis
-    with open('./data/cleaned_reviews.json', 'w') as outfile:
+    with open('./updated_data/cleaned_reviews.json', 'w') as outfile:
         json.dump(cleaned_reviews, outfile)

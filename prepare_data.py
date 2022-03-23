@@ -8,7 +8,7 @@ def main() -> None:
     batch_number = filename[5:].split("_")[0]
     with open(filename, encoding='utf-8') as f:
         dicts = json.loads(f.read())
-    with open("data/prepared_data_" + batch_number + ".txt", 'w', encoding='utf-8') as out_f:
+    with open("updated_data/prepared_data_" + batch_number + ".txt", 'w', encoding='utf-8') as out_f:
         for d in dicts:
             out_f.write(d['review_text'] + '\n')
 
