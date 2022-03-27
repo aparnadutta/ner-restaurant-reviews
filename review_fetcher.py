@@ -17,13 +17,14 @@ def get_urls():
     """
 
     # TODO lessen restrictions and check number of hits
-    # query_url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=restaurant+search&api-key=" + \
+    # query_url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" + config.NYT_API_KEY + \
+    #             '&begin_date=20160101' + '&end_date = 20190225' + '&fl=web_url' + \
+    #             '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining", "Food")'
 
-    query_url = "https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=" + config.NYT_API_KEY + \
-                '&begin_date=20160101' + '&end_date=20201030' + '&fl=web_url' + \
-                '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining" "Food")'
+    query_url = 'http://api.nytimes.com/svc/search/v2/articlesearch.json' + \
+                '?api-key=' + config.NYT_API_KEY + '&begin_date=20120101' + '&end_date=20201003' + '&fl=web_url' + \
+                '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining", "Food")'
 
-    # '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining", "Food")'
     # Note API key imported from config file to avoid putting confidential stuff on github
     # Query format according to documentation available from NYT
 
@@ -48,15 +49,17 @@ def get_urls():
                 returned_url_list.append(url)
 
     # if len(returned_url_list) == hits:
-    # Remove some non-review articles returned by the API
-    bad_words = ["(blog)", "(interactive)", "(wine-school)", "(insider)", "(hungry-city)", "(best)",
-                 "(/books/)", "(slideshow)", "(obituaries)", "(recipes)", "(reader-center)", "(technology)"]
+        # Remove some non-review articles returned by the API
+    bad_words = ["(blog)", "(interactive)", "(wine-school)", "(insider)", "(hungry-city)", "(best)", "(covid)",
+                 "(coronavirus)", "(/books/)", "(slideshow)", "(obituaries)", "(recipes)", "(reader-center)", "(technology)"]
     final_url_list = []
     for url in returned_url_list:
         if not re.search("|".join(bad_words), url):
             final_url_list.append(url)
     return final_url_list
     # else:
+    #     print("len(returned_url_list):", len(returned_url_list))
+    #     print("hits:", hits)
     #     return 'Problem getting URLS'
 
 
