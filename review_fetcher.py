@@ -22,7 +22,7 @@ def get_urls():
     #             '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining", "Food")'
 
     query_url = 'http://api.nytimes.com/svc/search/v2/articlesearch.json' + \
-                '?api-key=' + config.NYT_API_KEY + '&begin_date=20120101' + '&end_date=20201003' + '&fl=web_url' + \
+                '?api-key=' + config.NYT_API_KEY + '&begin_date=20120101' + '&end_date=20191030' + '&fl=web_url' + \
                 '&fq=byline:("Pete Wells")ANDtype_of_material:("Review")ANDnews_desk:("Dining", "Food")'
 
     # Note API key imported from config file to avoid putting confidential stuff on github
