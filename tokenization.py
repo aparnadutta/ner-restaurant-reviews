@@ -48,6 +48,7 @@ def encode_bio(tokens: list[tuple[str, int]], mentions: list[Mention]) -> list[s
 
 def create_tok_mention(label: tuple[str, str, str], tok_list: list[tuple[str, int, int]], text: str) -> Mention:
     start, end, tag = label
+    start, end = int(start), int(end)
     if text[end] in PUNCT:
         end = end - 1
     i = 0
@@ -62,6 +63,8 @@ def create_tok_mention(label: tuple[str, str, str], tok_list: list[tuple[str, in
         if end <= tok[1]:
             end_tok = i - 1
             mention = Mention(tag, start_tok, end_tok)
+            print(text[start:end])
+            print(mention)
             return mention
         else:
             i += 1
@@ -70,6 +73,7 @@ def create_tok_mention(label: tuple[str, str, str], tok_list: list[tuple[str, in
 def process_annotations(annotation: dict) -> list[list[tuple[str, str]]]:
     """Changes mention types from character based to token based and
     outputs a list with the token, a space, and the tag"""
+
     text, labels = annotation['data'], annotation['label']
     labels.sort(key=lambda a: a[0])
     text = text.encode('ascii', 'replace').decode()
@@ -78,6 +82,8 @@ def process_annotations(annotation: dict) -> list[list[tuple[str, str]]]:
     tok_list = []
     index = 0
     sentence_list = []
+    print("*****************************")
+    # determine spans for each token in each sentence
     for sentence in tokenized_text.sentences:
         sentence_toks = []
         for tok in sentence.tokens:
@@ -86,17 +92,22 @@ def process_annotations(annotation: dict) -> list[list[tuple[str, str]]]:
             sentence_toks.append((token_span[0], index))
             index += 1
         sentence_list.append(sentence_toks)
+
     mention_list = []
     for label in labels:
+        # for each mention, create a token based mention
         mention_list.append(create_tok_mention(label, tok_list, tokenized_text.text))
-    encoded_sent = []
     for sent_toks in sentence_list:
         sentence_mentions = []
+        # match the mentions to the sentences
         for mention in mention_list:
             if sent_toks[0][1] < mention.start < sent_toks[-1][1]:
                 sentence_mentions.append(mention)
+        # bio encode them
         bio_encoded = encode_bio(sent_toks, sentence_mentions)
-        tokens = [a for a, b in sent_toks]
+        tokens = [a for a, b in sent_toks]  # get just the token text for the sentence
+        encoded_sent = []
+        # make a list with all of the token-tag pairs for every token
         for x, y in zip(tokens, bio_encoded):
             encoded_sent.append((x, y))
         encoded_text.append(encoded_sent)
