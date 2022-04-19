@@ -9,7 +9,8 @@ DELIM = "_"
 
 PUNCT = {",", ".", ";", ")", ":"}
 
-stanza.download('en')
+# TODO: if using stanza for the first time, uncomment this line
+# stanza.download('en')
 nlp = stanza.Pipeline(lang="en", processors="tokenize")
 
 
