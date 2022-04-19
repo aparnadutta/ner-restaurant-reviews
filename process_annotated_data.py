@@ -58,7 +58,7 @@ def make_conll(annotations: list[list[dict]]) -> None:
                 else:
                     encoded.append(None)
             conll_review = []
-            # if there are length discrepencies (trailing whitespace, etc.), take the shortest one
+            # if there are length discrepancies (trailing whitespace, etc.), take the shortest one
             lengths = [len(y) for y in encoded if y]
             review_len = min(lengths)
 

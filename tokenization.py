@@ -2,14 +2,14 @@ import json
 import stanza
 from typing import NamedTuple
 
-OUTSIDE = '0'
-BEGIN = 'B'
-INSIDE = 'I'
-DELIM = '_'
+OUTSIDE = "0"
+BEGIN = "B"
+INSIDE = "I"
+DELIM = "_"
 
-PUNCT = {',', '.', ';', ')', ':'}
+PUNCT = {",", ".", ";", ")", ":"}
 
-nlp = stanza.Pipeline(lang='en', processors='tokenize')
+nlp = stanza.Pipeline(lang="en", processors="tokenize")
 
 
 class Mention(NamedTuple):
@@ -19,7 +19,7 @@ class Mention(NamedTuple):
 
 
 def read_file(filename: str) -> dict:
-    with open(filename, 'r') as f:
+    with open(filename, "r") as f:
         for line in f:
             data = json.loads(line)
     return data
@@ -46,7 +46,8 @@ def encode_bio(tokens: list[tuple[str, int]], mentions: list[Mention]) -> list[s
     return encoded_list
 
 
-def create_tok_mention(label: tuple[str, str, str], tok_list: list[tuple[str, int, int]], text: str) -> Mention:
+def create_tok_mention(label: tuple[str, str, str], tok_list: list[tuple[str, int, int]], text: str
+                       ) -> Mention:
     start, end, tag = label
     start, end = int(start), int(end)
     if text[end] in PUNCT:
@@ -74,9 +75,9 @@ def process_annotations(annotation: dict) -> list[list[tuple[str, str]]]:
     """Changes mention types from character based to token based and
     outputs a list with the token, a space, and the tag"""
 
-    text, labels = annotation['data'], annotation['label']
+    text, labels = annotation["data"], annotation["label"]
     labels.sort(key=lambda a: a[0])
-    text = text.encode('ascii', 'replace').decode()
+    text = text.encode("ascii", "replace").decode()
     tokenized_text = nlp(text)
     encoded_text = []
     tok_list = []
