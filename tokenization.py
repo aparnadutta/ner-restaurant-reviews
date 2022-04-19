@@ -66,8 +66,8 @@ def create_tok_mention(label: tuple[str, str, str], tok_list: list[tuple[str, in
         if end <= tok[1]:
             end_tok = i - 1
             mention = Mention(tag, start_tok, end_tok)
-            print(text[start:end])
-            print(mention)
+            # print(text[start:end])
+            # print(mention)
             return mention
         else:
             i += 1
@@ -79,13 +79,13 @@ def process_annotations(annotation: dict) -> list[list[tuple[str, str]]]:
 
     text, labels = annotation["data"], annotation["label"]
     labels.sort(key=lambda a: a[0])
-    text = text.encode("ascii", "replace").decode()
+    # text = text.encode("ascii", "replace").decode()
     tokenized_text = nlp(text)
     encoded_text = []
     tok_list = []
     index = 0
     sentence_list = []
-    print("*****************************")
+    # print("*****************************")
     # determine spans for each token in each sentence
     for sentence in tokenized_text.sentences:
         sentence_toks = []

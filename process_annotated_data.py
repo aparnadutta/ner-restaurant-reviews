@@ -90,10 +90,10 @@ def make_conll(annotations: list[list[dict]]) -> None:
     print("Creating CONLL file...")
     with open('all_annotations.txt', 'w', encoding='utf8') as out_f:
         for r_id, doc in all_reviews:
-            print(r_id)
+            # print(r_id)
             out_f.write(f"-DOCSTART-\n")
             for sent in doc:
-                print(sent)
+                # print(sent)
                 for line in sent:
                     out_f.write(line)
                 out_f.write('\n')
