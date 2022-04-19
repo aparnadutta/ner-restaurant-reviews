@@ -9,6 +9,7 @@ DELIM = "_"
 
 PUNCT = {",", ".", ";", ")", ":"}
 
+stanza.download('en')
 nlp = stanza.Pipeline(lang="en", processors="tokenize")
 
 
