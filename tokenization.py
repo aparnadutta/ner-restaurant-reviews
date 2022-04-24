@@ -2,10 +2,10 @@ import json
 import stanza
 from typing import NamedTuple, List, Dict, Sequence
 
-OUTSIDE = "0"
+OUTSIDE = "O"
 BEGIN = "B"
 INSIDE = "I"
-DELIM = "_"
+DELIM = "-"
 
 PUNCT = {",", ".", ";", ")", ":"}
 
