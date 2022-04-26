@@ -4,5 +4,5 @@ def main():
             file2.write(line.replace("None", "O"))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

@@ -47,6 +47,7 @@ def read_file(filename: str) -> dict:
 #             encoded_list.append(OUTSIDE)
 #     return encoded_list
 
+
 def encode_bio(tokens: Sequence[str], mentions: Sequence[Mention]) -> list[str]:
     labels = [OUTSIDE] * len(tokens)
 
@@ -58,8 +59,9 @@ def encode_bio(tokens: Sequence[str], mentions: Sequence[Mention]) -> list[str]:
     return labels
 
 
-def create_tok_mention(label: tuple[str, str, str], tok_list: list[tuple[str, int, int]], text: str
-                       ) -> Mention:
+def create_tok_mention(
+    label: tuple[str, str, str], tok_list: list[tuple[str, int, int]], text: str
+) -> Mention:
     start, end, tag = label
     start, end = int(start), int(end)
     if text[end] in PUNCT:
@@ -82,11 +84,13 @@ def create_tok_mention(label: tuple[str, str, str], tok_list: list[tuple[str, in
         else:
             i += 1
 
+
 class Token(NamedTuple):
     text: str
     start_char: int
     end_char: int
     idx: int
+
 
 class CharLabel(NamedTuple):
     label: str
@@ -98,6 +102,7 @@ class SentenceBuilder:
     """
     Mutable class to build up a sentence and it's labels.
     """
+
     def __init__(self, tokens: List[Token]):
         self.tokens = tokens
         self.start_char = tokens[0].start_char
@@ -110,7 +115,9 @@ class SentenceBuilder:
         In place creates token-level labels (Mentions) using char_labels and tokens.
         """
         # Build a map from character index to token
-        char_to_token = {char_idx: None for char_idx in range(self.start_char, self.end_char)}
+        char_to_token = {
+            char_idx: None for char_idx in range(self.start_char, self.end_char)
+        }
         for token in self.tokens:
             for token_char_idx in range(token.start_char, token.end_char):
                 char_to_token[token_char_idx] = token
@@ -129,10 +136,16 @@ class SentenceBuilder:
                     print("Sent offsets", self.start_char, self.end_char)
                     print("Continuing with a partial mention labeled\n")
             # Remove Nones from non token chars like whitespace and sort
-            mention_tokens: List[Token] = sorted([token for token in token_set if token is not None], key=lambda x: x.idx)
+            mention_tokens: List[Token] = sorted(
+                [token for token in token_set if token is not None], key=lambda x: x.idx
+            )
             if mention_tokens:
                 self.token_labels.append(
-                    Mention(char_label.label, mention_tokens[0].idx, mention_tokens[-1].idx + 1)
+                    Mention(
+                        char_label.label,
+                        mention_tokens[0].idx,
+                        mention_tokens[-1].idx + 1,
+                    )
                 )
 
     def build(self):
@@ -147,19 +160,14 @@ def tokens_from_spacy(tokenized_text) -> List[List[Token]]:
     for sent in tokenized_text.sentences:
         tokens = []
         for idx, token in enumerate(sent.tokens):
-            tokens.append(
-                Token(
-                    token.text,
-                    token.start_char,
-                    token.end_char,
-                    idx
-                )
-            )
+            tokens.append(Token(token.text, token.start_char, token.end_char, idx))
         sents.append(tokens)
     return sents
 
 
-def sentence_level_mentions(sentence_tokens: List[List[Token]], labels: tuple[str, str, str]):
+def sentence_level_mentions(
+    sentence_tokens: List[List[Token]], labels: tuple[str, str, str]
+):
 
     sent_builders = [SentenceBuilder(tokens) for tokens in sentence_tokens]
     char_idx_to_sent: Dict[int, SentenceBuilder] = {
@@ -178,7 +186,9 @@ def sentence_level_mentions(sentence_tokens: List[List[Token]], labels: tuple[st
         elif char_label.start in char_idx_to_sent:
             char_idx_to_sent[char_label.start].char_labels.append(char_label)
         else:
-            print(f"Warning: Couldn't find a sentence for character based label: {CharLabel}\n")
+            print(
+                f"Warning: Couldn't find a sentence for character based label: {CharLabel}\n"
+            )
 
     for sent_builder in sent_builders:
         sent_builder.create_sentence_level_mentions()
@@ -197,7 +207,6 @@ def process_annotations(annotation: dict) -> list[list[tuple[str, str]]]:
 
     sentence_tokens = tokens_from_spacy(tokenized_text)
     mentions_by_sents = sentence_level_mentions(sentence_tokens, labels)
-
 
     # encoded_text = []
     # tok_list = []
@@ -219,7 +228,6 @@ def process_annotations(annotation: dict) -> list[list[tuple[str, str]]]:
     # for label in labels:
     #     # for each mention, create a token based mention
     #     mention_list.append(create_tok_mention(label, tok_list, tokenized_text.text))
-
 
     # for sent_toks in sentence_list:
     #

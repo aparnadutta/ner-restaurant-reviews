@@ -7,22 +7,22 @@ from doccano_transformer.datasets import NERDataset
 from doccano_transformer.utils import read_jsonl
 
 
-METAFILE = 'updated_data/cleaned_reviews.json'
+METAFILE = "updated_data/cleaned_reviews.json"
 
 
 def read_file(filepath: str) -> Any:
     """Reads the doccano output file into a dataset in conll 2003 format"""
-    dataset = read_jsonl(filepath=filepath, dataset=NERDataset, encoding='utf-8')
+    dataset = read_jsonl(filepath=filepath, dataset=NERDataset, encoding="utf-8")
     return dataset.to_conll2003(tokenizer=str.split)
 
 
 def change_encoding(inputfile: str, outputfile: str) -> None:
     """Makes sure the encoding is in utf8"""
-    with open(inputfile, 'r', encoding="iso-8859-1") as in_file:
+    with open(inputfile, "r", encoding="iso-8859-1") as in_file:
         reader = jsonlines.Reader(in_file)
         objects = [obj for obj in reader.iter(type=dict)]
 
-    with open(outputfile, 'w', encoding='utf8') as outfile:
+    with open(outputfile, "w", encoding="utf8") as outfile:
         writer = jsonlines.Writer(outfile)
         writer.write_all(objects)
 
@@ -36,13 +36,13 @@ def get_date(url: str) -> int:
 
 
 def match_meta(annotated: dict, meta: Sequence[dict]) -> dict:
-    data = annotated['data']
-    data_text = [x.split()[0] for x in data.split('\n') if x]
+    data = annotated["data"]
+    data_text = [x.split()[0] for x in data.split("\n") if x]
     for mdict in meta:
-        if data_text[1:6] == mdict['review_text'].split()[:5]:
-            annotated['url'] = mdict['review_url']
-            annotated['date'] = get_date(mdict['review_url'])
-            annotated['rec_dishes'] = mdict['rec_dishes']
-            annotated['id'] = int(mdict['id'])
+        if data_text[1:6] == mdict["review_text"].split()[:5]:
+            annotated["url"] = mdict["review_url"]
+            annotated["date"] = get_date(mdict["review_url"])
+            annotated["rec_dishes"] = mdict["rec_dishes"]
+            annotated["id"] = int(mdict["id"])
             return annotated
     raise NameError("No matches in file")

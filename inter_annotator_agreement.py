@@ -32,10 +32,7 @@ def kappa(data):
     observation = observed(data)
     expectation = expected(data)
     perfection = 1.0
-    k = np.divide(
-        observation - expectation,
-        perfection - expectation
-    )
+    k = np.divide(observation - expectation, perfection - expectation)
     return k
 
 
@@ -55,7 +52,9 @@ def expected(data):
     percent_expected = np.dot(*percentages)
     return percent_expected
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     # Give two files of annotators
     # Find overlapping reviews
     # Process and calculate IAA??
+    pass

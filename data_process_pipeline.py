@@ -2,20 +2,20 @@ import json
 import jsonlines
 from collections import defaultdict
 from data_process_utils import (
-                                read_file,
-                                change_encoding,
-                                match_meta,
-                                )
+    read_file,
+    change_encoding,
+    match_meta,
+)
 
-FILES = ['aparna_week3.jsonl', 'june_week3.jsonl', 'ayla_week3_utf8.jsonl']
-PATH = 'annotated_data/'
-METAFILE = 'updated_data/cleaned_reviews.json'
-DOCSTART = '-DOCSTART- -X- -X- O\n'
+FILES = ["aparna_week3.jsonl", "june_week3.jsonl", "ayla_week3_utf8.jsonl"]
+PATH = "annotated_data/"
+METAFILE = "updated_data/cleaned_reviews.json"
+DOCSTART = "-DOCSTART- -X- -X- O\n"
 
 
 def make_conll(annotations):
     metadata = []
-    with open(METAFILE, encoding='utf8') as f:  # read in file with metadata
+    with open(METAFILE, encoding="utf8") as f:  # read in file with metadata
         for line in f:
             metadata = json.loads(line)
 
@@ -25,23 +25,25 @@ def make_conll(annotations):
     for i, annotation in enumerate(annotations):
         for doc in annotation:
             meta_doc = match_meta(doc, metadata)
-            date = meta_doc['date']
+            date = meta_doc["date"]
             if date not in set(data_with_metadata.keys()):
                 data_with_metadata[date] = dict()
                 data_with_metadata[date][0] = []
                 data_with_metadata[date][1] = []
                 data_with_metadata[date][2] = []
-                data_with_metadata[date]['tokens'] = []
-            for x in meta_doc['data'].split('\n'):
+                data_with_metadata[date]["tokens"] = []
+            for x in meta_doc["data"].split("\n"):
                 if len(x.split()) > 1:
                     # print(x, x.split()[0], x.split()[-1])
-                    data_with_metadata[date]['tokens'].append(x.split()[0])
+                    data_with_metadata[date]["tokens"].append(x.split()[0])
                     data_with_metadata[date][i].append(x.split()[-1])
                 else:
-                    data_with_metadata[date]['tokens'].append(x)
-                    data_with_metadata[date][i].append('')
+                    data_with_metadata[date]["tokens"].append(x)
+                    data_with_metadata[date][i].append("")
             if data_with_metadata[date][i]:
-                data_with_metadata[date]['tokens'] = data_with_metadata[date]['tokens'][:len(data_with_metadata[date][i])]
+                data_with_metadata[date]["tokens"] = data_with_metadata[date]["tokens"][
+                    : len(data_with_metadata[date][i])
+                ]
             # print(data_with_metadata[date]['tokens'])
             # print(data_with_metadata[date][0])
             # print(data_with_metadata[date][1])
@@ -60,14 +62,14 @@ def make_conll(annotations):
                 empty_sum += 1
         if empty_sum == 1:
             trimmed_data_list.append((date, doc_dic))
-    with open("all_annotations.txt", 'w', encoding='utf8') as conll_f:
+    with open("all_annotations.txt", "w", encoding="utf8") as conll_f:
         for date, doc_dict in trimmed_data_list:
             # print(date, doc_dict['tokens'], file=conll_f)
             # print(date, doc_dict[0], file=conll_f)
             # print(date, doc_dict[1], file=conll_f)
             # print(date, doc_dict[2], file=conll_f)
             # print(doc_dict['tokens'])
-            for i, tok in enumerate(doc_dict['tokens']):
+            for i, tok in enumerate(doc_dict["tokens"]):
                 # print(tok, file=conll_f)
                 token_line = [tok]
                 # if doc_dict[0]:
@@ -81,7 +83,7 @@ def make_conll(annotations):
                     # print(doc_dict[j])
                     if doc_dict[j]:
                         # print(doc_dict[j][i], file=conll_f)
-                        if tok == '-DOCSTART-':
+                        if tok == "-DOCSTART-":
                             token_line.append("-X-")
                         elif tok:
                             token_line.append(doc_dict[j][i])
@@ -92,16 +94,16 @@ def make_conll(annotations):
                     #     token_line.append(doc_dict[j][i])
                     else:
                         # print(doc_dict[j], file=conll_f)
-                        if tok == '-DOCSTART-':
-                            token_line.append('-X-')
+                        if tok == "-DOCSTART-":
+                            token_line.append("-X-")
                         elif tok:
-                            token_line.append('N/A')
+                            token_line.append("N/A")
                         else:
-                            token_line.append('')
+                            token_line.append("")
 
                         # print(i, tok, doc_dict.keys(), token_line)
                 # print(token_line, file=conll_f)
-                token_str = ' '.join(token_line)
+                token_str = " ".join(token_line)
                 print(token_str, file=conll_f)
     # #     document_data = dict()
     # #     for annotation in doc:
@@ -130,5 +132,5 @@ def main():
     make_conll(annotations)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

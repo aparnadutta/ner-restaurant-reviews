@@ -34,9 +34,9 @@ class AnnotatedReview:
 
     def __eq__(self, other: Any) -> bool:
         return (
-                isinstance(other, AnnotatedReview)
-                and self.chars == other.chars
-                and self.mentions == other.mentions
+            isinstance(other, AnnotatedReview)
+            and self.chars == other.chars
+            and self.mentions == other.mentions
         )
 
     def __hash__(self) -> int:
@@ -47,8 +47,12 @@ def data(path: str) -> dict[int, AnnotatedReview]:
     annotated_reviews = {}
     with jsonlines.open(path) as file:
         for line in file.iter():
-            mentions = [Mention(start=int(mention[0]), end=int(mention[1]), entity_type=mention[2]) for mention in
-                        line["label"]]
+            mentions = [
+                Mention(
+                    start=int(mention[0]), end=int(mention[1]), entity_type=mention[2]
+                )
+                for mention in line["label"]
+            ]
             review = AnnotatedReview(characters=line["data"], mentions=mentions)
             annotated_reviews[line["id"]] = review
     return annotated_reviews
@@ -56,10 +60,20 @@ def data(path: str) -> dict[int, AnnotatedReview]:
 
 def entities(annotations: dict[int, AnnotatedReview]) -> None:
     # TODO: Change to sets to see unique mentions
-    mentions = {"EST": [], "TYPE": [], "LOC": [], "DISH": [], "FOOD": [], "CUISINE": [], "DIET": []}
+    mentions = {
+        "EST": [],
+        "TYPE": [],
+        "LOC": [],
+        "DISH": [],
+        "FOOD": [],
+        "CUISINE": [],
+        "DIET": [],
+    }
     for review in annotations.values():
         for mention in review.mentions:
-            mentions[mention.entity_type].append(review.chars[mention.start: mention.end])
+            mentions[mention.entity_type].append(
+                review.chars[mention.start : mention.end]
+            )
     for entity_type, mentions in mentions.items():
         print(entity_type + ": " + str(len(mentions)))
         # print(entity_type)
@@ -69,7 +83,7 @@ def entities(annotations: dict[int, AnnotatedReview]) -> None:
         # print()
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # TODO: Argument parser for paths
     batch = data(path=os.path.join("annotated_data", "june_week1.jsonl"))
     entities(annotations=batch)

@@ -17,13 +17,13 @@ def get_date(url: str) -> int:
 
 
 def match_meta(annotated: dict, meta: Sequence[dict]) -> dict:
-    data = annotated['data']
+    data = annotated["data"]
     for mdict in meta:
-        if data[10:20] == mdict['review_text'][10:20]:
-            annotated['url'] = mdict['review_url']
-            annotated['date'] = get_date(mdict['review_url'])
-            annotated['rec_dishes'] = mdict['rec_dishes']
-            annotated['id'] = int(mdict['id'])
+        if data[10:20] == mdict["review_text"][10:20]:
+            annotated["url"] = mdict["review_url"]
+            annotated["date"] = get_date(mdict["review_url"])
+            annotated["rec_dishes"] = mdict["rec_dishes"]
+            annotated["id"] = int(mdict["id"])
             # annotated['data'].replace(BAD_STRINGS[0], '')  # doesn't work, to fix later?
             # annotated['data'].replace(BAD_STRINGS[1], '')
             return annotated

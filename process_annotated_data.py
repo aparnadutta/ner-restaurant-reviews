@@ -7,14 +7,18 @@ from typing import Iterable, Dict, Tuple, List, Optional
 from match_with_metadata import match_meta
 from tokenization import process_annotations
 
-FILES = ['aparna_week3.jsonl', 'june_week3.jsonl', 'ayla_week3.jsonl']  # change to week 3 when ayla finishes annotation
-PATH = 'annotated_data/'
-METAFILE = 'updated_data/cleaned_reviews.json'
+FILES = [
+    "aparna_week3.jsonl",
+    "june_week3.jsonl",
+    "ayla_week3.jsonl",
+]  # change to week 3 when ayla finishes annotation
+PATH = "annotated_data/"
+METAFILE = "updated_data/cleaned_reviews.json"
 
 
 def read_file(filename: str) -> dict:
     data = []
-    with open(filename, 'r', encoding="ISO-8859-1") as f:
+    with open(filename, "r", encoding="ISO-8859-1") as f:
         for line in f:
             data.append(json.loads(line))
     return data
@@ -103,10 +107,10 @@ def read_file(filename: str) -> dict:
 
 
 def get_label(
-        annotatorid_to_sentences: Dict[int, Optional[list[list[tuple[str, str]]]]],
-        annotator_idx: int,
-        sent_idx: int,
-        token_idx: int
+    annotatorid_to_sentences: Dict[int, Optional[list[list[tuple[str, str]]]]],
+    annotator_idx: int,
+    sent_idx: int,
+    token_idx: int,
 ):
     if annotatorid_to_sentences[annotator_idx] is None:
         return None
@@ -118,7 +122,7 @@ def get_label(
 
 
 def join_annotations(
-        annotatorid_to_sentences: Dict[int, Optional[list[list[tuple[str, str]]]]]
+    annotatorid_to_sentences: Dict[int, Optional[list[list[tuple[str, str]]]]]
 ) -> List[List[Tuple[str, str, str, str]]]:
     assumed_sents = None
     ret = []
@@ -147,20 +151,22 @@ def chesters_make_conll(annotations: list[list[dict]]) -> None:
     print("Adding Metadata...")
     reviews = dict()
     metadata_file = read_file(METAFILE)[0]
-    metadata = [r for r in metadata_file if
-                int(r['id']) < 90]  # limit it to just the reviews we did
+    metadata = [
+        r for r in metadata_file if int(r["id"]) < 90
+    ]  # limit it to just the reviews we did
     for d in metadata:
         # make dict for looking up the reviews by id, with space to put annotation for each of us
-        reviews[d['id']] = [None, None, None]
+        reviews[d["id"]] = [None, None, None]
     for i, persons_data in enumerate(
-            annotations):  # iterate over each persons annotation data (len(annotation) = 3)
+        annotations
+    ):  # iterate over each persons annotation data (len(annotation) = 3)
         #  i = 0 is aparna, i = 1 is june, i = 2 is ayla
         for x in persons_data:
             meta = match_meta(x, metadata)
-            reviews[meta['id']][i] = meta
+            reviews[meta["id"]][i] = meta
     # create a file for the metadata
-    print("Creating Metadata file: \'all_annotations_with_metadata.json\'")
-    with open('all_annotations_with_metadata.json', 'w', encoding='utf-8') as f_out:
+    print("Creating Metadata file: 'all_annotations_with_metadata.json'")
+    with open("all_annotations_with_metadata.json", "w", encoding="utf-8") as f_out:
         json.dump(reviews, f_out)
     print("Tokenizing...")
 
@@ -170,23 +176,34 @@ def chesters_make_conll(annotations: list[list[dict]]) -> None:
     docid_to_sentences = defaultdict(list)
     for docid, annotations in tqdm.tqdm(review_list):
         if any(annotations):
-            annotatorid_to_sentences: Dict[int, Optional[list[list[tuple[str, str]]]]] = {}
-            for annotator_id, annotation in enumerate(annotations):  # iterating through each annotators annotations
+            annotatorid_to_sentences: Dict[
+                int, Optional[list[list[tuple[str, str]]]]
+            ] = {}
+            for annotator_id, annotation in enumerate(
+                annotations
+            ):  # iterating through each annotators annotations
                 if annotation:
-                    annotatorid_to_sentences[annotator_id] = process_annotations(annotation)
+                    annotatorid_to_sentences[annotator_id] = process_annotations(
+                        annotation
+                    )
                 else:
                     annotatorid_to_sentences[annotator_id] = None
-            joined_sents: List[List[Tuple[str, str, str, str]]] = join_annotations(annotatorid_to_sentences)
+            joined_sents: List[List[Tuple[str, str, str, str]]] = join_annotations(
+                annotatorid_to_sentences
+            )
             docid_to_sentences[docid].append(joined_sents)
 
-    with open('all_annotations.txt', 'w', encoding='utf8') as out_f:
+    with open("all_annotations.txt", "w", encoding="utf8") as out_f:
         for docid in docid_to_sentences:
             print("-DOCSTART- O O O", file=out_f)
             print(file=out_f)
             for sentences in docid_to_sentences[docid]:
                 for sent in sentences:
                     for token_and_labels in sent:
-                        print(" ".join([str(item) for item in token_and_labels]), file=out_f)
+                        print(
+                            " ".join([str(item) for item in token_and_labels]),
+                            file=out_f,
+                        )
                     print(file=out_f)
 
 
@@ -197,5 +214,5 @@ def main():
     chesters_make_conll(data)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
