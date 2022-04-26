@@ -54,7 +54,7 @@ def make_conll(annotations):
                 empty_sum += 1
         if empty_sum == 1:
             trimmed_data_list.append((date, doc_dic))
-    with open("all_annotations.txt", "w", encoding="utf8") as conll_f:
+    with open("../all_annotations.txt", "w", encoding="utf8") as conll_f:
         for date, doc_dict in trimmed_data_list:
             for i, tok in enumerate(doc_dict["tokens"]):
                 token_line = [tok]
