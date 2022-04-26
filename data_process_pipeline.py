@@ -42,16 +42,8 @@ def make_conll(annotations):
                     data_with_metadata[date][i].append("")
             if data_with_metadata[date][i]:
                 data_with_metadata[date]["tokens"] = data_with_metadata[date]["tokens"][
-                    : len(data_with_metadata[date][i])
-                ]
-            # print(data_with_metadata[date]['tokens'])
-            # print(data_with_metadata[date][0])
-            # print(data_with_metadata[date][1])
-            # print(data_with_metadata[date][2])
-            # data_text = [x.split()[0] for x in meta_doc['data'].split('\n') if x else ]
-            # data_with_metadata[date][i] = meta_doc
-
-            # data_with_metadata[meta_doc['date']].append((i, meta_doc))
+                                                     : len(data_with_metadata[date][i])
+                                                     ]
     data_list = list(data_with_metadata.items())
     data_list.sort(key=lambda y: y[0])
     trimmed_data_list = []
@@ -64,71 +56,30 @@ def make_conll(annotations):
             trimmed_data_list.append((date, doc_dic))
     with open("all_annotations.txt", "w", encoding="utf8") as conll_f:
         for date, doc_dict in trimmed_data_list:
-            # print(date, doc_dict['tokens'], file=conll_f)
-            # print(date, doc_dict[0], file=conll_f)
-            # print(date, doc_dict[1], file=conll_f)
-            # print(date, doc_dict[2], file=conll_f)
-            # print(doc_dict['tokens'])
             for i, tok in enumerate(doc_dict["tokens"]):
-                # print(tok, file=conll_f)
                 token_line = [tok]
-                # if doc_dict[0]:
-                #     print(doc_dict[0][i], file=conll_f)
-                # if doc_dict[1]:
-                #     print()
-                #     print(doc_dict[1][i], file=conll_f)
-                # if doc_dict[2]:
-                #     print(doc_dict[2][i], file=conll_f)
                 for j in range(3):
-                    # print(doc_dict[j])
                     if doc_dict[j]:
-                        # print(doc_dict[j][i], file=conll_f)
                         if tok == "-DOCSTART-":
                             token_line.append("-X-")
                         elif tok:
                             token_line.append(doc_dict[j][i])
                         else:
                             token_line.append("")
-                    # elif doc_dict[j] and i < len(doc_dict[j]):
-                    #     # print(i, tok, len(doc_dict[j]), doc_dict[j][i])
-                    #     token_line.append(doc_dict[j][i])
                     else:
-                        # print(doc_dict[j], file=conll_f)
                         if tok == "-DOCSTART-":
                             token_line.append("-X-")
                         elif tok:
                             token_line.append("N/A")
                         else:
                             token_line.append("")
-
-                        # print(i, tok, doc_dict.keys(), token_line)
-                # print(token_line, file=conll_f)
                 token_str = " ".join(token_line)
                 print(token_str, file=conll_f)
-    # #     document_data = dict()
-    # #     for annotation in doc:
-    # #         i, data = annotation
-    # #         tok_list = []
-    # #         for token in data.split('\n'):
-    # #             if token != DOCSTART[:-2]:
-    # #                 if token:
-    # #                     tok_ = token.split()
-    # #                     tok_list.append((tok_[0], tok_[-1]))
-    # #         document_data[i] = tok_list
-    # #     for annotator in range(3):
-    # #         if
 
 
 def main():
-    # utf_encode = '_utf8.jsonl'
-    # generate the names for the outfiles
-    # outfiles = [filename[:6] + utf_encode for filename in FILES]
-    # change the encoding for each file and create the properly encoded file
-    # change_encoding(PATH+FILES[2], PATH+FILES[2][:-6] + utf_encode)
-    # [change_encoding(PATH + infile, PATH + outfile) for infile, outfile in zip(FILES, outfiles)]
     # read in the properly encoded files
     annotations = [read_file(PATH + filename) for filename in FILES]
-    # annotations.append(read_file(PATH+outfiles[2]))
     make_conll(annotations)
 
 
