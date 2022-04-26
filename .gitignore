@@ -34,7 +34,7 @@ MANIFEST
 *.spec
 
 # the config file
-config.py
+src/data_scraping/config.py
 
 # Installer logs
 pip-log.txt
@@ -76,6 +76,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# DS_Store
+.DS_Store
 
 # Jupyter Notebook
 .ipynb_checkpoints
