@@ -7,7 +7,7 @@ from data_process_utils import (
     match_meta,
 )
 
-FILES = ["aparna_week3.jsonl", "june_week3.jsonl", "ayla_week3_utf8.jsonl"]
+FILES = ["aparna_annotations.jsonl", "june_annotations.jsonl", "ayla_annotations.jsonl"]
 PATH = "annotated_data/"
 METAFILE = "raw_data/cleaned_reviews.json"
 DOCSTART = "-DOCSTART- -X- -X- O\n"

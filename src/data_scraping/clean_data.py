@@ -158,7 +158,7 @@ def find_price(bs):
 
 # Simple function to read a review from disk and parse it using BeautifulSoup
 def get_review(counter):
-    with open("./updated_reviews/review" + str(counter) + ".html", "r") as file:
+    with open("./html_reviews/review" + str(counter) + ".html", "r") as file:
         parsed = BeautifulSoup(file, "html.parser", from_encoding="utf-8")
     return parsed
 
@@ -167,7 +167,7 @@ def get_review(counter):
 # TODO the HTML for ratings, prices, recommended foods has changed.
 #  Do we need this? If so, we will need to figure out which html class they are in now.
 if __name__ == "__main__":
-    with open("../../updated_reviews/url_list.txt", "r") as url_file:
+    with open("../../html_reviews/url_list.txt", "r") as url_file:
         urls = json.load(url_file)
 
     cleaned_reviews = []

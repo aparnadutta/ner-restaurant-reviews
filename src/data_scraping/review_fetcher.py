@@ -110,7 +110,7 @@ def get_reviews(to_fetch, n=10):
     """
     final_url_list = []
     counter = 0
-    DIR_NAME = "../../updated_reviews"
+    DIR_NAME = "../../html_reviews"
     os.makedirs(DIR_NAME, exist_ok=True)
 
     def get_from_list(url_list, final_url_list, counter):
