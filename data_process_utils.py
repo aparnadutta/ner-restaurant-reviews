@@ -7,7 +7,7 @@ from doccano_transformer.datasets import NERDataset
 from doccano_transformer.utils import read_jsonl
 
 
-METAFILE = "updated_data/cleaned_reviews.json"
+METAFILE = "raw_data/cleaned_reviews.json"
 
 
 def read_file(filepath: str) -> Any:

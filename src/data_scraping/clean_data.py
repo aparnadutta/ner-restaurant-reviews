@@ -167,7 +167,7 @@ def get_review(counter):
 # TODO the HTML for ratings, prices, recommended foods has changed.
 #  Do we need this? If so, we will need to figure out which html class they are in now.
 if __name__ == "__main__":
-    with open("../updated_reviews/url_list.txt", "r") as url_file:
+    with open("../../updated_reviews/url_list.txt", "r") as url_file:
         urls = json.load(url_file)
 
     cleaned_reviews = []
@@ -198,11 +198,11 @@ if __name__ == "__main__":
     # The list of such articles is saved here. It ends up being short enough
     # to inspect by hand and see that none of these articles are real reviews
     # with stars
-    os.makedirs("../updated_data", exist_ok=True)
-    with open("../updated_data/unprocessed_URLs.txt", "w") as outfile:
+    os.makedirs("../../raw_data", exist_ok=True)
+    with open("../../raw_data/unprocessed_URLs.txt", "w") as outfile:
         for url in unprocessed_URLS:
             outfile.write(url + "\n")
 
     # Save cleaned reviews for further analysis
-    with open("../updated_data/cleaned_reviews.json", "w") as outfile:
+    with open("../../raw_data/cleaned_reviews.json", "w") as outfile:
         json.dump(cleaned_reviews, outfile)

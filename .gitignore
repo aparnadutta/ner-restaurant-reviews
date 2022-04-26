@@ -34,7 +34,7 @@ MANIFEST
 *.spec
 
 # the config file
-data_scraping/config.py
+src/data_scraping/config.py
 
 # Installer logs
 pip-log.txt

@@ -9,7 +9,7 @@ def main() -> None:
         dicts = json.loads(f.read())
     for d in dicts:
         with open(
-            "updated_data/review_" + str(d["id"]) + ".txt", "w", encoding="utf-8"
+            "raw_data/review_" + str(d["id"]) + ".txt", "w", encoding="utf-8"
         ) as out_f:
             out_f.write(d["review_text"])
 

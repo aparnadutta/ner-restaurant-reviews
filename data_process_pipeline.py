@@ -9,7 +9,7 @@ from data_process_utils import (
 
 FILES = ["aparna_week3.jsonl", "june_week3.jsonl", "ayla_week3_utf8.jsonl"]
 PATH = "annotated_data/"
-METAFILE = "updated_data/cleaned_reviews.json"
+METAFILE = "raw_data/cleaned_reviews.json"
 DOCSTART = "-DOCSTART- -X- -X- O\n"
 
 
