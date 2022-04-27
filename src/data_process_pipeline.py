@@ -8,8 +8,8 @@ from data_process_utils import (
 )
 
 FILES = ["aparna_annotations.jsonl", "june_annotations.jsonl", "ayla_annotations.jsonl"]
-PATH = "annotated_data/"
-METAFILE = "raw_data/cleaned_reviews.json"
+PATH = "data/annotated_data/"
+METAFILE = "data/raw_data/cleaned_reviews.json"
 DOCSTART = "-DOCSTART- -X- -X- O\n"
 
 
