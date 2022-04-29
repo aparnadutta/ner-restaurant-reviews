@@ -1,4 +1,7 @@
-# I want to split to make from previous index to current index when i hit a docstart and I am above 1000 lines
+'''
+Edit script to split on every DOCSTART
+'''
+
 import os
 
 DIRECTORY = 'annotations_split'
