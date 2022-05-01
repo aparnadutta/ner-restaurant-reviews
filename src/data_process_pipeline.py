@@ -44,14 +44,7 @@ def make_conll(annotations, out_path):
                     "tokens"
                 ][: len(data_with_metadata[doc_id][annotator_id])]
 
-    data_list = [
-        (orig_id, data_with_metadata[orig_id])
-        for orig_id in sorted_dates
-        # if (
-        #     sum(1 for tok_anno in data_with_metadata[orig_id].values() if not tok_anno)
-        #     <= 1
-        # )
-    ]
+    data_list = [(orig_id, data_with_metadata[orig_id]) for orig_id in sorted_dates]
 
     with open(out_path, "w", encoding="utf8") as conll_f:
         for date, doc_dict in data_list:
