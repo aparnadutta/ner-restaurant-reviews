@@ -1,5 +1,5 @@
--DOCSTART- -X- -X- -X-
-   
+-DOCSTART- -X- -X- O
+
 Some O O N/A
 restaurants O O N/A
 hit O O N/A
@@ -1035,10 +1035,10 @@ for O O N/A
 a O O N/A
 new O O N/A
 challenge. O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Nobody O O N/A
 goes O O N/A
 to O O N/A
@@ -2140,10 +2140,10 @@ but O O N/A
 this O O N/A
 isn't O O N/A
 Rome. O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 A O O N/A
 new O O N/A
 restaurant O O N/A
@@ -3305,10 +3305,10 @@ a O O N/A
 few O O N/A
 of O O N/A
 them. O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 A O O N/A
 little O O N/A
 skepticism O O N/A
@@ -4479,10 +4479,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 I O O N/A
 was O O N/A
 drinking O O N/A
@@ -5580,10 +5580,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Can O O N/A
 anybody O O N/A
 who O O N/A
@@ -6711,10 +6711,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Ever O O N/A
 since O O N/A
 Rich O O N/A
@@ -7881,10 +7881,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Anthony O O N/A
 Bourdain O O N/A
 entered O O N/A
@@ -8841,10 +8841,10 @@ anything, O O N/A
 it O O N/A
 is O O N/A
 doubt." O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 At O O N/A
 some O O N/A
 fateful O O N/A
@@ -10018,10 +10018,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Real O O N/A
 estate O O N/A
 developers O O N/A
@@ -11309,10 +11309,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 There N/A O O
 isn't N/A O O
 another N/A O O
@@ -12352,10 +12352,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Coco N/A B-EST B-EST
 Pazzo N/A I-EST I-EST
 is N/A O O
@@ -13483,10 +13483,10 @@ to N/A O O
 smear N/A O O
 it N/A O O
 on. N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 First N/A O O
 he N/A O O
 cracked N/A O O
@@ -14163,10 +14163,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Flynn N/A O O
 McGarry N/A O O
 arrived N/A O O
@@ -15380,10 +15380,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The N/A O O
 rustic N/A O O
 little N/A O O
@@ -16488,10 +16488,10 @@ in N/A O O
 the N/A O O
 East N/A O O
 Village. N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 There O N/A O
 was O N/A O
 a O N/A O
@@ -17773,10 +17773,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Considering O N/A O
 the O N/A O
 history, O N/A O
@@ -18876,10 +18876,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 "People O N/A O
 always O N/A O
 say O N/A O
@@ -20133,10 +20133,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Sometimes O N/A O
 when O N/A O
 I O N/A O
@@ -21369,10 +21369,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 During O N/A O
 the O N/A O
 five O N/A O
@@ -22546,10 +22546,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Shrinking O N/A O
 modesty O N/A O
 is O N/A O
@@ -23700,10 +23700,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 A O N/A O
 card O N/A O
 is O N/A O
@@ -24925,10 +24925,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The O N/A O
 rise O N/A O
 of O N/A O
@@ -26141,10 +26141,10 @@ down O N/A O
 in O N/A O
 New O N/A O
 York. O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Earlier O N/A O
 this O N/A O
 year O N/A O
@@ -27383,10 +27383,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 For O N/A O
 most O N/A O
 of O N/A O
@@ -28629,10 +28629,10 @@ glows O N/A O
 like O N/A O
 a O N/A O
 beacon. O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Almost O O N/A
 everybody O O N/A
 is O O N/A
@@ -29785,10 +29785,10 @@ you're O O N/A
 going O O N/A
 to O O N/A
 have. O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Something O O N/A
 has O O N/A
 been O O N/A
@@ -31021,10 +31021,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Alex O O N/A
 Raij O O N/A
 and O O N/A
@@ -32136,10 +32136,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 There O O N/A
 is O O N/A
 a O O N/A
@@ -33521,10 +33521,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Something O O N/A
 seems O O N/A
 to O O N/A
@@ -34638,10 +34638,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Americans O O N/A
 who O O N/A
 weren't O O N/A
@@ -35723,10 +35723,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The O O N/A
 fancy O O N/A
 mall O O N/A
@@ -36936,10 +36936,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Dated O O N/A
 was O O N/A
 the O O N/A
@@ -38051,10 +38051,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The O O N/A
 nice O O N/A
 man O O N/A
@@ -39428,10 +39428,10 @@ of O O N/A
 the O O N/A
 food O O N/A
 chain. O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 New B-LOC B-LOC N/A
 York I-LOC I-LOC N/A
 used O O N/A
@@ -40574,10 +40574,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Need N/A O O
 opinions N/A O O
 on N/A O O
@@ -42094,10 +42094,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Cherry N/A B-EST B-EST
 Point N/A I-EST I-EST
 sits N/A O O
@@ -43336,10 +43336,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 It N/A O O
 is N/A O O
 a N/A O O
@@ -43696,10 +43696,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The N/A O O
 great N/A O O
 Midtown N/A B-LOC B-LOC
@@ -44887,10 +44887,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Part N/A O O
 of N/A O O
 the N/A O O
@@ -46088,10 +46088,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The N/A O O
 main N/A O O
 attraction N/A O O
@@ -47272,10 +47272,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 For N/A O O
 an N/A O O
 operation N/A O O
@@ -47653,10 +47653,10 @@ tons N/A I-FOOD I-FOOD
 like N/A O O
 comets' N/A O O
 tails. N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The N/A O O
 best N/A O O
 way N/A O O
@@ -48793,10 +48793,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Before N/A O O
 I N/A O O
 tell N/A O O
@@ -50142,10 +50142,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 I'm O N/A O
 starting O N/A O
 to O N/A O
@@ -51543,10 +51543,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Looking O N/A O
 around O N/A O
 Haenyeo's B-EST N/A B-EST
@@ -52612,10 +52612,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 In O N/A O
 2012 O N/A O
 and O N/A O
@@ -53786,10 +53786,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 If O N/A O
 you O N/A O
 ate O N/A O
@@ -54902,10 +54902,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 It O N/A O
 is O N/A O
 true O N/A O
@@ -56125,10 +56125,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 How O N/A O
 clam B-FOOD N/A B-DISH
 pizza, I-FOOD N/A I-DISH
@@ -56500,10 +56500,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 More O N/A O
 than O N/A O
 a O N/A O
@@ -58176,10 +58176,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Hanon, B-LOC N/A B-EST
 a O N/A O
 new O N/A O
@@ -59244,10 +59244,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 You O N/A O
 will O N/A O
 find O N/A O
@@ -60408,10 +60408,10 @@ and O N/A O
 shopping O N/A O
 advice O N/A O
 . O N/A O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 One O O N/A
 of O O N/A
 the O O N/A
@@ -61649,10 +61649,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Good O O N/A
 restaurants O O N/A
 don't O O N/A
@@ -62796,10 +62796,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 When O O N/A
 a O O N/A
 batch O O N/A
@@ -64017,10 +64017,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Talking O O N/A
 about O O N/A
 how O O N/A
@@ -65358,10 +65358,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 "Does O O N/A
 the O O N/A
 sheep's B-DISH B-DISH N/A
@@ -66553,10 +66553,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The O O N/A
 chef O O N/A
 John O O N/A
@@ -67818,10 +67818,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 The O O N/A
 high O O N/A
 cost O O N/A
@@ -69111,10 +69111,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Sooner O O N/A
 or O O N/A
 later, O O N/A
@@ -70371,10 +70371,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Some O O N/A
 restaurants O O N/A
 push O O N/A
@@ -71571,10 +71571,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 In O O N/A
 the O O N/A
 fall O O N/A
@@ -72782,10 +72782,10 @@ and O O N/A
 shopping O O N/A
 advice O O N/A
 . O O N/A
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 New N/A B-LOC B-LOC
 York N/A I-LOC I-LOC
 is N/A O O
@@ -74058,10 +74058,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Four N/A O O
 summers N/A O O
 ago, N/A O O
@@ -75191,10 +75191,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 There N/A O O
 are N/A O O
 no N/A O O
@@ -76360,9 +76360,9 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O 
-   
--DOCSTART- -X- -X- -X-
-   
+
+-DOCSTART- -X- -X- O
+
 Last N/A O O
 month N/A O O
 I N/A O O
@@ -77568,10 +77568,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Billy N/A O O
 Durney, N/A O O
 the N/A O O
@@ -78831,10 +78831,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 For N/A O O
 a N/A O O
 long N/A O O
@@ -80136,10 +80136,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Over N/A O O
 the N/A O O
 years, N/A O O
@@ -81180,10 +81180,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 Tsismis N/A B-EST B-EST
 is N/A O O
 the N/A O O
@@ -82264,10 +82264,10 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
--DOCSTART- -X- -X- -X-
-   
+
+
+-DOCSTART- -X- -X- O
+
 I N/A O O
 can N/A O O
 count N/A O O
@@ -83600,5 +83600,5 @@ and N/A O O
 shopping N/A O O
 advice N/A O O
 . N/A O O
-   
-   
+
+
