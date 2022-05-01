@@ -47,10 +47,10 @@ def make_conll(annotations, out_path):
     data_list = [
         (orig_id, data_with_metadata[orig_id])
         for orig_id in sorted_dates
-        if (
-            sum(1 for tok_anno in data_with_metadata[orig_id].values() if not tok_anno)
-            <= 1
-        )
+        # if (
+        #     sum(1 for tok_anno in data_with_metadata[orig_id].values() if not tok_anno)
+        #     <= 1
+        # )
     ]
 
     with open(out_path, "w", encoding="utf8") as conll_f:
@@ -73,7 +73,7 @@ def make_conll(annotations, out_path):
 def main():
     # read in the properly encoded files
     annotated_files = [read_file(PATH + filename) for filename in FILES]
-    make_conll(annotated_files, "../UPDATED_all_annotations.txt")
+    make_conll(annotated_files, "../90_UPDATED_all_annotations.txt")
 
 
 if __name__ == "__main__":
