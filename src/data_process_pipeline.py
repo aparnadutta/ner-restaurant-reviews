@@ -1,12 +1,7 @@
 import json
 import jsonlines
 from collections import defaultdict
-from data_process_utils import (
-    read_file,
-    change_encoding,
-    match_meta,
-    get_date
-)
+from data_process_utils import read_file, change_encoding, match_meta, get_date
 
 FILES = ["aparna_annotations.jsonl", "june_annotations.jsonl", "ayla_annotations.jsonl"]
 PATH = "../data/annotated_data/"
@@ -20,11 +15,13 @@ def make_conll(annotations, out_path):
         for line in f:
             metadata = json.loads(line)
 
-    orig_id_to_date = {(md['id'], get_date(md["review_url"])) for md in metadata}
+    orig_id_to_date = {(md["id"], get_date(md["review_url"])) for md in metadata}
     sorted_dates = sorted(orig_id_to_date, key=lambda y: y[1])
     sorted_dates = [sd[0] for sd in sorted_dates]
 
-    data_with_metadata = defaultdict(lambda: defaultdict(dict, {k: [] for k in (0, 1, 2, "tokens")}))
+    data_with_metadata = defaultdict(
+        lambda: defaultdict(dict, {k: [] for k in (0, 1, 2, "tokens")})
+    )
 
     for annotator_id, annotation in enumerate(annotations):
         for doc in annotation:
@@ -33,29 +30,31 @@ def make_conll(annotations, out_path):
 
             # date = meta_doc["date"]
             for tok_tag_row in meta_doc["data"].split("\n"):
-                if len(tok_tag_row.split()) > 1:   # if the line contains a token and tag
+                if len(tok_tag_row.split()) > 1:  # if the line contains a token and tag
                     tok, _, _, tag = tok_tag_row.split()
                     data_with_metadata[doc_id]["tokens"].append(tok)
                     data_with_metadata[doc_id][annotator_id].append(tag)
-                else:   # if the line is a DOCSTART or newline
+                else:  # if the line is a DOCSTART or newline
                     data_with_metadata[doc_id]["tokens"].append(tok_tag_row)
-                    data_with_metadata[doc_id][annotator_id].append("")   # append empty string to keep lists same length
+                    data_with_metadata[doc_id][annotator_id].append(
+                        ""
+                    )  # append empty string to keep lists same length
             if data_with_metadata[doc_id][annotator_id]:
-                data_with_metadata[doc_id]["tokens"] = data_with_metadata[doc_id]["tokens"][: len(data_with_metadata[doc_id][annotator_id])]
+                data_with_metadata[doc_id]["tokens"] = data_with_metadata[doc_id][
+                    "tokens"
+                ][: len(data_with_metadata[doc_id][annotator_id])]
 
-    data_list = [(orig_id, data_with_metadata[orig_id]) for orig_id in sorted_dates]
-
-    trimmed_data_list = []
-    for original_id, doc_dic in data_list:
-        empty_sum = 0
-        for val in doc_dic.values():
-            if not val:
-                empty_sum += 1
-        if empty_sum <= 1:
-            trimmed_data_list.append((original_id, doc_dic))
+    data_list = [
+        (orig_id, data_with_metadata[orig_id])
+        for orig_id in sorted_dates
+        if (
+            sum(1 for tok_anno in data_with_metadata[orig_id].values() if not tok_anno)
+            <= 1
+        )
+    ]
 
     with open(out_path, "w", encoding="utf8") as conll_f:
-        for date, doc_dict in trimmed_data_list:
+        for date, doc_dict in data_list:
             for i, tok in enumerate(doc_dict["tokens"]):
                 if tok == "-DOCSTART-":
                     token_line = ["-DOCSTART-", "-X-", "-X-", "O"]

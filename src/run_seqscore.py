@@ -14,5 +14,5 @@ def run_seqscore():
                 os.system(command)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     run_seqscore()

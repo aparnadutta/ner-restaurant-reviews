@@ -1,7 +1,7 @@
 # I want to split to make from previous index to current index when i hit a docstart and I am above 1000 lines
 import os
 
-DIRECTORY = 'annotations_split'
+DIRECTORY = "annotations_split"
 
 
 def main():
@@ -12,10 +12,12 @@ def main():
                 end_index = i
             if end_index - start_index > 1000:
                 start_index = end_index
-            with open(f"{DIRECTORY}/annotation_{str(start_index + 1)}.txt", "a") as write_file:
+            with open(
+                f"{DIRECTORY}/annotation_{str(start_index + 1)}.txt", "a"
+            ) as write_file:
                 write_file.write(line)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     os.makedirs(DIRECTORY)
     main()
