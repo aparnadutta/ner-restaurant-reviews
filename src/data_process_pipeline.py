@@ -24,17 +24,6 @@ def make_conll(annotations, out_path):
     sorted_dates = sorted(orig_id_to_date, key=lambda y: y[1])
     sorted_dates = [sd[0] for sd in sorted_dates]
 
-    # for date in sorted_dates:
-    #     print(date)
-
-    # all_dates = {}
-    # for md in metadata:
-    #     date = get_date(md["review_url"])
-    #     if date in all_dates:
-    #         print(md['id'])
-    #     else:
-    #         all_dates[date] = md['id']
-
     data_with_metadata = defaultdict(lambda: defaultdict(dict, {k: [] for k in (0, 1, 2, "tokens")}))
 
     for annotator_id, annotation in enumerate(annotations):
@@ -55,17 +44,15 @@ def make_conll(annotations, out_path):
                 data_with_metadata[doc_id]["tokens"] = data_with_metadata[doc_id]["tokens"][: len(data_with_metadata[doc_id][annotator_id])]
 
     data_list = [(orig_id, data_with_metadata[orig_id]) for orig_id in sorted_dates]
-    # data_list = list(data_with_metadata.items())
-    # data_list.sort(key=lambda y: y[0])
 
     trimmed_data_list = []
-    for date, doc_dic in data_list:
+    for original_id, doc_dic in data_list:
         empty_sum = 0
         for val in doc_dic.values():
             if not val:
                 empty_sum += 1
-        if empty_sum == 1:
-            trimmed_data_list.append((date, doc_dic))
+        if empty_sum <= 1:
+            trimmed_data_list.append((original_id, doc_dic))
 
     with open(out_path, "w", encoding="utf8") as conll_f:
         for date, doc_dict in trimmed_data_list:
