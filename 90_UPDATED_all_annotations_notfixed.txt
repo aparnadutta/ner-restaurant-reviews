@@ -42,7 +42,7 @@ ago O N/A N/A
 as O N/A N/A
 mastodons O N/A N/A
 like O N/A N/A
-Lut_ce O N/A N/A
+Lutèce O N/A N/A
 lumbered O N/A N/A
 into O N/A N/A
 the O N/A N/A
@@ -141,7 +141,7 @@ doors O N/A N/A
 at O N/A N/A
 a O N/A N/A
 new O N/A N/A
-Proven_al B-CUISINE N/A N/A
+Provençal B-CUISINE N/A N/A
 spot O N/A N/A
 called O N/A N/A
 Claudette B-EST N/A N/A
@@ -229,7 +229,7 @@ always O N/A N/A
 walking O N/A N/A
 a O N/A N/A
 bichon O N/A N/A
-fris_. O N/A N/A
+frisé. O N/A N/A
 Inside, O N/A N/A
 Claudette B-EST N/A N/A
 looks O N/A N/A
@@ -905,7 +905,7 @@ a O N/A N/A
 chocolate O N/A N/A
 pot O N/A N/A
 de O N/A N/A
-cr_me O N/A N/A
+crème O N/A N/A
 with O N/A N/A
 harissa O N/A N/A
 was O N/A N/A
@@ -1111,8 +1111,8 @@ the O N/A N/A
 hora O N/A N/A
 was O N/A N/A
 the O N/A N/A
-ma_tre O N/A N/A
-d'h_tel O N/A N/A
+maître O N/A N/A
+d'hôtel O N/A N/A
 of O N/A N/A
 Per B-EST N/A N/A
 Se? I-EST N/A N/A
@@ -1269,7 +1269,7 @@ enough O N/A N/A
 to O N/A N/A
 inspect O N/A N/A
 the O N/A N/A
-d_cor. O N/A N/A
+décor. O N/A N/A
 (Known O N/A N/A
 for O N/A N/A
 selling O N/A N/A
@@ -1525,7 +1525,7 @@ ends, O N/A N/A
 not O N/A N/A
 with O N/A N/A
 "bon O N/A N/A
-app_tit" O N/A N/A
+appétit" O N/A N/A
 or O N/A N/A
 "enjoy O N/A N/A
 your O N/A N/A
@@ -2634,7 +2634,7 @@ side O N/A N/A
 dish O N/A N/A
 of O N/A N/A
 pommes B-FOOD N/A N/A
-souffl_es, I-FOOD N/A N/A
+soufflées, I-FOOD N/A N/A
 like O N/A N/A
 inflatable O N/A N/A
 potato O N/A N/A
@@ -2794,7 +2794,7 @@ done O N/A N/A
 right; O N/A N/A
 a O N/A N/A
 salade O N/A N/A
-ni_oise O N/A N/A
+niçoise O N/A N/A
 that O N/A N/A
 pays O N/A N/A
 attention O N/A N/A
@@ -2861,7 +2861,7 @@ skate O N/A N/A
 Grenobloise O N/A N/A
 (billed O N/A N/A
 as O N/A N/A
-meuni_re) O N/A N/A
+meunière) O N/A N/A
 anything O N/A N/A
 that O N/A N/A
 it O N/A N/A
@@ -2954,12 +2954,12 @@ the O N/A N/A
 mocha O N/A N/A
 pot O N/A N/A
 de O N/A N/A
-cr_me, O N/A N/A
+crème, O N/A N/A
 the O N/A N/A
 small O N/A N/A
 pink O N/A N/A
 raspberry O N/A N/A
-souffl_ O N/A N/A
+soufflé O N/A N/A
 hovering O N/A N/A
 above O N/A N/A
 a O N/A N/A
@@ -3114,7 +3114,7 @@ bistro. O N/A N/A
 Cherche O N/A N/A
 Midi's O N/A N/A
 salade O N/A N/A
-ni_oise O N/A N/A
+niçoise O N/A N/A
 is O N/A N/A
 delicious O N/A N/A
 from O N/A N/A
@@ -3519,7 +3519,7 @@ on O N/A N/A
 sliced O N/A N/A
 baguettes B-FOOD N/A N/A
 with O N/A N/A
-piment_n B-FOOD N/A N/A
+pimentón B-FOOD N/A N/A
 aioli. I-FOOD N/A N/A
 "All O N/A N/A
 the O N/A N/A
@@ -3618,7 +3618,7 @@ a O N/A N/A
 restaurant O N/A N/A
 in O N/A N/A
 San B-LOC N/A N/A
-Sebasti_n, I-LOC N/A N/A
+Sebastián, I-LOC N/A N/A
 where O N/A N/A
 the O N/A N/A
 chef O N/A N/A
@@ -4059,7 +4059,7 @@ tapas O N/A N/A
 bar O N/A N/A
 in O N/A N/A
 San B-LOC N/A N/A
-Sebasti_n, I-LOC N/A N/A
+Sebastián, I-LOC N/A N/A
 sharp, O N/A N/A
 clean O N/A N/A
 and O N/A N/A
@@ -4082,7 +4082,7 @@ a O N/A N/A
 blistered O N/A N/A
 mound O N/A N/A
 of O N/A N/A
-Padr_n B-DISH N/A N/A
+Padrón B-DISH N/A N/A
 peppers I-DISH N/A N/A
 and I-DISH N/A N/A
 garlic I-DISH N/A N/A
@@ -4134,7 +4134,7 @@ cooked O N/A N/A
 quickly O N/A N/A
 with O N/A N/A
 crisp-chewy O N/A N/A
-piment_n-cured B-FOOD N/A N/A
+pimentón-cured B-FOOD N/A N/A
 bacon. I-FOOD N/A N/A
 The O N/A N/A
 yolk, B-FOOD N/A N/A
@@ -4165,7 +4165,7 @@ pale-green, O N/A N/A
 herbaceous O N/A N/A
 sauce O N/A N/A
 of O N/A N/A
-pur_ed O N/A N/A
+puréed O N/A N/A
 turnip O N/A N/A
 greens O N/A N/A
 and O N/A N/A
@@ -4191,7 +4191,7 @@ the O N/A N/A
 next O N/A N/A
 course, O N/A N/A
 wonderful O N/A N/A
-garlic-and-piment_n-scented O N/A N/A
+garlic-and-pimentón-scented O N/A N/A
 lamb O N/A N/A
 hot O N/A N/A
 dogs O N/A N/A
@@ -4373,7 +4373,7 @@ at O N/A N/A
 his O N/A N/A
 new O N/A N/A
 restaurant, O N/A N/A
-_lan, B-EST N/A N/A
+Élan, B-EST N/A N/A
 can O N/A N/A
 be O N/A N/A
 a O N/A N/A
@@ -4515,7 +4515,7 @@ usually O N/A N/A
 your O N/A N/A
 thing. O N/A N/A
 At O N/A N/A
-_lan B-EST N/A N/A
+Élan B-EST N/A N/A
 , O N/A N/A
 which O N/A N/A
 Mr. O N/A N/A
@@ -4552,7 +4552,7 @@ Oxford O N/A N/A
 English O N/A N/A
 Dictionary, O N/A N/A
 but O N/A N/A
-_lan's B-EST N/A N/A
+Élan's B-EST N/A N/A
 fits O N/A N/A
 on O N/A N/A
 four O N/A N/A
@@ -4772,7 +4772,7 @@ to O N/A N/A
 stay O N/A N/A
 predictable. O N/A N/A
 At O N/A N/A
-_lan, B-EST N/A N/A
+Élan, B-EST N/A N/A
 Mr. O N/A N/A
 Waltuck O N/A N/A
 gets O N/A N/A
@@ -4966,7 +4966,7 @@ doorbell, O N/A N/A
 either.) O N/A N/A
 Servers O N/A N/A
 at O N/A N/A
-_lan O N/A N/A
+Élan O N/A N/A
 will O N/A N/A
 announce O N/A N/A
 conspiratorially O N/A N/A
@@ -5025,7 +5025,7 @@ pay O N/A N/A
 off. O N/A N/A
 At O N/A N/A
 times, O N/A N/A
-_lan O N/A N/A
+Élan O N/A N/A
 seems O N/A N/A
 a O N/A N/A
 little O N/A N/A
@@ -5057,7 +5057,7 @@ past O N/A N/A
 decade. O N/A N/A
 One O N/A N/A
 of O N/A N/A
-_lan's O N/A N/A
+Élan's O N/A N/A
 least O N/A N/A
 pleasant O N/A N/A
 dishes O N/A N/A
@@ -5091,7 +5091,7 @@ closed, O N/A N/A
 of O N/A N/A
 course, O N/A N/A
 but O N/A N/A
-_lan O N/A N/A
+Élan O N/A N/A
 is O N/A N/A
 at O N/A N/A
 its O N/A N/A
@@ -5210,7 +5210,7 @@ most O N/A N/A
 delicious O N/A N/A
 things O N/A N/A
 at O N/A N/A
-_lan. O N/A N/A
+Élan. O N/A N/A
 I O N/A N/A
 enjoyed O N/A N/A
 Mr. O N/A N/A
@@ -5225,7 +5225,7 @@ enjoyed O N/A N/A
 them O N/A N/A
 again O N/A N/A
 at O N/A N/A
-_lan, O N/A N/A
+Élan, O N/A N/A
 where O N/A N/A
 they O N/A N/A
 were O N/A N/A
@@ -5244,8 +5244,8 @@ very O N/A N/A
 fresh, O N/A N/A
 clean-tasting O N/A N/A
 lemon O N/A N/A
-cr_me O N/A N/A
-fra_che. O N/A N/A
+crème O N/A N/A
+fraîche. O N/A N/A
 With O N/A N/A
 dishes O N/A N/A
 that O N/A N/A
@@ -5254,7 +5254,7 @@ for O N/A N/A
 lightness O N/A N/A
 and O N/A N/A
 delicacy, O N/A N/A
-_lan O N/A N/A
+Élan O N/A N/A
 comes O N/A N/A
 into O N/A N/A
 its O N/A N/A
@@ -5630,7 +5630,7 @@ time. O N/A N/A
 Besides O N/A N/A
 a O N/A N/A
 sizable O N/A N/A
-_ O N/A N/A
+à O N/A N/A
 la O N/A N/A
 carte O N/A N/A
 menu, O N/A N/A
@@ -7859,7 +7859,7 @@ swooshes O N/A N/A
 of O N/A N/A
 ultra-blended O N/A N/A
 vegetable B-FOOD N/A N/A
-pur_es; I-FOOD N/A N/A
+purées; I-FOOD N/A N/A
 the O N/A N/A
 green O N/A N/A
 leaves B-FOOD N/A N/A
@@ -8499,7 +8499,7 @@ meals, O N/A N/A
 when O N/A N/A
 the O N/A N/A
 carrot-miso O N/A N/A
-pur_e O N/A N/A
+purée O N/A N/A
 accompanying O N/A N/A
 seared O N/A N/A
 scallops O N/A N/A
@@ -10277,7 +10277,7 @@ her O O N/A
 exemplary O O N/A
 falafel B-FOOD B-TYPE N/A
 shops, O I-TYPE N/A
-Ta_m B-EST B-EST N/A
+Taïm B-EST B-EST N/A
 , O O N/A
 and O O N/A
 to O O N/A
@@ -10356,7 +10356,7 @@ A O O N/A
 swipe O O N/A
 of O O N/A
 corn B-FOOD B-FOOD N/A
-pur_e I-FOOD I-FOOD N/A
+purée I-FOOD I-FOOD N/A
 takes O O N/A
 its O O N/A
 seductive, O O N/A
@@ -10793,8 +10793,8 @@ of O O N/A
 living. O O N/A
 The O O N/A
 halvah B-DISH B-DISH N/A
-cr_me I-DISH I-DISH N/A
-br_l_e I-DISH I-DISH N/A
+crème I-DISH I-DISH N/A
+brûlée I-DISH I-DISH N/A
 tastes O O N/A
 more O O N/A
 like O O N/A
@@ -11495,7 +11495,7 @@ of O N/A N/A
 the O N/A N/A
 Manhattan B-LOC N/A N/A
 restaurant O N/A N/A
-B_tard B-EST N/A N/A
+Bâtard B-EST N/A N/A
 and O N/A N/A
 a O N/A N/A
 polished O N/A N/A
@@ -11652,7 +11652,7 @@ in O N/A N/A
 the O N/A N/A
 kitchen O N/A N/A
 ask, O N/A N/A
-_Can O N/A N/A
+‘Can O N/A N/A
 I O N/A N/A
 help, O N/A N/A
 or O N/A N/A
@@ -13274,7 +13274,7 @@ bread O O N/A
 crumbs O O N/A
 around O O N/A
 green O O N/A
-suppl_ O O N/A
+supplì O O N/A
 shaped O O N/A
 from O O N/A
 very O O N/A
@@ -13319,7 +13319,7 @@ and O O N/A
 a O O N/A
 cup O O N/A
 of O O N/A
-tiramis_ O O N/A
+tiramisù O O N/A
 that's O O N/A
 bracingly O O N/A
 drenched O O N/A
@@ -13364,9 +13364,9 @@ a O O N/A
 $66 O O N/A
 Roger O O N/A
 Pouillon O O N/A
-Cuv_e O O N/A
+Cuvée O O N/A
 de O O N/A
-R_serve O O N/A
+Réserve O O N/A
 to O O N/A
 some O O N/A
 $300-plus O O N/A
@@ -13772,7 +13772,7 @@ of O O N/A
 levain B-FOOD O N/A
 or O O N/A
 baguette B-FOOD O N/A
-_ I-FOOD O N/A
+à I-FOOD O N/A
 l'ancienne I-FOOD O N/A
 in O O N/A
 favor O O N/A
@@ -13813,7 +13813,7 @@ olive B-FOOD O N/A
 oil, I-FOOD O N/A
 buried O O N/A
 under O O N/A
-Proven_al B-FOOD O N/A
+Provençal B-FOOD O N/A
 herbs I-FOOD O N/A
 and O O N/A
 sent O O N/A
@@ -14242,7 +14242,7 @@ added O O N/A
 brawn O O N/A
 to O O N/A
 a O O N/A
-fris_e O O N/A
+frisée O O N/A
 and O O N/A
 lardons O O N/A
 salad, O O N/A
@@ -14307,7 +14307,7 @@ A O O N/A
 beautifully O O N/A
 cooked O O N/A
 trout O O N/A
-meuni_re O O N/A
+meunière O O N/A
 was O O N/A
 speckled O O N/A
 with O O N/A
@@ -14394,7 +14394,7 @@ not? O O N/A
 It O O N/A
 continues O O N/A
 when O O N/A
-Lela_ea O O N/A
+Lelañea O O N/A
 Fulton, O O N/A
 who O O N/A
 assembled O O N/A
@@ -14426,7 +14426,7 @@ as O O N/A
 a O O N/A
 sommelier. O O N/A
 Old O O N/A
-Ch_teauneuf-du-Pape? O O N/A
+Châteauneuf-du-Pape? O O N/A
 Sure. O O N/A
 It O O N/A
 goes O O N/A
@@ -14660,7 +14660,7 @@ straight O O N/A
 line O O N/A
 from O O N/A
 his O O N/A
-r_sum_ O O N/A
+résumé O O N/A
 to O O N/A
 what's O O N/A
 on O O N/A
@@ -18120,7 +18120,7 @@ the O O N/A
 high-glitz O O N/A
 Italian B-CUISINE B-CUISINE N/A
 restaurant O O N/A
-d_cor O O N/A
+décor O O N/A
 of O O N/A
 the O O N/A
 1970s O O N/A
@@ -18843,7 +18843,7 @@ the O O N/A
 garganelli O O N/A
 with O O N/A
 meatball O O N/A
-rag_. O O N/A
+ragù. O O N/A
 The O O N/A
 central O O N/A
 problem O O N/A
@@ -18883,7 +18883,7 @@ meatballs O O N/A
 into O O N/A
 a O O N/A
 tomato-guanciale O O N/A
-rag_. O O N/A
+ragù. O O N/A
 It's O O N/A
 not O O N/A
 quite O O N/A
@@ -18997,7 +18997,7 @@ as O O N/A
 the O O N/A
 sauce. O O N/A
 Reworking O O N/A
-tiramis_ O O N/A
+tiramisù O O N/A
 almost O O N/A
 never O O N/A
 improves O O N/A
@@ -19614,7 +19614,7 @@ is O O N/A
 Dead O O N/A
 at O O N/A
 61 O O N/A
-_ O O N/A
+‘ O O N/A
 Tony O O N/A
 Was O O N/A
 a O O N/A
@@ -19884,7 +19884,7 @@ which O O N/A
 my O O N/A
 work O O N/A
 in O O N/A
-_Kitchen O O N/A
+‘Kitchen O O N/A
 Confidential' O O N/A
 celebrated O O N/A
 or O O N/A
@@ -20459,7 +20459,7 @@ and O O N/A
 quietly O O N/A
 addressed O O N/A
 a O O N/A
-saut_ O O N/A
+sauté O O N/A
 pan O O N/A
 over O O N/A
 the O O N/A
@@ -20795,7 +20795,7 @@ assortment O O N/A
 of O O N/A
 condiments O O N/A
 and O O N/A
-pur_es O O N/A
+purées O O N/A
 that O O N/A
 she O O N/A
 makes O O N/A
@@ -21354,8 +21354,8 @@ projects O O N/A
 from O O N/A
 David O O N/A
 Chang, O O N/A
-Jos_ O O N/A
-Andr_s O O N/A
+José O O N/A
+Andrés O O N/A
 and O O N/A
 others, O O N/A
 all O O N/A
@@ -21921,7 +21921,7 @@ with O O N/A
 swooshes O O N/A
 of O O N/A
 nettle O O N/A
-pur_e. O O N/A
+purée. O O N/A
 It O O N/A
 is O O N/A
 at O O N/A
@@ -25834,7 +25834,7 @@ eel N/A I-DISH N/A
 beignets N/A I-DISH N/A
 with N/A O N/A
 a N/A O N/A
-cr_me-fra_che N/A B-FOOD N/A
+crème-fraîche N/A B-FOOD N/A
 ranch N/A I-FOOD N/A
 dressing N/A I-FOOD N/A
 called N/A O N/A
@@ -26273,7 +26273,7 @@ chefs, N/A O N/A
 Jeremiah N/A O N/A
 Stone N/A O N/A
 and N/A O N/A
-Fabi_n N/A O N/A
+Fabián N/A O N/A
 von N/A O N/A
 Hauske N/A O N/A
 Valtierra, N/A O N/A
@@ -27046,7 +27046,7 @@ tried N/A O N/A
 -- N/A O N/A
 a N/A O N/A
 bittersweet N/A O N/A
-tiramis_ N/A O N/A
+tiramisù N/A O N/A
 with N/A O N/A
 a N/A O N/A
 welcome N/A O N/A
@@ -27434,7 +27434,7 @@ intuitive. N/A O N/A
 Una N/A O N/A
 Pizza N/A O N/A
 Napoletana N/A O N/A
-_ N/A O N/A
+★ N/A O N/A
 175 N/A O N/A
 Orchard N/A O N/A
 Street N/A O N/A
@@ -27489,7 +27489,7 @@ full. N/A O N/A
 Recommended N/A O N/A
 All N/A O N/A
 pizzas; N/A O N/A
-tiramis_; N/A O N/A
+tiramisù; N/A O N/A
 ice N/A O N/A
 cream. N/A O N/A
 Drinks N/A O N/A
@@ -27949,7 +27949,7 @@ a N/A O N/A
 little N/A O N/A
 empty N/A O N/A
 now. N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 Here's N/A O N/A
 his N/A O N/A
 obituary N/A O N/A
@@ -27977,7 +27977,7 @@ Los N/A O N/A
 Angeles N/A O N/A
 Times N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 Here's N/A O N/A
 our N/A O N/A
 restaurant N/A O N/A
@@ -28016,7 +28016,7 @@ New N/A O N/A
 York N/A O N/A
 Times N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 Gustavo N/A O N/A
 Arellano N/A O N/A
 writes N/A O N/A
@@ -28035,7 +28035,7 @@ important N/A O N/A
 literary N/A O N/A
 voices N/A O N/A
 ." N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 Ruth N/A O N/A
 Reichl N/A O N/A
 reminds N/A O N/A
@@ -28068,7 +28068,7 @@ good N/A O N/A
 you'd N/A O N/A
 forgive N/A O N/A
 him. N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 The N/A O N/A
 chef N/A O N/A
 Kris N/A O N/A
@@ -28091,7 +28091,7 @@ came N/A O N/A
 to N/A O N/A
 visit N/A O N/A
 . N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 And N/A O N/A
 Eater N/A O N/A
 lets N/A O N/A
@@ -28105,7 +28105,7 @@ his N/A O N/A
 own N/A O N/A
 words N/A O N/A
 . N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 On N/A O N/A
 N.W.A., N/A O N/A
 for N/A O N/A
@@ -28114,7 +28114,7 @@ Weekly N/A O N/A
 , N/A O N/A
 in N/A O N/A
 1989. N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 On N/A O N/A
 Dr. N/A O N/A
 Dre N/A O N/A
@@ -28127,7 +28127,7 @@ Stone N/A O N/A
 , N/A O N/A
 in N/A O N/A
 1993. N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 Mr. N/A O N/A
 Gold N/A O N/A
 wrote N/A O N/A
@@ -28147,7 +28147,7 @@ city N/A O N/A
 apart N/A O N/A
 in N/A O N/A
 1992. N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 He N/A O N/A
 famously N/A O N/A
 ate N/A O N/A
@@ -28168,7 +28168,7 @@ for N/A O N/A
 L.A. N/A O N/A
 Weekly N/A O N/A
 . N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 Here N/A O N/A
 is N/A O N/A
 the N/A O N/A
@@ -28185,7 +28185,7 @@ Pulitzer N/A O N/A
 Prize N/A O N/A
 in N/A O N/A
 criticism. N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 And N/A O N/A
 here's N/A O N/A
 a N/A O N/A
@@ -28211,7 +28211,7 @@ limited N/A O N/A
 access N/A O N/A
 for N/A O N/A
 nonsubscribers.) N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 A N/A O N/A
 raging N/A O N/A
 wildfire N/A O N/A
@@ -28230,7 +28230,7 @@ San N/A O N/A
 Francisco N/A O N/A
 Chronicle N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 Did N/A O N/A
 an N/A O N/A
 innocent N/A O N/A
@@ -28253,7 +28253,7 @@ The N/A O N/A
 Sacramento N/A O N/A
 Bee N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 The N/A O N/A
 state N/A O N/A
 agency N/A O N/A
@@ -28283,7 +28283,7 @@ Los N/A O N/A
 Angeles N/A O N/A
 Times N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 State N/A O N/A
 leaders N/A O N/A
 want N/A O N/A
@@ -28327,7 +28327,7 @@ New N/A O N/A
 York N/A O N/A
 Times N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 The N/A O N/A
 Pathway N/A B-LOC N/A
 Home N/A I-LOC N/A
@@ -28350,7 +28350,7 @@ San N/A O N/A
 Francisco N/A O N/A
 Chronicle N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 The N/A O N/A
 "other N/A O N/A
 World N/A O N/A
@@ -28371,7 +28371,7 @@ New N/A O N/A
 York N/A O N/A
 Times N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 How N/A O N/A
 is N/A O N/A
 the N/A O N/A
@@ -28391,7 +28391,7 @@ New N/A O N/A
 York N/A O N/A
 Times N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 Disney N/A O N/A
 fired N/A O N/A
 the N/A O N/A
@@ -28426,7 +28426,7 @@ New N/A O N/A
 York N/A O N/A
 Times N/A O N/A
 ] N/A O N/A
-_ N/A O N/A
+• N/A O N/A
 A N/A O N/A
 huge N/A O N/A
 earthquake N/A O N/A
@@ -28691,7 +28691,7 @@ presented N/A O O
 in N/A O O
 a N/A O O
 short N/A O O
-_ N/A O O
+à N/A O O
 la N/A O O
 carte N/A O O
 list N/A O O
@@ -29367,7 +29367,7 @@ into N/A O O
 a N/A O O
 precisely N/A O O
 shaped N/A O O
-C_te-R_tie N/A O B-DISH
+Côte-Rôtie N/A O B-DISH
 from N/A O O
 Domaine N/A O O
 Jasmin N/A O O
@@ -30241,7 +30241,7 @@ Koch N/A I-LOC I-LOC
 Queensboro N/A I-LOC I-LOC
 Bridge. N/A I-LOC I-LOC
 The N/A O O
-souffl_s N/A B-FOOD B-FOOD
+soufflés N/A B-FOOD B-FOOD
 that N/A O O
 the N/A O O
 servers N/A O O
@@ -30542,7 +30542,7 @@ by N/A O O
 Ms. N/A O O
 Baker, N/A O O
 mussels N/A O O
-Proven_al N/A O O
+Provençal N/A O O
 are N/A O O
 not N/A O O
 the N/A O O
@@ -30636,10 +30636,10 @@ worked N/A O O
 out. N/A O O
 The N/A O O
 fluke N/A O O
-meuni_re N/A O O
+meunière N/A O O
 may N/A O O
 be N/A O O
-saut_ed N/A O O
+sautéed N/A O O
 to N/A O O
 a N/A O O
 textbook N/A O O
@@ -30826,7 +30826,7 @@ out N/A O O
 the N/A O O
 first N/A O O
 time. N/A O O
-Jo_l N/A O O
+Joël N/A O O
 Robucho N/A O O
 n, N/A O O
 who N/A O O
@@ -31051,7 +31051,7 @@ they N/A O O
 wanted. N/A O O
 L'Atelier N/A B-EST B-EST
 de N/A I-EST I-EST
-Jo_l N/A I-EST I-EST
+Joël N/A I-EST I-EST
 Robuchon N/A I-EST I-EST
 , N/A O O
 his N/A O O
@@ -31086,7 +31086,7 @@ ate N/A O O
 his N/A O O
 spoonable N/A O O
 pommes N/A O O
-pur_es N/A O O
+purées N/A O O
 and N/A O O
 langoustines N/A O O
 fried N/A O O
@@ -33834,7 +33834,7 @@ ponzu I-DISH N/A I-DISH
 under I-DISH N/A O
 a I-DISH N/A O
 green I-DISH N/A O
-jalape_o I-DISH N/A B-FOOD
+jalapeño I-DISH N/A B-FOOD
 wheel, I-DISH N/A I-FOOD
 or O N/A O
 fried B-DISH N/A B-DISH
@@ -34775,7 +34775,7 @@ juice, I-FOOD N/A I-FOOD
 then O N/A O
 dotted O N/A O
 with O N/A O
-pur_ed B-FOOD N/A B-FOOD
+puréed B-FOOD N/A B-FOOD
 rocoto I-FOOD N/A I-FOOD
 pepper, I-FOOD N/A I-FOOD
 is O N/A O
@@ -36694,7 +36694,7 @@ lick O N/A O
 of O N/A O
 wasabi O N/A O
 and O N/A O
-pur_ed O N/A O
+puréed O N/A O
 salt-cured O N/A O
 plums O N/A O
 thinned O N/A O
@@ -39326,7 +39326,7 @@ The O N/A O
 rest O N/A O
 of O N/A O
 the O N/A O
-d_cor O N/A O
+décor O N/A O
 looks O N/A O
 like O N/A O
 a O N/A O
@@ -40732,7 +40732,7 @@ Escoffier's O N/A O
 day, O N/A O
 a O N/A O
 vanilla O N/A O
-souffl_ O N/A O
+soufflé O N/A O
 with O N/A O
 butterscotch O N/A O
 sauce O N/A O
@@ -40769,7 +40769,7 @@ the O N/A O
 dark, O N/A O
 shiny O N/A O
 little O N/A O
-canel_s O N/A O
+canelés O N/A O
 that O N/A O
 show O N/A O
 up O N/A O
@@ -43205,7 +43205,7 @@ to O N/A O
 a O N/A O
 classic O N/A O
 Hunanese O N/A O
-saut_ O N/A O
+sauté O N/A O
 of O N/A O
 pork O N/A O
 and O N/A O
@@ -44110,7 +44110,7 @@ joyless, O N/A O
 but O N/A O
 the O N/A O
 inky O N/A O
-pur_e O N/A O
+purée O N/A O
 of O N/A O
 eggplant O N/A O
 sweetened O N/A O
@@ -44390,7 +44390,7 @@ supposedly O N/A O
 inspired O N/A O
 by O N/A O
 Dominican O N/A O
-conc_n O N/A O
+concón O N/A O
 had O N/A O
 as O N/A O
 much O N/A O
@@ -46877,7 +46877,7 @@ them O O N/A
 part O O N/A
 of O O N/A
 the O O N/A
-d_cor. O O N/A
+décor. O O N/A
 As O O N/A
 at O O N/A
 Lilia, O O N/A
@@ -46928,7 +46928,7 @@ $250 O O N/A
 Champagne O O N/A
 from O O N/A
 David O O N/A
-L_clapart, O O N/A
+Léclapart, O O N/A
 after O O N/A
 which O O N/A
 you O O N/A
@@ -48877,7 +48877,7 @@ way O O N/A
 of O O N/A
 India O O N/A
 with O O N/A
-fideu_, O O N/A
+fideuà, O O N/A
 the O O N/A
 Spanish O O N/A
 dish O O N/A
@@ -49048,7 +49048,7 @@ does O O N/A
 them O O N/A
 better. O O N/A
 The O O N/A
-saut_ed O O N/A
+sautéed O O N/A
 skate O O N/A
 splashed O O N/A
 with O O N/A
@@ -50267,9 +50267,9 @@ surprises O O N/A
 in O O N/A
 Dover B-DISH B-DISH N/A
 sole I-DISH I-DISH N/A
-_ I-DISH I-DISH N/A
+à I-DISH I-DISH N/A
 la I-DISH I-DISH N/A
-meuni_re, I-DISH I-DISH N/A
+meunière, I-DISH I-DISH N/A
 and O O N/A
 I O O N/A
 didn't O O N/A
@@ -52253,7 +52253,7 @@ cloistered O O N/A
 Parisian O O N/A
 salon B-TYPE B-TYPE N/A
 de I-TYPE I-TYPE N/A
-th_, I-TYPE I-TYPE N/A
+thé, I-TYPE I-TYPE N/A
 which O O N/A
 it O O N/A
 resembles O O N/A
@@ -52915,7 +52915,7 @@ coins O O N/A
 on O O N/A
 the O O N/A
 short O O N/A
-_ O O N/A
+à O O N/A
 la O O N/A
 carte O O N/A
 menu. O O N/A
@@ -54440,10 +54440,10 @@ in O O N/A
 French B-CUISINE O N/A
 (barigoule, B-DISH B-FOOD N/A
 mousseline, B-DISH B-FOOD N/A
-t_te B-DISH B-FOOD N/A
+tête B-DISH B-FOOD N/A
 de I-DISH I-FOOD N/A
 veau, I-DISH I-FOOD N/A
-b_arnaise), B-DISH B-FOOD N/A
+béarnaise), B-DISH B-FOOD N/A
 a O O N/A
 significant O O N/A
 part O O N/A
@@ -54478,7 +54478,7 @@ topics O O N/A
 of O O N/A
 stocks B-FOOD B-FOOD N/A
 and O O N/A
-pur_es B-FOOD B-FOOD N/A
+purées B-FOOD B-FOOD N/A
 and O O N/A
 accurate O O N/A
 chopping O O N/A
@@ -54733,7 +54733,7 @@ is O O N/A
 planted O O N/A
 in O O N/A
 a O O N/A
-pur_e O O N/A
+purée O O N/A
 or O O N/A
 a O O N/A
 reduced O O N/A
@@ -54904,7 +54904,7 @@ dark O O N/A
 field O O N/A
 of O O N/A
 browned O O N/A
-b_chamel O O N/A
+béchamel O O N/A
 seemed O O N/A
 completely O O N/A
 comfortable O O N/A
@@ -56822,7 +56822,7 @@ menus O O N/A
 at O O N/A
 Cosme O O N/A
 , O O N/A
-Empell_n O O N/A
+Empellón O O N/A
 , O O N/A
 Claro O O N/A
 and O O N/A
@@ -57601,7 +57601,7 @@ cream O O N/A
 to O O N/A
 make O O N/A
 enchiladas O O N/A
-Do_a O O N/A
+Doña O O N/A
 Blanca. O O N/A
 And O O N/A
 while O O N/A
@@ -57889,7 +57889,7 @@ counter, N/A I-TYPE I-TYPE
 falafel N/A B-TYPE B-TYPE
 cart N/A I-TYPE I-TYPE
 and N/A O O
-cr_perie, N/A B-TYPE B-TYPE
+crêperie, N/A B-TYPE B-TYPE
 not N/A O O
 to N/A O O
 mention N/A O O
@@ -58851,7 +58851,7 @@ according N/A O O
 to N/A O O
 Mr. N/A O O
 Tesar: N/A O O
-"_This N/A O O
+"‘This N/A O O
 steak N/A B-FOOD B-FOOD
 is N/A O O
 too N/A O O
@@ -58896,7 +58896,7 @@ of N/A O O
 her, N/A O O
 and N/A O O
 said, N/A O O
-_It's N/A O O
+‘It's N/A O O
 36 N/A O O
 ounces!'" N/A O O
 The N/A O O
@@ -59107,7 +59107,7 @@ Sodi N/A O O
 in N/A O O
 Manhattan. N/A O O
 "Saying, N/A O O
-_This N/A O O
+‘This N/A O O
 is N/A O O
 terrible' N/A O O
 is N/A O O
@@ -59119,7 +59119,7 @@ being N/A O O
 rude. N/A O O
 It's N/A O O
 like, N/A O O
-_You're N/A O O
+‘You're N/A O O
 ugly.' N/A O O
 It's N/A O O
 telling N/A O O
@@ -59224,7 +59224,7 @@ you N/A O O
 can N/A O O
 be N/A O O
 -- N/A O O
-_Excuse N/A O O
+‘Excuse N/A O O
 me, N/A O O
 I'm N/A O O
 sorry' N/A O O
@@ -60387,11 +60387,11 @@ is N/A O O
 served N/A O O
 with N/A O O
 roasted, N/A B-FOOD B-FOOD
-pur_ed N/A I-FOOD I-FOOD
+puréed N/A I-FOOD I-FOOD
 celery N/A I-FOOD I-FOOD
 root N/A I-FOOD I-FOOD
 and N/A O O
-br_l_ed N/A B-FOOD B-FOOD
+brûléed N/A B-FOOD B-FOOD
 pears. N/A I-FOOD I-FOOD
 The N/A O O
 plates N/A O O
@@ -60533,8 +60533,8 @@ with N/A O O
 caramelized N/A B-FOOD B-FOOD
 shallots N/A I-FOOD I-FOOD
 and N/A O O
-cr_me N/A B-FOOD B-FOOD
-fra_che N/A I-FOOD I-FOOD
+crème N/A B-FOOD B-FOOD
+fraîche N/A I-FOOD I-FOOD
 and N/A O O
 a N/A O O
 side N/A O O
@@ -60796,7 +60796,7 @@ cremant N/A B-DISH B-DISH
 d'Alsace N/A I-DISH I-DISH
 from N/A O I-DISH
 Dirler N/A B-EST I-DISH
-Cad_, N/A I-EST I-DISH
+Cadé, N/A I-EST I-DISH
 a N/A O O
 Sybille N/A B-DISH B-DISH
 Kuntz N/A I-DISH I-DISH
@@ -61059,7 +61059,7 @@ Unlike N/A O O
 Le N/A B-EST B-EST
 Pavillon, N/A I-EST I-EST
 La N/A B-EST B-EST
-C_te N/A I-EST I-EST
+Côte N/A I-EST I-EST
 Basque N/A I-EST I-EST
 and N/A O O
 their N/A O O
@@ -61144,8 +61144,8 @@ not N/A O O
 to N/A O O
 mention N/A O O
 their N/A O O
-cr_mes N/A B-FOOD B-FOOD
-br_l_es N/A I-FOOD I-FOOD
+crèmes N/A B-FOOD B-FOOD
+brûlées N/A I-FOOD I-FOOD
 and N/A O O
 blood N/A B-FOOD B-FOOD
 sausages N/A I-FOOD I-FOOD
@@ -61348,7 +61348,7 @@ hunk N/A O O
 of N/A O O
 rustic N/A O O
 pork N/A B-FOOD B-FOOD
-p_t_. N/A I-FOOD I-FOOD
+pâté. N/A I-FOOD I-FOOD
 On N/A O O
 a N/A O O
 quiet N/A O O
@@ -61615,7 +61615,7 @@ the N/A O O
 de N/A I-DISH I-DISH
 matzo N/A I-DISH I-DISH
 en N/A I-DISH I-DISH
-consomm_." N/A I-DISH I-DISH
+consommé." N/A I-DISH I-DISH
 In N/A O O
 English, N/A O O
 that N/A O O
@@ -61717,7 +61717,7 @@ of N/A O O
 gnocchi, N/A B-FOOD B-FOOD
 foie N/A B-FOOD B-FOOD
 gras, N/A I-FOOD I-FOOD
-saut_ed N/A B-FOOD B-FOOD
+sautéed N/A B-FOOD B-FOOD
 sweetbreads N/A I-FOOD I-FOOD
 and N/A O O
 mushrooms, N/A B-FOOD B-FOOD
@@ -62074,8 +62074,8 @@ sugar N/A B-FOOD B-FOOD
 crust N/A I-FOOD I-FOOD
 on N/A O O
 the N/A O O
-cr_me N/A B-DISH B-DISH
-br_l_e N/A I-DISH I-DISH
+crème N/A B-DISH B-DISH
+brûlée N/A I-DISH I-DISH
 is N/A O O
 burned N/A O O
 to N/A O O
@@ -62815,7 +62815,7 @@ often N/A O O
 you N/A O O
 may N/A O O
 experience N/A O O
-d_j_ N/A O O
+déjà N/A O O
 vu. N/A O O
 At N/A O O
 meals N/A O O
@@ -62911,7 +62911,7 @@ collision N/A O O
 with N/A O O
 sweet N/A B-FOOD B-FOOD
 potato N/A I-FOOD I-FOOD
-pur_e N/A I-FOOD I-FOOD
+purée N/A I-FOOD I-FOOD
 and N/A O I-FOOD
 fig-leaf N/A B-FOOD B-FOOD
 yogurt N/A I-FOOD I-FOOD
@@ -63113,7 +63113,7 @@ The N/A O O
 bar N/A O O
 menu N/A O O
 is N/A O O
-_ N/A O O
+à N/A O O
 la N/A O O
 carte. N/A O O
 The N/A O O
@@ -63176,7 +63176,7 @@ into N/A O O
 more N/A O O
 sweet N/A O O
 things N/A O O
-_" N/A O O
+…" N/A O O
 rather N/A O O
 than N/A O O
 "Here's N/A O O
@@ -64396,7 +64396,7 @@ of N/A O O
 fresh N/A O O
 rau N/A O O
 ram N/A O O
-pur_ed N/A O O
+puréed N/A O O
 in N/A O O
 oil. N/A O O
 In N/A O O
@@ -64620,7 +64620,7 @@ and N/A O O
 some N/A O O
 of N/A O O
 the N/A O O
-saut_ed N/A O O
+sautéed N/A O O
 shallots, N/A O O
 lemongrass N/A O O
 and N/A O O
@@ -65494,8 +65494,8 @@ would N/A O O
 say N/A O O
 was N/A O O
 like N/A O O
-cr_me N/A O O
-fra_che N/A O O
+crème N/A O O
+fraîche N/A O O
 blended N/A O O
 with N/A O O
 cream N/A O O
@@ -66820,7 +66820,7 @@ an N/A O O
 ivory N/A O O
 pool N/A O O
 of N/A O O
-pur_ed N/A O O
+puréed N/A O O
 apples N/A O O
 and N/A O O
 cream. N/A O O
@@ -68199,7 +68199,7 @@ reminds N/A O O
 me N/A O O
 of N/A O O
 a N/A O O
-pissaladi_re N/A O O
+pissaladière N/A O O
 in N/A O O
 which N/A O O
 the N/A O O
@@ -68320,7 +68320,7 @@ ranch N/A O O
 dressing, N/A O O
 or N/A O O
 the N/A O O
-fris_e N/A O O
+frisée N/A O O
 salad N/A O O
 tossed N/A O O
 with N/A O O
@@ -69554,8 +69554,8 @@ its O N/A O
 bed O N/A O
 of O N/A O
 coconut B-FOOD N/A B-FOOD
-cr_me I-FOOD N/A I-FOOD
-fra_che, I-FOOD N/A I-FOOD
+crème I-FOOD N/A I-FOOD
+fraîche, I-FOOD N/A I-FOOD
 that O N/A O
 Mr. O N/A O
 DiSpirito O N/A O
@@ -69580,7 +69580,7 @@ platter O N/A O
 of O N/A O
 acorn-fed, B-DISH N/A B-DISH
 hand-sliced I-DISH N/A I-DISH
-Ib_rico I-DISH N/A I-DISH
+Ibérico I-DISH N/A I-DISH
 ham I-DISH N/A I-DISH
 or O N/A O
 the O N/A O
@@ -70195,8 +70195,8 @@ redecorating, O N/A O
 it O N/A O
 hired O N/A O
 a O N/A O
-ma_tre O N/A O
-d'h_tel, O N/A O
+maître O N/A O
+d'hôtel, O N/A O
 Michael O N/A O
 Cecchi-Azzolina, O N/A O
 away O N/A O
@@ -70592,7 +70592,7 @@ with O N/A O
 American O N/A O
 music, O N/A O
 date-night O N/A O
-d_cor O N/A O
+décor O N/A O
 and O N/A O
 Western-style O N/A O
 service. O N/A O
@@ -71298,7 +71298,7 @@ sugar O N/A O
 in O N/A O
 the O N/A O
 best O N/A O
-Caf_ O N/A O
+Café O N/A O
 du O N/A O
 Monde O N/A O
 style. O N/A O
@@ -71359,7 +71359,7 @@ addition O N/A O
 of O N/A O
 chorizo, O N/A O
 sliced O N/A O
-jalape_os O N/A O
+jalapeños O N/A O
 and O N/A O
 a O N/A O
 melted, O N/A O
@@ -72790,7 +72790,7 @@ where O N/A O
 Mr. O N/A O
 Vongerichten's O N/A O
 son, O N/A O
-C_dric, O N/A O
+Cédric, O N/A O
 is O N/A O
 the O N/A O
 chef, O N/A O
@@ -73062,7 +73062,7 @@ that O N/A O
 will O N/A O
 help O N/A O
 place O N/A O
-C_dric O N/A O
+Cédric O N/A O
 and O N/A O
 Ochi O N/A O
 Vongerichten's O N/A O
@@ -73758,7 +73758,7 @@ the O N/A O
 beach O N/A O
 road O N/A O
 in O N/A O
-Pi_ones, B-LOC N/A B-LOC
+Piñones, B-LOC N/A B-LOC
 outside O N/A O
 San B-LOC N/A B-LOC
 Juan. I-LOC N/A I-LOC
@@ -73880,14 +73880,14 @@ fact, O N/A O
 has O N/A O
 been O N/A O
 Derick O N/A O
-L_pez's O N/A O
+López's O N/A O
 plan O N/A O
 for O N/A O
 some O N/A O
 time O N/A O
 now. O N/A O
 Mr. O N/A O
-L_pez, O N/A O
+López, O N/A O
 who O N/A O
 was O N/A O
 born O N/A O
@@ -74047,7 +74047,7 @@ and O N/A O
 bright-green O N/A O
 figurines O N/A O
 of O N/A O
-coqu_s, O N/A O
+coquís, O N/A O
 the O N/A O
 little O N/A O
 frogs O N/A O
@@ -74083,7 +74083,7 @@ Puerto O N/A O
 Rican O N/A O
 soft O N/A O
 drinks. O N/A O
-H_ctor O N/A O
+Héctor O N/A O
 Lavoe O N/A O
 may O N/A O
 be O N/A O
@@ -74092,7 +74092,7 @@ over O N/A O
 the O N/A O
 speakers, O N/A O
 or O N/A O
-V_ctor O N/A O
+Víctor O N/A O
 Manuelle, O N/A O
 not O N/A O
 so O N/A O
@@ -74399,7 +74399,7 @@ absorbed O N/A O
 enough O N/A O
 water. O N/A O
 Mr. O N/A O
-L_pez's O N/A O
+López's O N/A O
 alcapurrias, O N/A O
 though, O N/A O
 are O N/A O
@@ -74450,7 +74450,7 @@ masa O N/A O
 would O N/A O
 be, O N/A O
 Mr. O N/A O
-L_pez O N/A O
+López O N/A O
 makes O N/A O
 a O N/A O
 sweet, O N/A O
@@ -74504,7 +74504,7 @@ Rican O N/A O
 Day O N/A O
 Parade. O N/A O
 Mr. O N/A O
-L_pez O N/A O
+López O N/A O
 fries O N/A O
 chicken O N/A O
 in O N/A O
@@ -74580,7 +74580,7 @@ to O N/A O
 Atlanta O N/A O
 than O N/A O
 to O N/A O
-Mayag_ez, O N/A O
+Mayagüez, O N/A O
 although O N/A O
 you O N/A O
 can O N/A O
@@ -74689,7 +74689,7 @@ have O N/A O
 a O N/A O
 brick O N/A O
 of O N/A O
-pastel_n O N/A O
+pastelón O N/A O
 for O N/A O
 dinner. O N/A O
 (I O N/A O
@@ -76082,7 +76082,7 @@ Everything O N/A O
 can O N/A O
 be O N/A O
 had O N/A O
-_ O N/A O
+à O N/A O
 la O N/A O
 carte. O N/A O
 Lunch O N/A O
@@ -78982,8 +78982,8 @@ is O N/A O
 like O N/A O
 a O N/A O
 savory O N/A O
-cr_me B-DISH N/A O
-br_l_e I-DISH N/A O
+crème B-DISH N/A O
+brûlée I-DISH N/A O
 by O N/A O
 way O N/A O
 of O N/A O
@@ -79355,7 +79355,7 @@ crowd O O N/A
 here. O O N/A
 The O O N/A
 chef O O N/A
-G_nther O O N/A
+Günther O O N/A
 Seeger, O O N/A
 for O O N/A
 instance, O O N/A
@@ -79431,7 +79431,7 @@ he O O N/A
 struggled O O N/A
 to O O N/A
 put O O N/A
-G_nther B-EST B-EST N/A
+Günther B-EST B-EST N/A
 Seeger I-EST I-EST N/A
 NY I-EST I-EST N/A
 on O O N/A
@@ -80177,7 +80177,7 @@ I O O N/A
 do O O N/A
 miss O O N/A
 the O O N/A
-tiramis_ O O N/A
+tiramisù O O N/A
 from O O N/A
 the O O N/A
 opening O O N/A
@@ -80973,7 +80973,7 @@ on O O N/A
 to O O N/A
 a O O N/A
 soft, O O N/A
-souffl_-like O O N/A
+soufflé-like O O N/A
 filling O O N/A
 and O O N/A
 ending O O N/A
@@ -80997,7 +80997,7 @@ savory B-DISH O N/A
 churros I-DISH B-FOOD N/A
 filled I-DISH O N/A
 with I-DISH O N/A
-Gruy_re I-DISH B-FOOD N/A
+Gruyère I-DISH B-FOOD N/A
 sauce I-DISH I-FOOD N/A
 -- O O N/A
 the O O N/A
@@ -81008,7 +81008,7 @@ fritters, B-DISH B-DISH N/A
 they O O N/A
 taste O O N/A
 like O O N/A
-goug_res B-FOOD B-FOOD N/A
+gougères B-FOOD B-FOOD N/A
 and O O N/A
 the O O N/A
 texture O O N/A
@@ -81155,7 +81155,7 @@ diced O O N/A
 cucumbers, B-FOOD B-FOOD N/A
 grains O O N/A
 of O O N/A
-jalape_o B-FOOD B-FOOD N/A
+jalapeño B-FOOD B-FOOD N/A
 and O O N/A
 microleaves B-FOOD O N/A
 of I-FOOD O N/A
@@ -81165,7 +81165,7 @@ An O O N/A
 almost O O N/A
 absurdly O O N/A
 creamy O O N/A
-pur_e O O N/A
+purée O O N/A
 of O O N/A
 white B-FOOD B-FOOD N/A
 bean I-FOOD I-FOOD N/A
@@ -81281,7 +81281,7 @@ road. O O N/A
 The O O N/A
 chicken B-DISH B-DISH N/A
 liver I-DISH I-DISH N/A
-rag_ I-DISH I-DISH N/A
+ragù I-DISH I-DISH N/A
 tossed O I-DISH N/A
 with O O N/A
 housemade O O N/A
@@ -81353,7 +81353,7 @@ is O O N/A
 served O O N/A
 with O O N/A
 a O O N/A
-pur_e-slash-hot O B-FOOD N/A
+purée-slash-hot O B-FOOD N/A
 sauce O I-FOOD N/A
 of O I-FOOD N/A
 fermented O I-FOOD N/A
@@ -82178,7 +82178,7 @@ Ms. O O N/A
 Wong O O N/A
 instead O O N/A
 spoons O O N/A
-saut_ed B-FOOD B-FOOD N/A
+sautéed B-FOOD B-FOOD N/A
 mushrooms I-FOOD I-FOOD N/A
 into O O N/A
 hers, O O N/A
@@ -83505,7 +83505,7 @@ continental O O N/A
 theme O O N/A
 and O O N/A
 an O O N/A
-_ O O N/A
+à O O N/A
 la O O N/A
 carte O O N/A
 format. O O N/A
@@ -83765,8 +83765,8 @@ warm O O N/A
 osetra O O N/A
 caviar O O N/A
 in O O N/A
-cr_me O O N/A
-fra_che. O O N/A
+crème O O N/A
+fraîche. O O N/A
 (Yes, O O N/A
 warm. O O N/A
 It's O O N/A
@@ -83840,7 +83840,7 @@ intimate O O N/A
 act. O O N/A
 Dover O O N/A
 sole O O N/A
-meuni_re, O O N/A
+meunière, O O N/A
 though, O O N/A
 has O O N/A
 neither O O N/A
@@ -85041,7 +85041,7 @@ two O O N/A
 maybe O O N/A
 memorably O O N/A
 creamy O O N/A
-pur_e O O N/A
+purée O O N/A
 of O O N/A
 dried O O N/A
 favas; O O N/A
@@ -85497,7 +85497,7 @@ a O O N/A
 brut O I-DISH N/A
 from O O N/A
 Dom B-DISH B-EST N/A
-P_rignon I-DISH I-EST N/A
+Pérignon I-DISH I-EST N/A
 for O O N/A
 $66 O O N/A
 a O O N/A
@@ -85785,7 +85785,7 @@ and O O N/A
 the O O N/A
 pastry O O N/A
 chef, O O N/A
-S_bastien O O N/A
+Sébastien O O N/A
 Rouxel, O O N/A
 to O O N/A
 make O O N/A
@@ -85899,7 +85899,7 @@ that O O N/A
 "we O O N/A
 also O O N/A
 have O O N/A
-_ O O N/A
+à O O N/A
 la O O N/A
 carte, O O N/A
 if O O N/A
@@ -86899,7 +86899,7 @@ maple I-FOOD I-FOOD N/A
 syrup I-FOOD I-FOOD N/A
 warmed O O N/A
 with O O N/A
-jalape_os B-FOOD B-FOOD N/A
+jalapeños B-FOOD B-FOOD N/A
 and O O N/A
 bananas. B-FOOD B-FOOD N/A
 If O O N/A
@@ -87245,7 +87245,7 @@ Harlem I-EST O N/A
 rolled O O N/A
 out O O N/A
 an O O N/A
-_ O O N/A
+à O O N/A
 la O O N/A
 carte O O N/A
 menu O O N/A
@@ -87345,7 +87345,7 @@ surface O O N/A
 area O O N/A
 for O O N/A
 the O O N/A
-jalape_o-banana B-FOOD B-FOOD N/A
+jalapeño-banana B-FOOD B-FOOD N/A
 syrup I-FOOD I-FOOD N/A
 to O O N/A
 get O O N/A
@@ -87869,7 +87869,7 @@ told O O N/A
 that O O N/A
 the O O N/A
 sparkling O O N/A
-ros_ O O N/A
+rosé O O N/A
 is O O N/A
 fantastic O O N/A
 with O O N/A
@@ -88182,7 +88182,7 @@ One O O N/A
 is O O N/A
 the O O N/A
 Paris B-EST B-EST N/A
-Caf_ I-EST I-EST N/A
+Café I-EST I-EST N/A
 , O O N/A
 a O O N/A
 casual, O B-TYPE N/A
@@ -88280,7 +88280,7 @@ one O O N/A
 at O O N/A
 the O O N/A
 Paris B-EST B-EST N/A
-Caf_ I-EST I-EST N/A
+Café I-EST I-EST N/A
 substitutes O O N/A
 dried B-FOOD B-FOOD N/A
 strawberries. I-FOOD I-FOOD N/A
@@ -88320,7 +88320,7 @@ go O O N/A
 to O O N/A
 the O O N/A
 Paris B-EST B-EST N/A
-Caf_ I-EST I-EST N/A
+Café I-EST I-EST N/A
 are O O N/A
 Saarinen's O O N/A
 glass O O N/A
@@ -88792,7 +88792,7 @@ salsa O O N/A
 of O O N/A
 coriander O O N/A
 and O O N/A
-jalape_o O O N/A
+jalapeño O O N/A
 kicks O O N/A
 in. O O N/A
 Few O O N/A
@@ -88994,7 +88994,7 @@ of O O N/A
 crust, O O N/A
 some O O N/A
 tomato O O N/A
-concass_ O O N/A
+concassé O O N/A
 and O O N/A
 a O O N/A
 sauce O O N/A
@@ -89191,7 +89191,7 @@ push O O N/A
 their O O N/A
 tasting O O N/A
 menus. O O N/A
-Rezd_ra B-DIET B-EST N/A
+Rezdôra B-DIET B-EST N/A
 doesn't. O O N/A
 A O O N/A
 few O O N/A
@@ -89219,7 +89219,7 @@ Teddy O O N/A
 Roosevelt O O N/A
 was O O N/A
 born, O O N/A
-Rezd_ra B-EST B-EST N/A
+Rezdôra B-EST B-EST N/A
 lists O O N/A
 a O O N/A
 "regional B-DISH O N/A
@@ -89297,7 +89297,7 @@ and O O N/A
 yet O O N/A
 servers O O N/A
 at O O N/A
-Rezd_ra B-EST B-EST N/A
+Rezdôra B-EST B-EST N/A
 never O O N/A
 tried O O N/A
 to O O N/A
@@ -89364,7 +89364,7 @@ me O O N/A
 that O O N/A
 Stefano O O N/A
 Secchi, O O N/A
-Rezd_ra's B-FOOD B-EST N/A
+Rezdôra's B-FOOD B-EST N/A
 chef O O N/A
 and O O N/A
 one O O N/A
@@ -89570,7 +89570,7 @@ have O O N/A
 to O O N/A
 talk O O N/A
 about O O N/A
-rag_, B-DISH B-DISH N/A
+ragù, B-DISH B-DISH N/A
 and O O N/A
 that O O N/A
 was O O N/A
@@ -89588,7 +89588,7 @@ people O O N/A
 will O O N/A
 find O O N/A
 the O O N/A
-rag_ B-DISH B-DISH N/A
+ragù B-DISH B-DISH N/A
 saltier O O N/A
 than O O N/A
 they O O N/A
@@ -89608,7 +89608,7 @@ last O O N/A
 20 O O N/A
 or O O N/A
 30 O O N/A
-rag_s B-FOOD B-FOOD N/A
+ragús B-FOOD B-FOOD N/A
 they O O N/A
 ate. O O N/A
 The O O N/A
@@ -89750,7 +89750,7 @@ experimental O O N/A
 urges O O N/A
 did. O O N/A
 At O O N/A
-Rezd_ra, B-EST B-EST N/A
+Rezdôra, B-EST B-EST N/A
 you O O N/A
 are O O N/A
 unlikely O O N/A
@@ -89825,7 +89825,7 @@ transfixing O O N/A
 plate O O N/A
 of O O N/A
 mushroom B-FOOD B-FOOD N/A
-pur_e, I-FOOD I-FOOD N/A
+purée, I-FOOD I-FOOD N/A
 slivered O O N/A
 snap-pea B-FOOD B-FOOD N/A
 pods I-FOOD I-FOOD N/A
@@ -89849,7 +89849,7 @@ Mr. O O N/A
 Secchi's O O N/A
 cooking O O N/A
 at O O N/A
-Rezd_ra B-EST B-EST N/A
+Rezdôra B-EST B-EST N/A
 seems O O N/A
 to O O N/A
 have O O N/A
@@ -89913,7 +89913,7 @@ dining O O N/A
 room, O O N/A
 one O O N/A
 at O O N/A
-Rezd_ra B-EST B-EST N/A
+Rezdôra B-EST B-EST N/A
 can O O N/A
 and O O N/A
 probably O O N/A
@@ -90070,7 +90070,7 @@ people O O N/A
 who O O N/A
 eat O O N/A
 at O O N/A
-Rezd_ra O O N/A
+Rezdôra O O N/A
 have O O N/A
 a O O N/A
 way O O N/A
@@ -90316,7 +90316,7 @@ The O O N/A
 odds O O N/A
 are O O N/A
 against O O N/A
-Rezd_ra's O O N/A
+Rezdôra's O O N/A
 being O O N/A
 around O O N/A
 36 O O N/A
@@ -90638,7 +90638,7 @@ urge O O N/A
 to O O N/A
 eat O O N/A
 a O O N/A
-Gruy_re B-DISH B-DISH N/A
+Gruyère B-DISH B-DISH N/A
 omelet I-DISH I-DISH N/A
 after O O N/A
 10 O O N/A
@@ -91150,7 +91150,7 @@ Lipp O O N/A
 . O O N/A
 The O O N/A
 country O O N/A
-p_t_ O O N/A
+pâté O O N/A
 is O O N/A
 laden O O N/A
 with O O N/A
@@ -91195,7 +91195,7 @@ pot O O N/A
 of O O N/A
 mustard. O O N/A
 The O O N/A
-p_t_ O O N/A
+pâté O O N/A
 is O O N/A
 made O O N/A
 in O O N/A
@@ -91212,7 +91212,7 @@ the O O N/A
 boudin, O O N/A
 you O O N/A
 want O O N/A
-pur_ed O O N/A
+puréed O O N/A
 potatoes O O N/A
 that O O N/A
 are O O N/A
@@ -91365,7 +91365,7 @@ trout O O N/A
 amandine O O N/A
 with O O N/A
 its O O N/A
-saut_ed O O N/A
+sautéed O O N/A
 skin O O N/A
 taut O O N/A
 beneath O O N/A
@@ -91505,7 +91505,7 @@ like O O N/A
 Loro O O N/A
 Piana, O O N/A
 Sephora, O O N/A
-Herm_s O O N/A
+Hermès O O N/A
 and O O N/A
 RH, O O N/A
 is O O N/A
@@ -91787,8 +91787,8 @@ cooking O O O
 will O O O
 recognize O O O
 as O O O
-li_vre O O O
-_ O O O
+lièvre O O O
+à O O O
 la O O O
 royale. O O O
 Nor O O O
@@ -91986,7 +91986,7 @@ cochinita O O O
 pibil O O O
 from O O O
 the O O O
-Yucat_n. O O O
+Yucatán. O O O
 There O O O
 is O O O
 no O O O
@@ -92120,7 +92120,7 @@ color O O O
 of O O O
 a O O O
 dry O O O
-ros_, O O O
+rosé, O O O
 separated O O O
 from O O O
 the O O O
@@ -94133,9 +94133,9 @@ a N/A O O
 young N/A O O
 chef N/A O O
 named N/A O O
-Jos_ N/A O O
+José N/A O O
 Luis N/A O O
-Ch_vez N/A O O
+Chávez N/A O O
 began N/A O O
 leveraging N/A O O
 the N/A O O
@@ -94223,7 +94223,7 @@ Peruvian N/A O B-CUISINE
 formula, N/A O O
 but N/A O O
 Mr. N/A O O
-Ch_vez N/A O O
+Chávez N/A O O
 had N/A O O
 the N/A O O
 inspiration N/A O O
@@ -94313,9 +94313,9 @@ tigre N/A O I-FOOD
 marinade N/A O I-FOOD
 in N/A O O
 Mr. N/A O O
-Ch_vez's N/A O O
+Chávez's N/A O O
 "ceviche N/A O B-DISH
-cl_sico" N/A O I-DISH
+clásico" N/A O I-DISH
 is N/A O O
 a N/A O O
 bright N/A O O
@@ -94352,7 +94352,7 @@ spice, N/A O O
 this N/A O O
 time N/A O O
 from N/A O O
-aj_ N/A O B-FOOD
+ají N/A O B-FOOD
 amarillo N/A O I-FOOD
 chiles, N/A O I-FOOD
 in N/A O O
@@ -94375,21 +94375,21 @@ leche N/A O B-FOOD
 de N/A O I-FOOD
 tigre. N/A O I-FOOD
 The N/A O O
-cl_sico N/A O B-DISH
+clásico N/A O B-DISH
 is N/A O O
 accessorized N/A O O
 with N/A O O
 sweet N/A O B-FOOD
 potato N/A O I-FOOD
-pur_e; N/A O I-FOOD
+purée; N/A O I-FOOD
 the N/A O O
 mixto N/A O B-DISH
 gets N/A O O
 avocado N/A O B-FOOD
-pur_e, N/A O I-FOOD
+purée, N/A O I-FOOD
 too. N/A O O
 The N/A O O
-pur_es N/A O O
+purées N/A O O
 are N/A O O
 piped N/A O O
 out N/A O O
@@ -94422,7 +94422,7 @@ seemed N/A O O
 clear N/A O O
 that N/A O O
 Mr. N/A O O
-Ch_vez N/A O O
+Chávez N/A O O
 could N/A O O
 run N/A O O
 an N/A O O
@@ -94562,7 +94562,7 @@ known N/A O O
 as N/A O O
 anticuchos. N/A O B-FOOD
 Mr. N/A O O
-Ch_vez N/A O O
+Chávez N/A O O
 dresses N/A O O
 up N/A O O
 the N/A O O
@@ -94614,7 +94614,7 @@ the N/A O O
 chimichurri N/A O B-FOOD
 that N/A O O
 Mr. N/A O O
-Ch_vez N/A O O
+Chávez N/A O O
 brings N/A O O
 in, N/A O O
 by N/A O O
@@ -94663,7 +94663,7 @@ with N/A O O
 a N/A O O
 squirt N/A O O
 of N/A O O
-huanca_na, N/A O B-FOOD
+huancaína, N/A O B-FOOD
 the N/A O O
 spicy N/A O O
 yellow N/A O O
@@ -94699,7 +94699,7 @@ Parmesan N/A O I-DISH
 fondue. N/A O I-DISH
 But N/A O O
 Mr. N/A O O
-Ch_vez N/A O O
+Chávez N/A O O
 has N/A O O
 the N/A O O
 ability N/A O O
@@ -94772,7 +94772,7 @@ with N/A O O
 cumin, N/A O B-FOOD
 oregano N/A O B-FOOD
 and N/A O O
-aj_ N/A O B-FOOD
+ají N/A O B-FOOD
 panca N/A O I-FOOD
 paste N/A O I-FOOD
 and N/A O O
@@ -94888,7 +94888,7 @@ looking N/A O O
 into, N/A O O
 like N/A O O
 the N/A O O
-aj_ N/A O O
+ají N/A O O
 de N/A O O
 gallina, N/A O O
 shredded N/A O O
@@ -94897,7 +94897,7 @@ breast N/A O O
 in N/A O O
 a N/A O O
 creamy N/A O O
-aj_ N/A O O
+ají N/A O O
 amarillo N/A O O
 sauce N/A O O
 that N/A O O
@@ -94909,7 +94909,7 @@ spicy; N/A O O
 or N/A O O
 the N/A O O
 seco N/A O O
-norte_o, N/A O O
+norteño, N/A O O
 a N/A O O
 slowly N/A O O
 braised N/A O O
@@ -94948,7 +94948,7 @@ better N/A O O
 for N/A O O
 it. N/A O O
 Mr. N/A O O
-Ch_vez's N/A O O
+Chávez's N/A O O
 creative N/A O O
 engine N/A O O
 seems N/A O O
@@ -94994,7 +94994,7 @@ ponzu N/A O O
 sauce N/A O O
 seasoned N/A O O
 with N/A O O
-aj_ N/A O O
+ají N/A O O
 amarilllo N/A O O
 and N/A O O
 togarashi N/A O O
@@ -95185,7 +95185,7 @@ interview N/A O O
 on N/A O O
 Monday N/A O O
 Mr. N/A O O
-Ch_vez N/A O O
+Chávez N/A O O
 said N/A O O
 he N/A O O
 had N/A O O
@@ -95790,7 +95790,7 @@ far N/A O O
 away. N/A O O
 "It's N/A O O
 very N/A O O
-_ N/A O O
+… N/A O O
 yin," N/A O O
 he N/A O O
 said. N/A O O
@@ -96423,8 +96423,7 @@ tips N/A O O
 and N/A O O
 shopping N/A O O
 advice N/A O O
-. N/A O O
-
+. N/A O 
 
 -DOCSTART- -X- -X- O
 
@@ -97456,7 +97455,7 @@ a N/A O O
 serving N/A O O
 of N/A O O
 aged N/A O O
-Comt_ N/A O O
+Comté N/A O O
 before N/A O O
 dessert, N/A O O
 and N/A O O
@@ -98947,7 +98946,7 @@ of N/A I-EST I-EST
 Bleecker N/A I-EST I-EST
 Street N/A I-EST I-EST
 , N/A O O
-Kest_ N/A B-EST B-EST
+Kesté N/A B-EST B-EST
 , N/A O O
 Lucali N/A B-EST B-EST
 , N/A O O
@@ -100110,7 +100109,7 @@ That N/A O O
 was N/A O O
 the N/A O O
 last N/A O O
-communiqu_; N/A O O
+communiqué; N/A O O
 the N/A O O
 doors N/A O O
 were N/A O O
@@ -100386,8 +100385,8 @@ does N/A O O
 best. N/A O O
 Its N/A O O
 chef, N/A O O
-Efr_n N/A O O
-Hern_ndez, N/A O O
+Efrén N/A O O
+Hernández, N/A O O
 has N/A O O
 talked N/A O O
 about N/A O O
@@ -100445,7 +100444,7 @@ to N/A O O
 the N/A O O
 surface. N/A O O
 Mr. N/A O O
-Hern_ndez N/A O O
+Hernández N/A O O
 is N/A O O
 not N/A O O
 particularly N/A O O
@@ -100582,7 +100581,7 @@ contrasting N/A O O
 salsas. N/A O O
 In N/A O O
 Mr. N/A O O
-Hern_ndez's N/A O O
+Hernández's N/A O O
 kitchen, N/A O O
 though, N/A O O
 the N/A O O
@@ -100657,7 +100656,7 @@ smooth N/A O O
 and N/A O O
 floral. N/A O O
 Mr. N/A O O
-Hern_ndez N/A O O
+Hernández N/A O O
 has N/A O O
 been N/A O O
 cooking N/A O O
@@ -100738,7 +100737,7 @@ over N/A O O
 last N/A O O
 year N/A O O
 Mr. N/A O O
-Hern_ndez N/A O O
+Hernández N/A O O
 has N/A O O
 seemed N/A O O
 to N/A O O
@@ -100935,7 +100934,7 @@ into N/A O O
 the N/A O O
 smoked N/A O O
 potato N/A O O
-pur_e, N/A O O
+purée, N/A O O
 and N/A O O
 I N/A O O
 would N/A O O
@@ -101017,7 +101016,7 @@ summer N/A O O
 you N/A O O
 found N/A O O
 Mr. N/A O O
-Hern_ndez N/A O O
+Hernández N/A O O
 knocking N/A O O
 cuisines N/A O O
 together N/A O O
@@ -101056,7 +101055,7 @@ sea N/A O O
 scallops, N/A O O
 sweet N/A O O
 potato N/A O O
-pur_e N/A O O
+purée N/A O O
 and N/A O O
 trout N/A O O
 roe, N/A O O
@@ -101091,7 +101090,7 @@ of N/A O O
 romesco N/A O O
 aioli. N/A O O
 Mr. N/A O O
-Hern_ndez's N/A O O
+Hernández's N/A O O
 imagination N/A O O
 fights N/A O O
 against N/A O O
@@ -101190,7 +101189,7 @@ drizzle N/A O O
 of N/A O O
 20-year-old N/A O O
 Pedro N/A O O
-Xim_nez N/A O O
+Ximénez N/A O O
 sherry, N/A O O
 thick N/A O O
 as N/A O O
@@ -101211,7 +101210,7 @@ don't N/A O O
 know, N/A O O
 but N/A O O
 Mr. N/A O O
-Hern_ndez N/A O O
+Hernández N/A O O
 does. N/A O O
 Follow N/A O O
 NYT N/A O O
@@ -101304,7 +101303,7 @@ Spanish N/A O O
 rico!"), N/A O O
 French N/A O O
 ("bon N/A O O
-app_tit") N/A O O
+appétit") N/A O O
 and N/A O O
 Tagalog N/A O O
 ("masarap," N/A O O
@@ -102132,7 +102131,7 @@ choices N/A O O
 are N/A O O
 not N/A O O
 as N/A O O
-outr_ N/A O O
+outré N/A O O
 as N/A O O
 they N/A O O
 are N/A O O

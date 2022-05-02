@@ -1,9 +1,9 @@
 import json
-import jsonlines
 from collections import defaultdict
 from data_process_utils import read_file, change_encoding, match_meta, get_date
 
 FILES = ["aparna_annotations.jsonl", "june_annotations.jsonl", "ayla_annotations.jsonl"]
+# FILES = ["aparna_annotations_fixed.jsonl", "june_annotations_fixed.jsonl", "ayla_annotations_fixed.jsonl"]
 PATH = "../data/annotated_data/"
 METAFILE = "../data/raw_data/cleaned_reviews.json"
 DOCSTART = "-DOCSTART-\t-X-\t-X-\tO\n"
@@ -27,7 +27,6 @@ def make_conll(annotations, out_path):
         for doc in annotation:
             meta_doc = match_meta(doc, metadata)
             doc_id = meta_doc["id"]
-
             # date = meta_doc["date"]
             for tok_tag_row in meta_doc["data"].split("\n"):
                 if len(tok_tag_row.split()) > 1:  # if the line contains a token and tag
@@ -66,6 +65,7 @@ def make_conll(annotations, out_path):
 def main():
     # read in the properly encoded files
     annotated_files = [read_file(PATH + filename) for filename in FILES]
+    # make_conll(annotated_files, "../90_UPDATED_all_annotations_notfixed.txt")
     make_conll(annotated_files, "../90_UPDATED_all_annotations.txt")
 
 
