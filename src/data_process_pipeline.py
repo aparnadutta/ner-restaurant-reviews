@@ -67,7 +67,7 @@ def main():
     annotated_files = [read_file(PATH + filename) for filename in FILES]
     # make_conll(annotated_files, "../90_UPDATED_all_annotations_notfixed.txt")
     make_conll(annotated_files, "../90_UPDATED_all_annotations.txt")
-
+g
 
 if __name__ == "__main__":
     main()
