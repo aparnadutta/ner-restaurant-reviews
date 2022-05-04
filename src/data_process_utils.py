@@ -37,9 +37,8 @@ def get_date(url: str) -> int:
 
 def match_meta(annotated: dict, meta: Sequence[dict]) -> dict:
     data = annotated["data"]
-    data_text = [x.split()[0] for x in data.split("\n") if x]
     for mdict in meta:
-        if data_text[1:6] == mdict["review_text"].split()[:5]:
+        if data[1:20] == mdict["review_text"][1:20]:
             annotated["url"] = mdict["review_url"]
             annotated["date"] = get_date(mdict["review_url"])
             annotated["rec_dishes"] = mdict["rec_dishes"]

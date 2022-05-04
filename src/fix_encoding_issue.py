@@ -15,8 +15,10 @@ def main() -> None:
     out_filename = filename[:-6] + '_fixed.jsonl'
     with open(filepath+out_filename, 'w', encoding='utf8') as out_f:
         with open(filepath+filename, 'r', encoding='utf8') as f:
+            # read each of the lines in the file
             for line in f:
                 data = json.loads(line)
+                # replace the weird characters (currently with _)
                 data['data'] = fix_with_regex(data['data'])
                 out_f.write(json.dumps(data) + '\n')
 
