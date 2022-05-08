@@ -1,13 +1,7 @@
 """
-Go through updated_all_annotations.txt
-Write to adjudicated_annotations.txt
-Write each line
-Pick an annotator
+Runs adjudication and creates gold standard annotation file
 """
 
-from typing import NamedTuple
-
-# Assumes you are running script from inside src directory
 INPUT_PATH = "all_annotations.txt"
 OUTPUT_PATH = "adjudicated_annotations.txt"
 
@@ -17,28 +11,17 @@ DELIM = " "
 EMPTY = "None"
 
 
-class Annotation(NamedTuple):
-    """
-    An immutable annotation with a token and annotations from three annotators
-    """
-    token: str
-    annotator_0: str
-    annotator_1: str
-    annotator_2: str
-
-
 def adjudicate():
     with open(INPUT_PATH, "r") as input_file, open(OUTPUT_PATH, "w") as output_file:
         for line in input_file:
             if line != "\n":
-                tok, col0, col1, col2 = line.strip().split(" ")
-                annotation = Annotation(token=tok, annotator_0=col0, annotator_1=col1, annotator_2=col2)
-                if annotation.token == DOCSTART:
+                token, annotator0, annotator1, annotator2 = line.strip().split(" ")
+                if token == DOCSTART:
                     print(DOCSTART + DELIM + OUTSIDE, file=output_file)
-                elif annotation.annotator_1 != EMPTY:
-                    print(annotation.token + DELIM + annotation.annotator_1, file=output_file)
-                elif annotation.annotator_0 != EMPTY:
-                    print(annotation.token + DELIM + annotation.annotator_0, file=output_file)
+                elif annotator1 != EMPTY:
+                    print(token + DELIM + annotator1, file=output_file)
+                elif annotator0 != EMPTY:
+                    print(token + DELIM + annotator0, file=output_file)
                 else:
                     print("ERROR: ", line)
             else:
