@@ -30,10 +30,8 @@ def encode_bio(spacy_sent: Sequence[str], mentions: Sequence[tuple]) -> list[str
         ment_start, ment_end, ment_type = mention
 
         doc_mention = spacy_sent[0].doc[ment_start:ment_end]
-        # if doc_mention != ". Hutong":
         ment_start = ment_start - token_offset
         ment_end = ment_end - token_offset
-        # print("Document mention:", doc_mention)
 
         assert ment_start >= 0, f"Bad mention start: {ment_start}"
         assert ment_end > 0, f"Bad mention end: {ment_end}"
