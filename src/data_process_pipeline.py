@@ -11,7 +11,7 @@ FILES = ["aparna_annotations.jsonl", "edit_june.jsonl", "edit_ayla.jsonl"]
 PATH = "../data/annotated_data/"
 METAFILE = "../data/raw_data/cleaned_reviews.json"
 
-DOCSTART = "-DOCSTART-\t-X-\t-X-\tO\n"
+DOCSTART = "-DOCSTART- -X- -X- O\n"
 
 nlp = spacy.load("en_core_web_sm")
 

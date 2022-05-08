@@ -1,4 +1,4 @@
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The O None None
 age O None None
@@ -1200,7 +1200,7 @@ French B-CUISINE None None
 cuisine O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 " O None None
 I O None None
@@ -2709,7 +2709,7 @@ Jews O None None
 instead O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 We O None None
 were O None None
@@ -4022,7 +4022,7 @@ whole O None None
 show O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 " O None None
 They O None None
@@ -5356,7 +5356,7 @@ a O None None
 croqueta B-FOOD None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 If O None None
 you O None None
@@ -6691,7 +6691,7 @@ of O None None
 tradition O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Morten O None None
 Sohlberg O None None
@@ -8016,7 +8016,7 @@ a O None None
 restaurant O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Halfway O None None
 through O None None
@@ -9410,7 +9410,7 @@ it O None None
 is O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Look O None None
 inside O None None
@@ -10768,7 +10768,7 @@ Chen O None None
 's O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 When O None None
 I O None None
@@ -12057,7 +12057,7 @@ like O None None
 this O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Some O O None
 restaurants O O None
@@ -13300,7 +13300,7 @@ new O O None
 challenge O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The O None None
 deepest O None None
@@ -15013,7 +15013,7 @@ always O None None
 perfect O None None
 . O None None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Nobody O O None
 goes O O None
@@ -16363,7 +16363,7 @@ n't O O None
 Rome B-LOC B-LOC None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 A O O None
 new O O None
@@ -17804,7 +17804,7 @@ of O O None
 them O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 A O O None
 little O O None
@@ -19215,7 +19215,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 I O O None
 was O O None
@@ -20571,7 +20571,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Can O O None
 anybody O O None
@@ -21929,7 +21929,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Ever O O None
 since O O None
@@ -23337,7 +23337,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Anthony O O None
 Bourdain O O None
@@ -24534,7 +24534,7 @@ doubt O O None
 . O O None
 " O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 At O O None
 some O O None
@@ -25919,7 +25919,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Real O O None
 estate O O None
@@ -27449,7 +27449,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The None O None
 Islands None B-EST None
@@ -28885,7 +28885,7 @@ shopping None O None
 advice None O None
 . None O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Remember None O None
 sukiyaki None B-FOOD None
@@ -30151,7 +30151,7 @@ shopping None O None
 advice None O None
 . None O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Riad None O None
 Nasr None O None
@@ -31776,7 +31776,7 @@ shopping None O None
 advice None O None
 . None O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Until None O None
 the None O None
@@ -33539,7 +33539,7 @@ shopping None O None
 advice None O None
 . None O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Good None O None
 morning None O None
@@ -34718,7 +34718,7 @@ U.C. None O None
 Berkeley None O None
 . None O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 There None O O
 is None O O
@@ -36002,7 +36002,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Coco None B-EST B-EST
 Pazzo None I-EST I-EST
@@ -37392,7 +37392,7 @@ it None O O
 on None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 First None O O
 he None O O
@@ -38211,7 +38211,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Flynn None O O
 McGarry None O O
@@ -39650,7 +39650,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The None O O
 rustic None O O
@@ -41029,7 +41029,7 @@ East None B-LOC B-LOC
 Village None I-LOC I-LOC
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 There O None O
 was O None O
@@ -42542,7 +42542,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Considering O None O
 the O None O
@@ -43856,7 +43856,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 " O None O
 People O None O
@@ -45347,7 +45347,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Sometimes O None O
 when O None O
@@ -46818,7 +46818,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 During O None O
 the O None O
@@ -48223,7 +48223,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Shrinking O None O
 modesty O None O
@@ -49625,7 +49625,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 A O None O
 card O None O
@@ -51108,7 +51108,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The O None O
 rise O None O
@@ -52586,7 +52586,7 @@ New B-LOC None B-LOC
 York I-LOC None I-LOC
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Earlier O None O
 this O None O
@@ -54069,7 +54069,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 For O None O
 most O None O
@@ -55595,7 +55595,7 @@ a O None O
 beacon O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Almost O O None
 everybody O O None
@@ -56959,7 +56959,7 @@ to O O None
 have O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Something O O None
 has O O None
@@ -58438,7 +58438,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Alex O O None
 Raij O O None
@@ -59764,7 +59764,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 There O O None
 is O O None
@@ -61399,7 +61399,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Something O O None
 seems O O None
@@ -62773,7 +62773,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Americans O O None
 who O O None
@@ -64058,7 +64058,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The O O None
 fancy O O None
@@ -65498,7 +65498,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Dated O O None
 was O O None
@@ -66843,7 +66843,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The O O None
 nice O O None
@@ -68488,7 +68488,7 @@ food O O None
 chain O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 New B-LOC B-LOC None
 York I-LOC I-LOC None
@@ -69870,7 +69870,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Need None O O
 opinions None O O
@@ -71779,7 +71779,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 It None O O
 is None O O
@@ -72201,7 +72201,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Cherry None B-EST B-EST
 Point None I-EST I-EST
@@ -73690,7 +73690,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The None O O
 great None O O
@@ -75132,7 +75132,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Part None O O
 of None O O
@@ -76578,7 +76578,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 For None O O
 an None O O
@@ -77043,7 +77043,7 @@ comets None O O
 tails None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The None O O
 main None O O
@@ -78460,7 +78460,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The None O O
 best None O O
@@ -79847,7 +79847,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Before None O O
 I None O O
@@ -81428,7 +81428,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 When None O O
 I None O O
@@ -82917,7 +82917,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Nothing O None O
 about O None O
@@ -83286,7 +83286,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 I O None O
 'm O None O
@@ -84984,7 +84984,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Looking O None O
 around O None O
@@ -86287,7 +86287,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 In O None O
 2012 O None O
@@ -87686,7 +87686,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 If O None O
 you O None O
@@ -89032,7 +89032,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 It O None O
 is O None O
@@ -90494,7 +90494,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 How O None O
 clam B-FOOD None B-DISH
@@ -90959,7 +90959,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 More O None O
 than O None O
@@ -92965,7 +92965,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Hanon B-LOC None B-EST
 , O None O
@@ -94244,7 +94244,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 You O None O
 will O None O
@@ -95636,7 +95636,7 @@ shopping O None O
 advice O None O
 . O None O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 One O O None
 of O O None
@@ -97140,7 +97140,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Good O O None
 restaurants O O None
@@ -98515,7 +98515,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 When O O None
 a O O None
@@ -99964,7 +99964,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Talking O O None
 about O O None
@@ -101599,7 +101599,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 " O O None
 Does O O None
@@ -103015,7 +103015,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The O O None
 chef O O None
@@ -104522,7 +104522,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 The O O None
 high O O None
@@ -106048,7 +106048,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Sooner O O None
 or O O None
@@ -107549,7 +107549,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Some O O None
 restaurants O O None
@@ -108968,7 +108968,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 In O O None
 the O O None
@@ -110397,7 +110397,7 @@ shopping O O None
 advice O O None
 . O O None
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Lately O O O
 I O O O
@@ -111872,7 +111872,7 @@ shopping O O O
 advice O O O
 . O O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 New None B-LOC B-LOC
 York None I-LOC I-LOC
@@ -113369,7 +113369,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Four None O O
 summers None O O
@@ -114715,7 +114715,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 There None O O
 are None O O
@@ -116108,7 +116108,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Last None O O
 month None O O
@@ -117536,7 +117536,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Billy None O O
 Durney None O O
@@ -119058,7 +119058,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 For None O O
 a None O O
@@ -120592,7 +120592,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Over None O O
 the None O O
@@ -121831,7 +121831,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 Tsismis None B-EST B-EST
 is None O O
@@ -123174,7 +123174,7 @@ shopping None O O
 advice None O O
 . None O O
 
--DOCSTART-	-X-	-X-	O
+-DOCSTART- -X- -X- O
 
 I None O O
 can None O O
