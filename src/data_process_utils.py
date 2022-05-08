@@ -8,6 +8,10 @@ from doccano_transformer.utils import read_jsonl
 
 
 METAFILE = "raw_data/cleaned_reviews.json"
+BEGIN = "B"
+INSIDE = "I"
+OUTSIDE = "O"
+DELIM = "-"
 
 
 def read_file(filepath: str) -> Any:
@@ -16,15 +20,31 @@ def read_file(filepath: str) -> Any:
     return dataset.to_conll2003(tokenizer=str.split)
 
 
-def change_encoding(inputfile: str, outputfile: str) -> None:
-    """Makes sure the encoding is in utf8"""
-    with open(inputfile, "r", encoding="iso-8859-1") as in_file:
-        reader = jsonlines.Reader(in_file)
-        objects = [obj for obj in reader.iter(type=dict)]
+def encode_bio(spacy_sent: Sequence[str], mentions: Sequence[tuple]) -> list[str]:
+    # sent_length = spacy_sent.end - spacy_sent.start
+    sent = [tok.text for tok in spacy_sent]
+    sent_length = len(sent)
+    token_offset = spacy_sent.start
+    labels = [OUTSIDE] * sent_length
+    for mention in mentions:
+        ment_start, ment_end, ment_type = mention
 
-    with open(outputfile, "w", encoding="utf8") as outfile:
-        writer = jsonlines.Writer(outfile)
-        writer.write_all(objects)
+        doc_mention = spacy_sent[0].doc[ment_start:ment_end]
+        # if doc_mention != ". Hutong":
+        ment_start = ment_start - token_offset
+        ment_end = ment_end - token_offset
+        # print("Document mention:", doc_mention)
+
+        assert ment_start >= 0, f"Bad mention start: {ment_start}"
+        assert ment_end > 0, f"Bad mention end: {ment_end}"
+        assert ment_start <= ment_end, f"Bad mention indices, start: {ment_start}, end: {ment_end}\n Mention: {mention}\n Sentence: {sent}"
+        assert ment_start < sent_length, f"Mention start greater than sent_len, start: {ment_start}, sent_len: {sent_length}"
+        assert ment_end <= sent_length, f"Mention end greater than sent_len, end: {ment_end}, sent_len: {sent_length} \n Mention: {mention}\n Sentence: {sent}\nDoc_mention: {doc_mention}"
+
+        labels[ment_start] = BEGIN + DELIM + ment_type
+        for i in range(ment_start + 1, ment_end):
+            labels[i] = INSIDE + DELIM + ment_type
+    return labels
 
 
 def get_date(url: str) -> int:
