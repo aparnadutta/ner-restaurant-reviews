@@ -82,7 +82,6 @@ def char_to_tokens(annotator_docs: list[dict]) -> list[dict]:
     return annotator_docs
 
 
-# def make_conll(annotations, out_path):
 def make_conll(filepaths: list[str], out_path):
     def read_file(filepath: str):
         path_prefix = "../data/raw_annotations/"
