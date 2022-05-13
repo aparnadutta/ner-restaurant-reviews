@@ -11,10 +11,6 @@ def find_review(bs):
 
     tag_searches = [("p", re.compile("css-g5piaz evys1bk0"))]
 
-    # patterns from original code (2018)
-    # tag_searches = [('p', re.compile('css-xhhu0i e2kc3sl0')),
-    #                 ('p', re.compile('story-body-text story-content')),
-    #                 ('p', re.compile('css-1i0edl6'))]
     for (tag, regex) in tag_searches:
         result = bs.find_all(tag, {"class": regex})
         if len(result) > 0:
@@ -164,8 +160,6 @@ def get_review(counter):
 
 
 # Main loop to read all reviews obtained using the review_fetcher.py script
-# TODO the HTML for ratings, prices, recommended foods has changed.
-#  Do we need this? If so, we will need to figure out which html class they are in now.
 if __name__ == "__main__":
     with open("../../html_reviews/url_list.txt", "r") as url_file:
         urls = json.load(url_file)
@@ -189,9 +183,6 @@ if __name__ == "__main__":
             "rec_dishes": rec_dishes,
         }
         cleaned_reviews.append(restaurant_info)
-        # else:
-        #     print("NA review parse:\n", find_review(parsed))
-        #     unprocessed_URLS.append(review_url)
     print("Completed {0:3d}/{0}".format(total))
 
     # There are still some articles for which we can't find a star rating.
