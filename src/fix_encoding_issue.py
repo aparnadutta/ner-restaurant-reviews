@@ -11,7 +11,7 @@ def fix_with_regex(data: str) -> str:
 
 def main() -> None:
     filename = sys.argv[-1]
-    filepath = '../data/annotated_data/'
+    filepath = '../data/raw_annotations/'
     out_filename = filename[:-6] + '_fixed.jsonl'
     with open(filepath+out_filename, 'w', encoding='utf8') as out_f:
         with open(filepath+filename, 'r', encoding='utf8') as f:

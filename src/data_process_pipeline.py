@@ -8,7 +8,7 @@ from unidecode import unidecode
 
 # FILES = ["aparna_annotations.jsonl", "june_annotations.jsonl", "ayla_annotations.jsonl"]
 FILES = ["aparna_annotations.jsonl", "edit_june.jsonl", "edit_ayla.jsonl"]
-PATH = "../data/annotated_data/"
+PATH = "../data/raw_annotations/"
 METAFILE = "../data/raw_data/cleaned_reviews.json"
 
 DOCSTART = "-DOCSTART- -X- -X- O\n"
@@ -85,7 +85,7 @@ def char_to_tokens(annotator_docs: list[dict]) -> list[dict]:
 # def make_conll(annotations, out_path):
 def make_conll(filepaths: list[str], out_path):
     def read_file(filepath: str):
-        path_prefix = "../data/annotated_data/"
+        path_prefix = "../data/raw_annotations/"
         annotated_docs: list[dict] = []
         with open(path_prefix + filepath, "r", encoding="utf8") as f:
             for doc_line in f:

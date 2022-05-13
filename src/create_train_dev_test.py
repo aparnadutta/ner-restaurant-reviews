@@ -39,9 +39,9 @@ def write_splits(documents: list[list[str]]):
                 for line in doc:
                     out_f.write(line + "\n")
 
-    write_file("../data/final_data_splits/train.txt", train)
-    write_file("../data/final_data_splits/dev.txt", dev)
-    write_file("../data/final_data_splits/test.txt", test)
+    write_file("../data/train.txt", train)
+    write_file("../data/dev.txt", dev)
+    write_file("../data/test.txt", test)
 
 
 if __name__ == '__main__':
