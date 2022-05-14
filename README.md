@@ -1,27 +1,64 @@
-# ner-restaurant-reviews
-An annotated corpus of entities in NYT Restaurant Reviews.
+# NER for Restaurant Reviews
+
+## Set Up Virtual Environment
+
+```commandline
+$ python3 -m venv ner-reviews
+$ source ner-reviews/bin/activate
+(ner-reviews) $ pip3 install -r requirements.txt
+```
+If you prefer [`conda`](https://docs.conda.io/en/latest/miniconda.html): 
+```commandline
+$ conda create -n ner-reviews python=3.9
+$ conda activate ner-reviews
+(ner-reviews) $ pip3 install -r requirements.txt
+```
+
+## Data
+
+### [`annotated_data`](data/annotated_data)
+
+### [`final_data_splits`](data/final_data_splits)
+
+### [`html_reviews`](data/html_reviews)
+
+### [`raw_data`](data/raw_data)
+
+### [`small_batch_annotation`](data/small_batch_annotation)
+
+### [`adjudicated_annotations.txt`](data/adjudicated_annotations.txt)
+
+### [`all_annotations.txt`](data/all_annotations.txt)
+
+### [`tags.json`](data/tags.json)
 
 
-* src/data_process_pipeline.py -> all_annotations.txt
-* src/adjudication.py -> adjudicated_annotations.txt
 
-IGNORE +  REMOVE
-* src/replace_none.py -> all_annotations_replace_none.txt
-* src/split_data.py -> annotations_split
-* src/run_seqscore.py -> adjudicated_data
+## Scripts 
 
-CLEAN (JUNE)
-* Above (Seqscore adjudication scripts and files)
-  * Remove replace_none.py
-  * Remove run_seqscore.py
-  * Remove split_data.py
-  * Remove all_annotations_replace_none.txt
-* Make folder for adjudication?
-* Write inter_annotator_agreement.py
-* readable_annotations.py?
-* Move txt files to data?
-* Change UPDATED_all_annotations name
+### [`clean_data.py`](src/data_scraping/clean_data.py)
 
-TO DO
-* Run Seqscore count and validate
-* Find out how many documents overlap between each annotator
+### [`prepare_data.py`](src/data_scraping/prepare_data.py)
+
+### [`review_fetcher.py`](src/data_scraping/review_fetcher.py)
+
+### [`adjudication.py`](src/adjudication.py)
+
+### [`create_train_dev_test.py`]()
+
+### [`data_process_pipeline.py`]()
+
+### [`data_process_utils.py`]()
+
+### [`doccano_transformer_examples.py`]()
+
+### [`fix_encoding_issue.py`]()
+
+### [`inter_annotator_agreement.py`]()
+
+### [`NER_restaurant_reviews.ipynb`]()
+
+### [`run_seqscore.py`]()
+
+
+
