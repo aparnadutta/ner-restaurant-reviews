@@ -2,8 +2,8 @@
 Runs adjudication and creates gold standard annotation file
 """
 
-INPUT_PATH = "all_annotations.txt"
-OUTPUT_PATH = "adjudicated_annotations.txt"
+INPUT_PATH = "../data/all_annotations.txt"
+OUTPUT_PATH = "../data/adjudicated_annotations.txt"
 
 DOCSTART = "-DOCSTART-"
 OUTSIDE = "O"

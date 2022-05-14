@@ -45,5 +45,5 @@ def write_splits(documents: list[list[str]]):
 
 
 if __name__ == '__main__':
-    docs = load_all_documents("../adjudicated_annotations.txt")
+    docs = load_all_documents("../data/adjudicated_annotations.txt")
     write_splits(docs)

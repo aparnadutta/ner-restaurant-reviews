@@ -147,7 +147,7 @@ def make_conll(filepaths: list[str], out_path):
 
 
 def main():
-    make_conll(FILES, "../all_annotations.txt")
+    make_conll(FILES, "../data/all_annotations.txt")
 
 
 if __name__ == "__main__":
