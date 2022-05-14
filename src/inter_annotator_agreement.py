@@ -1,13 +1,14 @@
-"""Functions for computing Cohen's kappa (𝜅), a measure of inter-annotator
-agreement between exactly two annotators."""
+"""
+Computes Cohen's kappa (𝜅), a measure of inter-annotator agreement between two annotators
+"""
 
 from typing import NamedTuple
 from sklearn.metrics import cohen_kappa_score
 
-PATH = "90_UPDATED_all_annotations.txt"
+PATH = "../data/all_annotations.txt"
 
 DOCSTART = "-DOCSTART-"
-NO_ANNOTATION = "N/A"
+NO_ANNOTATION = "None"
 
 # 27955 27955
 # June and Ayla:  0.7691149155717287
@@ -15,6 +16,17 @@ NO_ANNOTATION = "N/A"
 # Ayla and Aparna:  0.7214786237867662
 # 35512 35512
 # Aparna and June:  0.8345672763997536
+
+# 32457 32457
+# June and Ayla:  0.8253647885658665
+# June and Ayla, no O:  0.6512160228105437
+# 26260 26260
+# Ayla and Aparna:  0.827876532786123
+# Ayla and Aparna, no O:  0.6639660205282213
+# 41120 41120
+# Aparna and June:  0.8380841740032121
+# Aparna and June, no O:  0.6669724849550328
+
 
 
 class IAA(NamedTuple):
@@ -33,16 +45,6 @@ class IAA(NamedTuple):
             self.annotations2 + other.annotations2
         )
 
-
-# Aparna 0, June 1, Ayla 2
-# Check for ONLY TWO ANNOTATORS (there are some documents with 1 and some with 3)
-# Find out how many documents per pair of annotators
-
-# Give two files of annotators
-# Find overlapping reviews
-# Process and calculate IAA??
-
-# Try without O
 
 def run():
     june_ayla = IAA([], [])
@@ -76,13 +78,19 @@ def run():
                         aparna_june = aparna_june.update(new)
                         if ann0 != "O" or ann1 != "O":
                             aparna_june_no_O = aparna_june_no_O.update(new)
-                    # else:
-                    #     print("LINES WITH 0 OR 1 ANNOTATION:", line.strip())
+                    else:
+                        print("LINES WITH 0 OR 1 ANNOTATION:", line.strip())
 #     Calculate IAA
+    print(len(june_ayla.annotations1), len(june_ayla.annotations2))
     print("June and Ayla: ", june_ayla.cohen_kappa)
     print("June and Ayla, no O: ", june_ayla_no_O.cohen_kappa)
+    print(june_ayla_no_O.annotations1)
+    print()
+    print(june_ayla_no_O.annotations2)
+    print(len(ayla_aparna.annotations1), len(ayla_aparna.annotations2))
     print("Ayla and Aparna: ", ayla_aparna.cohen_kappa)
     print("Ayla and Aparna, no O: ", ayla_aparna_no_O.cohen_kappa)
+    print(len(aparna_june.annotations1), len(aparna_june.annotations2))
     print("Aparna and June: ", aparna_june.cohen_kappa)
     print("Aparna and June, no O: ", aparna_june_no_O.cohen_kappa)
 
