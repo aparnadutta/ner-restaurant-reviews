@@ -57,8 +57,3 @@ $ conda activate ner-reviews
 ### [`inter_annotator_agreement.py`](src/inter_annotator_agreement.py)
 
 ### [`NER_restaurant_reviews.ipynb`](src/NER_restaurant_reviews.ipynb)
-
-### [`run_seqscore.py`](src/run_seqscore.py)
-
-
-
