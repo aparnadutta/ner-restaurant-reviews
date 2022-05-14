@@ -44,21 +44,21 @@ $ conda activate ner-reviews
 
 ### [`adjudication.py`](src/adjudication.py)
 
-### [`create_train_dev_test.py`]()
+### [`create_train_dev_test.py`](src/create_train_dev_test.py)
 
-### [`data_process_pipeline.py`]()
+### [`data_process_pipeline.py`](src/data_process_pipeline.py)
 
-### [`data_process_utils.py`]()
+### [`data_process_utils.py`](src/data_process_utils.py)
 
-### [`doccano_transformer_examples.py`]()
+### [`doccano_transformer_examples.py`](src/doccano_transformer_examples.py)
 
-### [`fix_encoding_issue.py`]()
+### [`fix_encoding_issue.py`](src/fix_encoding_issue.py)
 
-### [`inter_annotator_agreement.py`]()
+### [`inter_annotator_agreement.py`](src/inter_annotator_agreement.py)
 
-### [`NER_restaurant_reviews.ipynb`]()
+### [`NER_restaurant_reviews.ipynb`](src/NER_restaurant_reviews.ipynb)
 
-### [`run_seqscore.py`]()
+### [`run_seqscore.py`](src/run_seqscore.py)
 
 
 
