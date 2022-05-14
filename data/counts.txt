@@ -1,0 +1,4302 @@
+84	LOC	New York
+52	FOOD	fish
+43	FOOD	pizza
+41	FOOD	meat
+38	FOOD	sauce
+36	CUISINE	French
+35	FOOD	seafood
+35	FOOD	noodles
+32	FOOD	broth
+30	LOC	Manhattan
+30	CUISINE	Korean
+29	FOOD	pasta
+29	FOOD	vegetables
+27	FOOD	dough
+27	FOOD	rice
+27	CUISINE	Italian
+26	FOOD	beef
+23	FOOD	crust
+21	CUISINE	Chinese
+21	FOOD	shrimp
+21	FOOD	bread
+20	FOOD	salad
+20	FOOD	garlic
+20	FOOD	wine
+20	FOOD	lamb
+19	FOOD	soup
+19	LOC	New York City
+19	TYPE	bar
+19	FOOD	butter
+19	FOOD	sushi
+19	LOC	Brooklyn
+18	FOOD	chicken
+18	LOC	East Village
+18	LOC	Japan
+17	FOOD	pie
+17	CUISINE	Japanese
+16	EST	Sammy
+16	FOOD	salt
+16	FOOD	wines
+16	FOOD	cheese
+16	EST	Foxface
+15	FOOD	tomatoes
+15	EST	Pastis
+15	EST	Nobu
+15	EST	Four Seasons
+15	EST	Violet
+14	FOOD	chiles
+13	EST	Cherche Midi
+13	FOOD	mushrooms
+13	FOOD	herbs
+13	FOOD	yogurt
+13	EST	Islands
+13	EST	Atomix
+13	EST	Kawi
+13	EST	Peter Luger
+12	FOOD	pork
+12	FOOD	potatoes
+12	FOOD	pies
+12	FOOD	pizzas
+12	EST	Wokuni
+12	FOOD	coffee
+12	FOOD	hot pot
+12	EST	Misi
+12	EST	Del Posto
+12	EST	Frevo
+12	EST	Luger
+11	TYPE	pizzeria
+11	LOC	Lower East Side
+11	EST	Elan
+11	FOOD	ginger
+11	FOOD	olive oil
+11	CUISINE	Vietnamese
+11	FOOD	spinach
+11	FOOD	cucumbers
+11	FOOD	crayfish
+11	EST	Ko
+11	EST	Momofuku
+11	FOOD	cream
+11	EST	Saint Julivert
+11	EST	Al Forno
+11	EST	Babs
+10	EST	Claudette
+10	FOOD	fries
+10	EST	Blue Hill
+10	LOC	China
+10	FOOD	soy
+10	FOOD	cilantro
+10	FOOD	eggplant
+10	CUISINE	American
+10	EST	Marta
+10	LOC	Paris
+10	TYPE	cafe
+10	FOOD	sake
+10	FOOD	lettuce
+10	EST	Legacy Records
+10	EST	Nippon
+10	FOOD	chocolate
+10	EST	Frenchette
+10	EST	Una Pizza Napoletana
+10	EST	Kopitiam
+10	EST	Manhatta
+10	EST	Odo
+10	EST	Freakin Rican
+10	EST	Crown Shy
+10	EST	Red Hook Tavern
+9	FOOD	oil
+9	FOOD	sea urchin
+9	FOOD	carrots
+9	FOOD	octopus
+9	FOOD	chile oil
+9	FOOD	scallions
+9	FOOD	pastry
+9	LOC	France
+9	FOOD	onions
+9	LOC	Tokyo
+9	FOOD	fruit
+9	FOOD	sandwich
+9	FOOD	clams
+9	TYPE	pop
+9	CUISINE	Sichuan
+9	CUISINE	Indian
+9	EST	Adda
+9	EST	Bang Bar
+9	EST	Rezdora
+9	EST	Hutong
+8	FOOD	steak
+8	EST	Blenheim
+8	FOOD	dill
+8	EST	Bar Bolonat
+8	FOOD	ice cream
+8	CUISINE	Roman
+8	FOOD	sugar
+8	FOOD	beer
+8	CUISINE	Turkish
+8	LOC	London
+8	FOOD	tomato sauce
+8	LOC	Los Angeles
+8	EST	Le Sia
+8	EST	Sofreh
+8	EST	Village Cafe
+8	EST	Mama 's
+8	FOOD	pastas
+8	EST	Casa Enrique
+8	EST	Oxalis
+8	FOOD	mazemen
+8	EST	TAK Room
+8	EST	Lokanta
+8	EST	Fulton
+8	EST	Bread and Salt
+8	EST	Tsismis
+7	FOOD	mint
+7	FOOD	burger
+7	EST	Huertas
+7	EST	Chanterelle
+7	FOOD	pistachios
+7	FOOD	zucchini
+7	LOC	TriBeCa
+7	FOOD	espresso
+7	FOOD	apple
+7	FOOD	fish sauce
+7	FOOD	spices
+7	FOOD	pork belly
+7	FOOD	sauces
+7	FOOD	dumplings
+7	CUISINE	Iranian
+7	FOOD	stew
+7	LOC	Rome
+7	TYPE	pizzerias
+7	FOOD	bread crumbs
+7	EST	Soogil
+7	LOC	South Korea
+7	FOOD	honey
+7	FOOD	chile
+7	EST	Don Angie
+7	LOC	Italy
+7	FOOD	duck
+7	FOOD	snails
+7	LOC	New Jersey
+7	FOOD	basil
+7	FOOD	tomato
+7	EST	Gem
+7	FOOD	milk
+7	EST	Hunan Slurp
+7	EST	Henry
+7	EST	Hwaban
+7	EST	Benno
+7	EST	Cka Ka Qellu
+7	EST	Standard Grill
+7	EST	Haenyeo
+7	EST	Hanon
+7	FOOD	udon
+7	EST	Van Da
+6	EST	Dirty French
+6	TYPE	steakhouses
+6	LOC	Europe
+6	CUISINE	Spanish
+6	FOOD	cake
+6	FOOD	scallops
+6	DIET	vegetarian
+6	EST	Tuome
+6	FOOD	egg
+6	FOOD	eggs
+6	FOOD	nuts
+6	FOOD	pecorino
+6	FOOD	mozzarella
+6	FOOD	foie gras
+6	FOOD	cabbage
+6	FOOD	cocktails
+6	FOOD	toast
+6	FOOD	sashimi
+6	FOOD	daikon
+6	FOOD	shabu shabu
+6	FOOD	dashi
+6	LOC	Hudson Yards
+6	FOOD	parsley
+6	FOOD	fried chicken
+6	CUISINE	Azerbaijani
+6	CUISINE	English
+6	LOC	Mexico
+6	CUISINE	Hunanese
+6	FOOD	ceviche
+6	FOOD	strawberries
+6	FOOD	won tons
+6	EST	Madame Vo BBQ
+6	LOC	Queens
+6	EST	Union Pacific
+6	EST	Wayan
+6	EST	701West
+6	EST	Belle Harlem
+5	FOOD	tuna
+5	FOOD	gravy
+5	CUISINE	Basque
+5	FOOD	caramel
+5	FOOD	potato
+5	FOOD	baguette
+5	FOOD	sausages
+5	LOC	West Village
+5	FOOD	fruits
+5	EST	Eleven Madison Park
+5	FOOD	bacon
+5	FOOD	Sichuan peppercorns
+5	LOC	Hunan
+5	FOOD	turkey
+5	FOOD	mustard
+5	FOOD	kimchi
+5	FOOD	squid
+5	FOOD	tofu
+5	FOOD	gin
+5	EST	Simon & the Whale
+5	FOOD	chicken livers
+5	FOOD	fugu
+5	FOOD	meatballs
+5	FOOD	tomato -
+5	FOOD	toasted almonds
+5	FOOD	cocktail
+5	FOOD	allspice
+5	FOOD	ketchup
+5	LOC	United States
+5	FOOD	fluke
+5	FOOD	water
+5	FOOD	chickpeas
+5	FOOD	sandwiches
+5	FOOD	salsa
+5	FOOD	lemongrass
+5	CUISINE	Peruvian
+5	EST	Shoji
+5	FOOD	tea
+5	FOOD	noodle
+5	LOC	India
+5	FOOD	anchovies
+5	EST	Lilia
+5	FOOD	buttercream
+5	FOOD	vegetable
+5	FOOD	soy sauce
+5	EST	Intersect
+5	FOOD	mole poblano
+5	FOOD	lime
+5	EST	Cherry Point
+5	FOOD	burgers
+5	LOC	Vietnam
+5	LOC	Rhode Island
+5	EST	Dok Suni
+5	FOOD	wings
+5	EST	Spice Market
+5	FOOD	banh beo
+5	LOC	Hong Kong
+5	FOOD	absinthe
+4	FOOD	cumin
+4	FOOD	lemon juice
+4	FOOD	pastries
+4	EST	Per Se
+4	FOOD	liver
+4	DISH	prime rib
+4	FOOD	fennel
+4	TYPE	bistro
+4	FOOD	chorizo
+4	FOOD	corn
+4	EST	Contra
+4	FOOD	duck fat
+4	CUISINE	Asian fusion
+4	CUISINE	Asian
+4	FOOD	chanterelles
+4	FOOD	rolls
+4	LOC	Greenwich Village
+4	LOC	California
+4	EST	Commerce
+4	EST	Noma
+4	FOOD	mashed potatoes
+4	FOOD	dumpling
+4	EST	Dumpling Galaxy
+4	FOOD	flour
+4	FOOD	sesame
+4	DISH	baklava
+4	FOOD	batter
+4	FOOD	flatbread
+4	CUISINE	nouvelle
+4	FOOD	sesame seeds
+4	EST	Daniel
+4	FOOD	mackerel
+4	FOOD	wasabi
+4	FOOD	red wine
+4	FOOD	fried dough
+4	FOOD	seeds
+4	FOOD	cherry tomatoes
+4	TYPE	izakaya
+4	FOOD	bluefin
+4	FOOD	tempura
+4	FOOD	jelly
+4	FOOD	lemon
+4	EST	Quality Italian
+4	LOC	Midtown
+4	EST	Pasquale Jones
+4	FOOD	risotto
+4	FOOD	pepper
+4	FOOD	stews
+4	FOOD	salads
+4	FOOD	raw fish
+4	FOOD	whole -
+4	FOOD	pineapple
+4	FOOD	cucumber
+4	FOOD	oregano
+4	FOOD	asparagus
+4	FOOD	whipped cream
+4	FOOD	lobster
+4	CUISINE	Ukrainian
+4	FOOD	miso
+4	EST	Nobu Downtown
+4	LOC	Chelsea
+4	LOC	Iran
+4	TYPE	kaiseki
+4	EST	Le Coucou
+4	FOOD	nori
+4	FOOD	gochujang
+4	FOOD	prawns
+4	LOC	Williamsburg ,
+4	FOOD	black pepper
+4	CUISINE	Puerto Rican
+4	FOOD	cornmeal
+4	FOOD	roll
+4	FOOD	quinoa
+4	EST	Smorgasburg
+4	FOOD	passion -
+4	CUISINE	Mexican
+4	EST	Cosme
+4	FOOD	black sea bass
+4	FOOD	bialy
+4	FOOD	rutabaga
+4	EST	Madame Vo
+4	LOC	Hanoi
+4	DISH	kajmak
+4	TYPE	speakeasy
+4	LOC	Providence
+4	LOC	New Haven
+4	FOOD	pesto
+4	FOOD	tahini
+4	FOOD	ramen
+4	EST	Niche
+4	LOC	Hue
+4	FOOD	white chocolate
+4	LOC	Emilia
+4	LOC	Chongqing
+4	EST	Da Long Yi
+4	FOOD	dim sum
+4	EST	Mimi
+4	CUISINE	Filipino
+3	FOOD	frogs '
+3	LOC	Fifth Avenue
+3	FOOD	snap peas
+3	FOOD	hummus
+3	LOC	Provence
+3	FOOD	schmaltz
+3	LOC	Detroit
+3	LOC	Bowery
+3	LOC	Canal Street
+3	FOOD	dry -
+3	EST	Schiller 's Liquor
+3	EST	Balthazar
+3	FOOD	brown butter
+3	LOC	Spain
+3	FOOD	vermouth
+3	LOC	San Francisco
+3	FOOD	pan -
+3	FOOD	panna cotta
+3	FOOD	chocolate mousse
+3	FOOD	blueberries
+3	FOOD	thyme
+3	FOOD	Cheddar
+3	FOOD	veal
+3	FOOD	leaves
+3	FOOD	hard -
+3	FOOD	maple syrup
+3	LOC	Flushing ,
+3	TYPE	bakery
+3	FOOD	scrambled eggs
+3	LOC	Flushing
+3	LOC	Broadway
+3	FOOD	green chiles
+3	FOOD	mochi
+3	FOOD	curry
+3	FOOD	turmeric
+3	FOOD	soups
+3	FOOD	za'atar
+3	FOOD	short rib
+3	FOOD	dates
+3	LOC	Central Park
+3	FOOD	Burgundy
+3	LOC	England
+3	LOC	America
+3	FOOD	tripe
+3	FOOD	pulp
+3	FOOD	arugula
+3	DISH	tiramisu
+3	FOOD	sparkling wines
+3	FOOD	Champagnes
+3	FOOD	Champagne
+3	FOOD	drumstick
+3	FOOD	mussels
+3	FOOD	dressing
+3	FOOD	oysters
+3	EST	Hanjan
+3	FOOD	dipping sauce
+3	FOOD	bun
+3	FOOD	shellfish
+3	FOOD	rice cake
+3	EST	Fedora
+3	FOOD	pears
+3	FOOD	pickled onions
+3	FOOD	spring peas
+3	FOOD	firefly squid
+3	DISH	Caesar salad
+3	FOOD	romaine
+3	LOC	Bronx
+3	FOOD	kelp
+3	LOC	Delancey Street
+3	EST	Shabushabu Macoron
+3	FOOD	condiments
+3	FOOD	purees
+3	FOOD	sweet soy
+3	EST	Charlie Bird
+3	FOOD	basil leaves
+3	FOOD	prosciutto
+3	FOOD	barbecue
+3	LOC	New Orleans
+3	EST	Restaurant Nippon
+3	FOOD	chives
+3	TYPE	brasserie
+3	FOOD	peas
+3	FOOD	bone marrow
+3	FOOD	bottarga
+3	EST	Benoit
+3	FOOD	sparkling water
+3	EST	Wildair
+3	FOOD	pepperoni
+3	FOOD	blue cheese
+3	FOOD	marinara
+3	FOOD	buffalo mozzarella
+3	FOOD	cultured butter
+3	FOOD	taco
+3	FOOD	raw sea scallops
+3	TYPE	wine bar
+3	FOOD	white -
+3	CUISINE	Tuscan
+3	FOOD	favas
+3	TYPE	sushi bar
+3	LOC	Asia
+3	LOC	North America
+3	EST	Eureka
+3	FOOD	cherries
+3	FOOD	tortilla
+3	TYPE	bars
+3	LOC	Houston
+3	LOC	Hudson Street
+3	EST	Nobu Fifty Seven
+3	FOOD	sorbet
+3	FOOD	kebabs
+3	FOOD	walnuts
+3	FOOD	feta
+3	FOOD	halibut
+3	LOC	Virginia
+3	FOOD	roe
+3	FOOD	cortado
+3	CUISINE	Malaysian
+3	FOOD	beans
+3	DISH	coconut cake
+3	LOC	Brighton Beach
+3	EST	Old Baku
+3	FOOD	corn on the cob
+3	FOOD	sesame oil
+3	EST	Atoboy
+3	EST	Jungsik
+3	LOC	Seoul
+3	LOC	Harlem
+3	FOOD	piri -
+3	FOOD	roti
+3	FOOD	dips
+3	EST	Scarr
+3	FOOD	cheeses
+3	FOOD	chaat
+3	FOOD	coconut milk
+3	CUISINE	modern
+3	FOOD	martini
+3	LOC	Portugal
+3	FOOD	white truffles
+3	EST	Bluebird
+3	DISH	sticky toffee pudding
+3	FOOD	soy -
+3	FOOD	bagel
+3	TYPE	steakhouse
+3	FOOD	focaccia
+3	EST	Frenchie
+3	EST	A
+3	DISH	mole de Piaxtla
+3	DISH	tres leches cake
+3	EST	Shopsin
+3	FOOD	pork roll
+3	TYPE	tavern
+3	FOOD	duck breast
+3	FOOD	creme fraiche
+3	FOOD	radicchio
+3	EST	Pierre Lapin
+3	FOOD	sweet potato puree
+3	FOOD	bo bay mon
+3	LOC	Saigon
+3	FOOD	truffles
+3	LOC	Albania
+3	FOOD	white sauce
+3	FOOD	alcohol
+3	EST	Hall
+3	FOOD	clam pizza
+3	FOOD	johnnycakes
+3	EST	Blue Smoke
+3	FOOD	chile sauce
+3	FOOD	abura soba
+3	FOOD	peanut sauce
+3	LOC	Indonesia
+3	CUISINE	Indonesian
+3	FOOD	chicharrones
+3	LOC	Astoria
+3	EST	Zuppardi
+3	FOOD	Parmigiano
+3	FOOD	zenryufun
+3	FOOD	kimbap
+3	FOOD	oyster crackers
+3	LOC	Turkey
+3	LOC	Seventh Avenue
+3	FOOD	aioli
+3	EST	Paris Cafe
+3	FOOD	horseradish
+3	LOC	Modena
+3	FOOD	sardines
+3	FOOD	'
+3	EST	Niu Pot
+3	LOC	Chengdu
+3	EST	Mission Ceviche
+3	FOOD	leche de tigre
+3	FOOD	syrup
+3	EST	Bar Pisellino
+3	FOOD	patty
+2	DISH	New York
+2	LOC	Washington Square Park
+2	TYPE	street -
+2	FOOD	green beans
+2	FOOD	radishes
+2	FOOD	pistou
+2	LOC	Lourmarin
+2	DISH	bouillabaisse
+2	FOOD	white wine
+2	FOOD	grilled bread
+2	FOOD	sweetbreads
+2	FOOD	fried onions
+2	CUISINE	Jewish
+2	FOOD	chicken fat
+2	DISH	lamb chops
+2	DISH	steak tartare
+2	LOC	Houston Street
+2	EST	Odeon
+2	FOOD	barbecued brisket
+2	FOOD	potato chips
+2	DIET	gluten
+2	FOOD	dry - aged
+2	FOOD	preserved lemon
+2	DISH	roast chicken
+2	DISH	salade nicoise
+2	FOOD	berries
+2	TYPE	tapas
+2	FOOD	tapas
+2	FOOD	baguettes
+2	LOC	San Sebastian
+2	FOOD	soft -
+2	FOOD	goat cheese
+2	FOOD	pintxos
+2	FOOD	yolk
+2	FOOD	bok choy
+2	FOOD	salmon
+2	FOOD	Parmesan
+2	FOOD	pine -
+2	EST	Le Restaurant
+2	EST	Blenheim Hill Farm
+2	LOC	Schoharie County
+2	FOOD	tilefish
+2	FOOD	urchin
+2	FOOD	taramosalata
+2	CUISINE	Southern
+2	FOOD	okra
+2	FOOD	lettuces
+2	FOOD	barley -
+2	FOOD	butternut
+2	FOOD	squash
+2	FOOD	white pepper
+2	EST	Stone Barns
+2	FOOD	plums
+2	FOOD	deviled egg
+2	FOOD	pickles
+2	FOOD	fried garlic
+2	FOOD	dried chiles
+2	FOOD	brown -
+2	FOOD	XO sauce
+2	FOOD	dried shrimp
+2	FOOD	frosting
+2	FOOD	carrot -
+2	DISH	seared scallops
+2	FOOD	garlic chives
+2	FOOD	shiitakes
+2	DISH	Peking duck
+2	FOOD	skin
+2	FOOD	steamed bun
+2	FOOD	crepe
+2	EST	Tianjin Dumpling House
+2	LOC	Main Street
+2	FOOD	sea -
+2	CUISINE	Northern Chinese
+2	FOOD	celery
+2	FOOD	crab meat
+2	LOC	Israel
+2	EST	New York
+2	FOOD	fried bread
+2	CUISINE	Mediterranean
+2	FOOD	fresh -
+2	FOOD	couscous
+2	FOOD	chestnuts
+2	DISH	fluke ceviche
+2	FOOD	butterscotch
+2	DISH	yam lollipops
+2	FOOD	boiled potatoes
+2	EST	Jean
+2	FOOD	white meat
+2	FOOD	carbonara
+2	FOOD	crusts
+2	FOOD	fontina
+2	FOOD	gremolata
+2	DISH	mille
+2	LOC	Thailand
+2	CUISINE	Thai
+2	FOOD	puff pastry
+2	FOOD	roast
+2	EST	NoMad
+2	FOOD	lime zest
+2	FOOD	almonds
+2	DISH	braised short rib
+2	FOOD	pork fat
+2	FOOD	veal cutlets
+2	FOOD	stir -
+2	FOOD	nigiri
+2	FOOD	ssamjang
+2	FOOD	Manila clams
+2	FOOD	soft tofu
+2	FOOD	flan
+2	FOOD	red peppers
+2	FOOD	winter squash
+2	FOOD	honey -
+2	EST	Bar Sardine
+2	EST	Jeffrey 's
+2	EST	Joseph Leonard
+2	EST	Upland
+2	FOOD	breads
+2	FOOD	desserts
+2	FOOD	grains
+2	FOOD	juniper berries
+2	FOOD	ice creams
+2	FOOD	speck
+2	FOOD	barley
+2	TYPE	omakase
+2	EST	Sushi Amane
+2	FOOD	yellowtail
+2	TYPE	izakayas
+2	FOOD	striped jack
+2	FOOD	sea bream
+2	FOOD	chips
+2	FOOD	chicken Parm
+2	EST	Olive Garden
+2	DISH	chicken scarpariello
+2	FOOD	red
+2	FOOD	herb
+2	FOOD	mint leaves
+2	LOC	Southeast Asia
+2	FOOD	melons
+2	FOOD	labneh
+2	FOOD	candy
+2	FOOD	Pasta
+2	FOOD	sausage
+2	FOOD	pickled mustard seeds
+2	FOOD	steaks
+2	FOOD	French fries
+2	LOC	Times Square
+2	FOOD	hot pots
+2	FOOD	salmon roe
+2	FOOD	fermented rice
+2	FOOD	soy milk
+2	FOOD	shiitake mushrooms
+2	FOOD	fat
+2	FOOD	ponzu
+2	FOOD	yuzu
+2	FOOD	gravy sauce
+2	EST	Cocoron
+2	TYPE	tasting counters
+2	LOC	Henry Hall
+2	FOOD	Dungeness crab
+2	FOOD	colatura
+2	FOOD	rib
+2	FOOD	ramps
+2	FOOD	ham
+2	DISH	duck breast
+2	LOC	Texas
+2	LOC	Crown Heights
+2	LOC	Washington Avenue
+2	LOC	Brooklyn Museum
+2	CUISINE	Jamaican
+2	CUISINE	Caribbean
+2	FOOD	hot chiles
+2	FOOD	escovitch
+2	FOOD	golden raisins
+2	FOOD	goat meat
+2	FOOD	raisins
+2	DISH	jerk chicken
+2	FOOD	jerk spices
+2	FOOD	liquor
+2	LOC	Jamaica
+2	FOOD	sukiyaki
+2	FOOD	French onion soup
+2	EST	Tetsu
+2	LOC	West
+2	FOOD	shirako
+2	DISH	soba noodles
+2	FOOD	soba
+2	FOOD	buckwheat
+2	DISH	kamonabe
+2	EST	Minetta Tavern
+2	TYPE	French
+2	FOOD	drumsticks
+2	FOOD	thighs
+2	DISH	Duck breast
+2	FOOD	eel
+2	EST	Le Coq Rico
+2	FOOD	pastry crust
+2	CUISINE	European
+2	LOC	Copenhagen
+2	FOOD	Buffalo chicken
+2	FOOD	dried oregano
+2	FOOD	white asparagus
+2	FOOD	lemon peel
+2	LOC	Southern California
+2	LOC	L.A.
+2	LOC	Fukushima
+2	EST	Momofuku Ko
+2	FOOD	cayenne
+2	EST	Ssam Bar
+2	DIET	pescatarian
+2	LOC	Loire Valley
+2	EST	Coco Pazzo
+2	EST	Le Madri
+2	FOOD	spaghetti
+2	FOOD	fettuccine
+2	EST	Coco Pazzo Trattoria
+2	FOOD	tomato pulp
+2	FOOD	cod
+2	DISH	piatto unico
+2	FOOD	linguine
+2	FOOD	sugo
+2	FOOD	tagliolini
+2	FOOD	Aperol
+2	EST	Yves
+2	FOOD	chervil
+2	FOOD	asparagus stalks
+2	FOOD	seaweed
+2	EST	Jamin
+2	EST	Noodle Bar
+2	TYPE	pop -
+2	EST	Alinea
+2	FOOD	brownies
+2	FOOD	currants
+2	FOOD	coriander seeds
+2	TYPE	slice joint
+2	FOOD	beet
+2	FOOD	chamomile
+2	FOOD	whites
+2	FOOD	tacos
+2	FOOD	vodka
+2	LOC	Louisiana
+2	FOOD	garlic sauce
+2	FOOD	hot dog
+2	FOOD	enoki mushrooms
+2	FOOD	quail
+2	LOC	Eastern Europe
+2	DISH	ceviche
+2	DISH	sashimi salad
+2	LOC	Manila
+2	LOC	Miami
+2	TYPE	Asian Party Temple
+2	EST	Nobu Fifty
+2	FOOD	caviar
+2	DISH	faloodeh
+2	FOOD	barbari
+2	FOOD	eggplant mash
+2	FOOD	strained yogurt
+2	FOOD	kofte
+2	FOOD	poached egg
+2	FOOD	caramelized onions
+2	FOOD	rice flour
+2	FOOD	tart
+2	FOOD	striped bass
+2	EST	Russ & Daughters
+2	FOOD	matcha
+2	FOOD	sakes
+2	DISH	bek
+2	FOOD	sweetened condensed milk
+2	LOC	Chinatown
+2	LOC	Malaysia
+2	FOOD	coconut
+2	FOOD	peanuts
+2	FOOD	yolks
+2	EST	Momofuku Ssam Bar
+2	LOC	Coney Island Avenue
+2	DISH	guru hingal
+2	LOC	Azerbaijan
+2	FOOD	dried mint
+2	DISH	Journey to Baku
+2	DISH	Napoleon
+2	FOOD	citrus
+2	DISH	halibut
+2	FOOD	mustard sauce
+2	EST	La Mercerie
+2	FOOD	pudding
+2	DISH	cassoulet
+2	FOOD	gim
+2	LOC	Jeju
+2	FOOD	pickled vegetables
+2	DISH	beef tartare
+2	FOOD	rice noodles
+2	FOOD	fried egg
+2	FOOD	pork -
+2	FOOD	fresh herbs
+2	LOC	First Avenue
+2	LOC	Africa
+2	DISH	house slice
+2	EST	Totonno
+2	CUISINE	Sicilian
+2	EST	Paulie Gee 's Slice
+2	LOC	Greenpoint ,
+2	EST	Corner Slice
+2	TYPE	slice joints
+2	FOOD	pizza al taglio
+2	FOOD	vodka sauce
+2	FOOD	ricotta
+2	LOC	East River
+2	FOOD	cream cheese
+2	FOOD	vinegar
+2	FOOD	capers
+2	FOOD	fennel seeds
+2	FOOD	gelato
+2	DISH	kaleji masala
+2	EST	Adda Indian Canteen
+2	LOC	Long Island City ,
+2	FOOD	edible flowers
+2	FOOD	tamarind sauce
+2	FOOD	coriander
+2	FOOD	biryani
+2	TYPE	coffee shop
+2	EST	Saint Julivert Fisherie
+2	TYPE	fisherie
+2	EST	El Quinto Pino
+2	EST	Txikito
+2	EST	Cal Pep
+2	FOOD	bay leaves
+2	FOOD	yuzu juice
+2	FOOD	trout roe
+2	DISH	fried oysters
+2	LOC	Seagram Building
+2	TYPE	seafood restaurant
+2	FOOD	duck meat
+2	FOOD	cotton candy
+2	EST	Bluebird London
+2	LOC	Time Warner Center
+2	TYPE	gastrodomes
+2	TYPE	cafes
+2	FOOD	sparkling
+2	FOOD	tortillas
+2	DISH	Chonut
+2	FOOD	green tea
+2	FOOD	cheesecake
+2	LOC	Right Bank
+2	FOOD	cabbage kimchi
+2	FOOD	fritters
+2	LOC	Shops at Columbus Circle
+2	EST	Masa
+2	CUISINE	Greek
+2	TYPE	diners
+2	LOC	Columbus Circle
+2	DISH	U.
+2	EST	Majordomo
+2	FOOD	Ssam Sauce
+2	DISH	U
+2	DISH	Momofuku
+2	FOOD	smoked salmon
+2	LOC	East 27th Street
+2	FOOD	black -
+2	FOOD	spread
+2	TYPE	Italian
+2	LOC	Evelyn
+2	LOC	West 14th Street
+2	LOC	Rue du Nil
+2	EST	Claro
+2	FOOD	mole
+2	DISH	shrimp cocktail
+2	FOOD	masa
+2	FOOD	ribs
+2	LOC	Dallas
+2	FOOD	migas
+2	FOOD	pork sausage
+2	FOOD	kaiser roll
+2	FOOD	bagels
+2	FOOD	American cheese
+2	EST	Shelsky
+2	FOOD	bialys
+2	LOC	Sheepshead Bay
+2	FOOD	charcuterie
+2	FOOD	toasts
+2	FOOD	watercress
+2	DISH	treacle tart
+2	DISH	posset
+2	FOOD	possets
+2	TYPE	bistros
+2	FOOD	matzo ball
+2	FOOD	Bordeaux
+2	DISH	creme brulee
+2	FOOD	sweet potato
+2	EST	Maxi 's
+2	CUISINE	Hong Kong
+2	FOOD	fish balls
+2	FOOD	won ton
+2	FOOD	rice paper
+2	DISH	wings
+2	FOOD	pho
+2	DISH	bo bay mon
+2	FOOD	polenta
+2	FOOD	red onions
+2	FOOD	grilled meats
+2	FOOD	table salad
+2	FOOD	New York strip
+2	TYPE	Albanian
+2	LOC	Arthur Avenue
+2	LOC	Hughes Avenue
+2	FOOD	ratatouille
+2	FOOD	olives
+2	LOC	Florida
+2	DISH	ice cream
+2	FOOD	kasu
+2	EST	Emmy Squared
+2	FOOD	havarti
+2	DISH	Atwells
+2	FOOD	broccoli
+2	LOC	Memphis
+2	LOC	meatpacking district
+2	EST	Rocco 's on
+2	DISH	Game Changing
+2	FOOD	beet juice
+2	DIET	vegan
+2	FOOD	bibimbap
+2	FOOD	tteokbokki
+2	LOC	32nd Street
+2	EST	Do Hwa
+2	FOOD	cod roe
+2	DISH	fried chicken
+2	DISH	mazemen
+2	DISH	steak mazemen
+2	FOOD	breast
+2	FOOD	kombu
+2	LOC	Spring Street
+2	EST	Perry St.
+2	DISH	crab cake
+2	FOOD	sweet chile sauce
+2	FOOD	melted butter
+2	FOOD	sundaes
+2	FOOD	mango
+2	DISH	bacalaitos
+2	LOC	Puerto Rico
+2	DISH	pasteles
+2	DISH	Freakin Crispy Wings
+2	LOC	Atlanta
+2	FOOD	taro
+2	DISH	mofongo
+2	LOC	Connecticut
+2	FOOD	clam pie
+2	EST	Zuppardi 's
+2	FOOD	littlenecks
+2	FOOD	onion
+2	FOOD	bran
+2	FOOD	white soy sauce
+2	LOC	Taiwan
+2	LOC	20 Hudson Yards
+2	FOOD	raw beef
+2	FOOD	sherry
+2	FOOD	hot sauce
+2	FOOD	Jell -
+2	EST	Gramercy Tavern
+2	FOOD	rice -
+2	EST	Surf Club
+2	FOOD	iceberg lettuce
+2	FOOD	croutons
+2	FOOD	dark -
+2	DISH	sheep 's head
+2	DISH	labneh
+2	DISH	kelle paca
+2	FOOD	purple onions
+2	FOOD	spring rolls
+2	EST	Dovetail
+2	DISH	cheese -
+2	FOOD	chicken breast
+2	TYPE	seafood house
+2	LOC	Pier 17
+2	FOOD	strawberry ice cream
+2	DISH	strawberry sundae
+2	FOOD	Sichuan buttons
+2	FOOD	tortellini
+2	DISH	ragu
+2	EST	Osteria Francescana
+2	EST	Giusti
+2	DISH	dark -
+2	LOC	Washington
+2	EST	Le Diplomate
+2	FOOD	boudin blanc
+2	DISH	kebabs
+2	DISH	Smoking Fox
+2	FOOD	broths
+2	EST	Zhen Wei Fang
+2	FOOD	Hershey 's
+2	DISH	anticucho
+2	FOOD	chimichurri
+2	DISH	raspadilla
+2	FOOD	shaved ice
+2	FOOD	Oreos
+2	EST	Hometown
+2	FOOD	pub burger
+2	EST	Peter Luger Steak House
+2	FOOD	creamed spinach
+2	EST	McSorley
+2	FOOD	yeast
+2	EST	Superiority Burger
+2	EST	Contramar
+2	FOOD	tomalley
+2	LOC	Philippines
+2	DISH	Jappy 's
+2	FOOD	kare
+2	FOOD	shrimp paste
+2	EST	Bad Saint
+2	FOOD	silvanas
+2	FOOD	schlag
+2	DISH	sole
+1	CUISINE	Provencal
+1	FOOD	vinegared hearts of palm
+1	FOOD	shredded zucchini
+1	FOOD	anchovy vinaigrette
+1	FOOD	cinnamon - laced raz al hanout
+1	FOOD	bistro -
+1	LOC	North Africa
+1	DISH	flatbread
+1	FOOD	kesra
+1	FOOD	chopped truffles
+1	LOC	Tunisia
+1	FOOD	puff
+1	FOOD	saffron
+1	DISH	monkfish , baby octopus and
+1	DISH	pieds paquets
+1	FOOD	stew of sheep 's trotters and
+1	FOOD	tripe - wrapped bundles of
+1	FOOD	pastis
+1	DISH	Braised chicken thighs on a bed of nutty toasted bulgur
+1	LOC	Tangier
+1	FOOD	harissa
+1	FOOD	oranges
+1	DISH	pistachio cake
+1	FOOD	citrus cream
+1	FOOD	candied orange peel
+1	DISH	chocolate pot de creme with harissa
+1	DISH	bread pudding of chocolate -
+1	FOOD	Provence
+1	EST	Casio
+1	LOC	North Korea
+1	EST	Sammy 's Roumanian
+1	LOC	Chrystie Street
+1	LOC	Mississippi
+1	TYPE	juke joint
+1	FOOD	garlic - smeared
+1	DISH	Romanian tenderloin
+1	DISH	broiled veal chop
+1	FOOD	chopped liver
+1	FOOD	fried chicken skin
+1	EST	Ratner
+1	DISH	fried kreplach
+1	DISH	latkes
+1	DISH	kishke
+1	DISH	sweet - and
+1	DISH	chopped liver
+1	DISH	skirt steaks
+1	DISH	fried silver -
+1	CUISINE	Romanian
+1	DISH	Sammy
+1	DISH	Romanian salad of whipped eggplant with green peppers
+1	DISH	broiled brains
+1	DISH	mush steak
+1	DISH	pitcha
+1	FOOD	gelatin
+1	FOOD	calves '
+1	DISH	baked unborn eggs
+1	LOC	Romania
+1	LOC	Old World
+1	DISH	egg creams
+1	FOOD	anchovy toasts
+1	FOOD	Parmesan custard
+1	EST	Continental
+1	LOC	Sutton Place
+1	DISH	veal Orloff
+1	FOOD	applesauce
+1	LOC	NYC
+1	LOC	14th Street
+1	FOOD	Tapas
+1	FOOD	red meat
+1	FOOD	pommes soufflees
+1	FOOD	beignets
+1	DISH	Steak frites
+1	CUISINE	Parisian
+1	FOOD	bistro steak
+1	DISH	Beaujolais Villages
+1	DISH	Filet mignon au poivre
+1	FOOD	onion -
+1	DISH	mussels
+1	FOOD	smashed potato salad
+1	DISH	roasted salmon
+1	FOOD	lentil salad
+1	FOOD	white stewed onions
+1	DISH	skate Grenobloise
+1	DISH	meuniere
+1	DISH	heirloom tomato salad
+1	EST	Food Emporium
+1	DISH	floating islands
+1	DISH	mocha pot de creme
+1	DISH	pink raspberry souffle
+1	EST	Morandi
+1	DISH	short - rib
+1	FOOD	apricot jam
+1	FOOD	cured pig 's
+1	FOOD	Iberico ham
+1	FOOD	aged manchego
+1	DISH	mackerel in olive oil
+1	FOOD	pimenton aioli
+1	FOOD	manchego
+1	FOOD	hams
+1	DISH	Huertas rotos
+1	DISH	huevos rotos
+1	FOOD	egg salad
+1	FOOD	red shrimp
+1	FOOD	croqueta of rice with creamy mushrooms
+1	FOOD	sweet roasted piquillo peppers
+1	FOOD	cheesy , porky froth of fresh
+1	EST	State Bird Provisions
+1	DISH	gildas
+1	FOOD	white anchovy
+1	FOOD	spicy green pepper
+1	FOOD	olive
+1	DISH	Padron peppers and garlic shrimp
+1	DISH	separated egg
+1	FOOD	white
+1	FOOD	pimenton -
+1	DISH	skate
+1	FOOD	turnips
+1	FOOD	pureed turnip greens
+1	FOOD	lamb hot dogs
+1	DISH	chistorra
+1	FOOD	chistorras
+1	FOOD	succotash of late -
+1	DISH	goat -
+1	FOOD	candied almonds
+1	FOOD	nectarines
+1	EST	Delaware & Hudson
+1	DISH	croquetas
+1	FOOD	croqueta
+1	LOC	Union Square
+1	DISH	pot stickers filled with mashed potatoes
+1	FOOD	summer truffles
+1	FOOD	guacamole
+1	FOOD	Avocado
+1	FOOD	taro chip
+1	DISH	Foie gras lollipops
+1	DISH	General Tso 's
+1	FOOD	orange -
+1	DISH	burger of duck and foie gras
+1	FOOD	onion chutney
+1	FOOD	figs
+1	TYPE	grown -
+1	TYPE	gastro pub
+1	DISH	scallop fettuccine
+1	DISH	tea -
+1	FOOD	Raw tuna
+1	FOOD	Siamese fighting fish
+1	FOOD	curried tamarind sauce
+1	DISH	seafood sausage
+1	FOOD	fish mousse
+1	FOOD	sauerkraut beurre blanc
+1	DISH	steamed zucchini blossoms
+1	FOOD	lemon creme fraiche
+1	DISH	red - wine butter sauce with
+1	DISH	fish quenelles bobbing in an aromatic Thai soup
+1	DISH	Panna cotta
+1	FOOD	Concord grape jam
+1	FOOD	Gorgonzola
+1	DISH	pastis - soaked
+1	FOOD	basil pastry cream
+1	FOOD	corn - flour
+1	LOC	Albany
+1	FOOD	pork cutlets
+1	FOOD	creamed corn
+1	TYPE	farm -
+1	FOOD	sabayon
+1	FOOD	coffee bean oil
+1	FOOD	sea urchin sabayon
+1	FOOD	Alaskan king crab meat
+1	FOOD	tropical fruit
+1	FOOD	squid ink sauce
+1	FOOD	sea bean
+1	FOOD	Alaskan crab
+1	DISH	pork loin
+1	FOOD	pickled peaches
+1	FOOD	sorghum syrup
+1	FOOD	molasses
+1	FOOD	smoked Blenheim ham
+1	FOOD	Blenheim pork fat
+1	FOOD	lemon balm
+1	FOOD	pineapple sage
+1	FOOD	herb sorbets
+1	TYPE	farm
+1	LOC	283 West 12th Street
+1	DISH	roasted king mushrooms with spaetzle and sauerkraut
+1	FOOD	mushroom stems
+1	FOOD	weisswurst
+1	CUISINE	German
+1	FOOD	stems
+1	FOOD	steamed hot dog
+1	FOOD	dessert soup
+1	FOOD	cooked barley and Champagne grapes
+1	DISH	grapefruit pearls with cured Tasmanian sea trout
+1	FOOD	Marmite
+1	FOOD	squashes
+1	FOOD	grated chestnut
+1	FOOD	898 squash
+1	LOC	Stone Barns
+1	LOC	Pocantico Hills ,
+1	LOC	Berkshires
+1	FOOD	sparrow -
+1	DISH	Full Barber
+1	DISH	Rully
+1	FOOD	cider
+1	DISH	Half Barber
+1	FOOD	young fennel stalks
+1	FOOD	licorice
+1	DISH	raw hakurei turnip
+1	FOOD	tarragon vinaigrette
+1	FOOD	turnip
+1	DISH	roasted carrot "
+1	FOOD	carrot
+1	DISH	veal
+1	LOC	Blue Hill Farm
+1	FOOD	vegetable purees
+1	FOOD	panko
+1	FOOD	deviled yolk
+1	FOOD	Dijon mustard
+1	FOOD	spicy red oil
+1	FOOD	octopus leg
+1	FOOD	caramelized pork
+1	FOOD	Chinese sausage
+1	FOOD	toasted butter
+1	FOOD	caramel cake
+1	LOC	Napa Valley
+1	FOOD	cabernet
+1	LOC	Anderson Valley
+1	FOOD	chardonnay
+1	FOOD	Cantonese sticky rice
+1	FOOD	Chinese sausage bits
+1	DISH	chicken liver mousse
+1	DISH	squash soup
+1	DISH	sous -
+1	DISH	congee
+1	FOOD	basil jus
+1	DISH	pork belly
+1	DISH	Pig Out
+1	FOOD	spicy -
+1	CUISINE	Cantonese
+1	DISH	roast pork
+1	FOOD	belly
+1	FOOD	ginger -
+1	FOOD	sambal
+1	FOOD	fresh dill
+1	FOOD	dumpling fillings
+1	FOOD	black vinegar
+1	FOOD	green herbs
+1	FOOD	minced lamb
+1	DISH	spicy beef dumpling
+1	FOOD	red and green chiles
+1	FOOD	dried chile sauce
+1	LOC	Tianjin ,
+1	FOOD	stalks
+1	DISH	Steamed har gow
+1	FOOD	meatballs of duck and shiitakes
+1	DISH	fried dumplings
+1	FOOD	cornstarch
+1	FOOD	dumpling -
+1	LOC	Northern China
+1	LOC	Fujian
+1	DISH	Hunanese preserved pork
+1	FOOD	pickled long beans
+1	DISH	Triple delight vegetables
+1	LOC	Dongbei
+1	DISH	Whole fish with spicy bean sauce
+1	FOOD	sweet dumplings
+1	DISH	dried hawthorn berries with white wood ears
+1	DISH	pear with eight treasures
+1	DISH	fruitcake pirogi
+1	DISH	tang yuan
+1	FOOD	pumpkin -
+1	FOOD	paste of black sesame
+1	LOC	Abingdon Square Park
+1	EST	Bolo
+1	CUISINE	Yemenite
+1	FOOD	zhug
+1	FOOD	malawach
+1	FOOD	turmeric - gold
+1	TYPE	falafel shops
+1	EST	Taim
+1	EST	Balaboosta
+1	DISH	lemony grilled baby artichokes
+1	FOOD	pistachio yogurt
+1	FOOD	dukkah
+1	FOOD	corn puree
+1	FOOD	cardamom
+1	FOOD	cloves
+1	FOOD	spice blend
+1	FOOD	hawaij
+1	FOOD	red pepper sauce
+1	FOOD	spiced corn
+1	FOOD	grilled octopus leg
+1	LOC	Jerusalem
+1	FOOD	sesame bagel
+1	FOOD	anti
+1	FOOD	peppery olive oil
+1	DISH	Za'atar ravioli
+1	DISH	zabzi
+1	DISH	lamb neck
+1	FOOD	dried pomegranate seeds
+1	FOOD	juice
+1	FOOD	pomegranate -
+1	CUISINE	Israeli
+1	FOOD	Milky
+1	FOOD	chocolate pudding
+1	DISH	halvah creme brulee
+1	FOOD	halvah floss
+1	FOOD	fried ice cream
+1	EST	Chi
+1	FOOD	white and sparkling wines
+1	LOC	Charleston ,
+1	FOOD	turkeys
+1	EST	Batard
+1	FOOD	stuffing
+1	EST	Tom & Jerry
+1	LOC	Wall Street
+1	LOC	Boston
+1	FOOD	pizza bianca
+1	LOC	Campo de '
+1	FOOD	saltimbocca
+1	FOOD	puntarelle
+1	FOOD	spicy tripe
+1	FOOD	salt cod fritters
+1	FOOD	semolina gnocchi
+1	FOOD	porchetta
+1	FOOD	artichokes fried alla giudia
+1	FOOD	cacio e pepe
+1	FOOD	amatriciana
+1	EST	Maialino
+1	LOC	Gramercy Park Hotel
+1	LOC	Martha Washington Hotel
+1	FOOD	Thin -
+1	LOC	Naples
+1	FOOD	pizzaioli
+1	EST	Da Remo
+1	LOC	Testaccio
+1	FOOD	cracker
+1	FOOD	crackers
+1	FOOD	peasant bread
+1	FOOD	steamed dough
+1	FOOD	Neapolitan pizza
+1	FOOD	grissini
+1	FOOD	pizza crust
+1	FOOD	baconlike
+1	FOOD	guanciale
+1	FOOD	trippa alla Romana
+1	FOOD	chile - boosted
+1	DISH	margherita
+1	DISH	buffalo mozzarella
+1	FOOD	cow 's
+1	DISH	funghi pizza
+1	FOOD	funghi
+1	FOOD	hen
+1	FOOD	shoulder ham
+1	DISH	Pork ribs
+1	DISH	slow - roasted
+1	DISH	mixed grill of lamb chops , ribs and
+1	DISH	rabbit meatballs
+1	DISH	vegetable fritters
+1	DISH	seafood fritto misto
+1	FOOD	suppli
+1	FOOD	basil risotto
+1	DISH	affogato
+1	DISH	ice cream sandwich
+1	FOOD	salted chocolate cookies
+1	DISH	Roger Pouillon Cuvee de Reserve
+1	EST	DIRTY
+1	EST	FRENCH
+1	LOC	Ludlow hotel
+1	EST	Carbone
+1	EST	ZZ 's Clam
+1	LOC	Sixth Street
+1	EST	Curry Row
+1	CUISINE	haute
+1	FOOD	levain
+1	FOOD	baguette a l'ancienne
+1	FOOD	mahjeb
+1	FOOD	pita dough
+1	FOOD	Provencal herbs
+1	FOOD	fromage blanc
+1	FOOD	king trumpet mushroom stems
+1	FOOD	buttered noodles
+1	FOOD	green curry
+1	DISH	lamb carpaccio
+1	FOOD	raz al hanout oil
+1	FOOD	sumac powder
+1	FOOD	sheep 's milk
+1	FOOD	roasted eggplant
+1	FOOD	lamb loin
+1	DISH	poultry feast
+1	FOOD	mustard -
+1	FOOD	bird 's
+1	FOOD	marinade
+1	FOOD	lemon grass
+1	FOOD	crepes
+1	FOOD	monkfish
+1	FOOD	red mullet
+1	FOOD	Cuttlefish ink
+1	FOOD	marjoram
+1	DISH	duck heart kebabs
+1	DISH	frisee and lardons salad
+1	FOOD	Baked clams
+1	CUISINE	Ethiopian
+1	DISH	trout meuniere
+1	FOOD	Oysters
+1	FOOD	Chateauneuf
+1	DISH	coconut -
+1	DISH	pineapple tarte Tatin
+1	FOOD	rum - raisin
+1	EST	Parm
+1	LOC	Ludlow Street
+1	TYPE	pub
+1	DISH	bindaetteok
+1	FOOD	mung bean pancakes
+1	FOOD	glass noodle
+1	DISH	japchae
+1	FOOD	oyster mushrooms
+1	FOOD	bulgogi
+1	FOOD	sloppy Joe
+1	FOOD	Monkfish
+1	FOOD	lettuce leaf
+1	FOOD	fermented chile sauce
+1	FOOD	chard leaves
+1	DISH	spicy tofu -
+1	DISH	foie gras terrine
+1	FOOD	Melba toasts
+1	FOOD	green -
+1	DISH	nurungji gras
+1	FOOD	pickled mushrooms
+1	FOOD	fermented shrimp
+1	FOOD	green plums
+1	DISH	short rib
+1	DISH	braised short ribs
+1	DISH	Jenga Tower
+1	FOOD	rice sticks
+1	FOOD	misugaru
+1	FOOD	powdered grain and bean blend
+1	FOOD	pineapple juice
+1	FOOD	tongue pastrami
+1	FOOD	caramelized cauliflower
+1	LOC	Freehand hotel
+1	LOC	East 23rd Street
+1	FOOD	mezcal
+1	FOOD	Mezcal
+1	EST	Studio
+1	FOOD	anise seeds
+1	FOOD	seaweed powder
+1	FOOD	cured and smoked Arctic char
+1	FOOD	smoked sour cream
+1	FOOD	poppy - seed
+1	FOOD	fish sandwich
+1	FOOD	semolina cake
+1	FOOD	pink grapefruit fillets
+1	FOOD	grapefruit marmalade
+1	FOOD	pine ice
+1	FOOD	rye pudding
+1	FOOD	cranberries
+1	FOOD	knotweed -
+1	FOOD	buckwheat cake
+1	FOOD	beeswax
+1	DISH	custard - soaked
+1	FOOD	bacon jus
+1	FOOD	pickled cabbage
+1	FOOD	Reuben -
+1	FOOD	Liver
+1	DISH	squid ink risotto
+1	FOOD	beech mushrooms
+1	FOOD	squid confit
+1	FOOD	porridge
+1	DISH	spaghetti acqua pazza
+1	FOOD	littleneck clams
+1	FOOD	acqua pazza
+1	DISH	pork -
+1	FOOD	cutlet
+1	FOOD	apricot mostarda
+1	EST	Sushi Noz
+1	EST	Noda
+1	EST	Shoji at 69 Leonard Street
+1	EST	Ichimura at Uchu
+1	LOC	Grand Central Terminal
+1	LOC	W hotel
+1	DISH	tofu agedashi
+1	DISH	chicken karaage
+1	DISH	sashimi
+1	DISH	grilled skewers
+1	EST	Tsukiji fish market
+1	LOC	Nagasaki
+1	EST	Sushi
+1	DISH	king yellowtail sushi
+1	DISH	sea bream sushi
+1	DISH	golden - eye
+1	FOOD	gizzard shad
+1	DISH	Wokuni don
+1	FOOD	sashimi rice bowl
+1	FOOD	shrimp tempura
+1	DISH	Wokuni
+1	DISH	kaisen
+1	FOOD	raw
+1	DISH	grilled yellowtail collar
+1	FOOD	Bluefin collars
+1	FOOD	jaws
+1	FOOD	grilled collar
+1	DISH	grilled bluefin tail
+1	FOOD	chicken wings
+1	DISH	ei hire
+1	FOOD	cured , dried skate
+1	DISH	Fish and chips
+1	FOOD	mountain yam
+1	FOOD	yam fries
+1	DISH	fried tofu in dashi
+1	DISH	rolled omelet
+1	FOOD	grilled freshwater eel
+1	DISH	baby sardines
+1	DISH	grilled scallops in butter
+1	DISH	monkfish liver
+1	FOOD	tiger blowfish
+1	FOOD	Tiger blowfish
+1	LOC	Lexington Avenue
+1	FOOD	Neapolitan cookies
+1	EST	Palizzi Social Club
+1	LOC	Philadelphia
+1	EST	Palizzi
+1	DISH	antipasto salad
+1	DISH	braciole
+1	LOC	Bay of Naples
+1	FOOD	beef carpaccio
+1	FOOD	Chianti
+1	EST	espresso ice
+1	DISH	Americano ,
+1	FOOD	highball
+1	FOOD	aperitif wine
+1	FOOD	Americano highball
+1	FOOD	chrysanthemum leaves
+1	FOOD	rasped cheese
+1	FOOD	chrysanthemum
+1	FOOD	Prosciutto
+1	FOOD	honeydew melon
+1	FOOD	candied hazelnuts
+1	FOOD	lime , tamarind and fish
+1	DISH	garlic bread
+1	CUISINE	Ligurian
+1	FOOD	focaccia di recco
+1	FOOD	gozleme
+1	CUISINE	Azeri
+1	FOOD	kutab
+1	FOOD	scallion pancake
+1	DISH	pepperoni fried rice
+1	FOOD	barbecued squid
+1	FOOD	caramelle
+1	FOOD	Tootsie Roll
+1	FOOD	buffalo ricotta
+1	FOOD	black sesame
+1	FOOD	egg pasta
+1	FOOD	peppered , pickled
+1	DISH	garganelli with meatball ragu
+1	FOOD	chicken meat
+1	DISH	veal cutlet
+1	DISH	grilled fillet of orata
+1	FOOD	herbed fregola
+1	FOOD	buttermilk
+1	FOOD	bittersweet cocoa
+1	DISH	zeppole
+1	FOOD	whipped robiola
+1	FOOD	spun sugar
+1	DISH	mochi cake
+1	FOOD	fior di latte ice cream
+1	FOOD	sea salt
+1	LOC	Libya
+1	LOC	Beirut
+1	EST	Terrordome
+1	FOOD	raw mutton
+1	FOOD	Hot pots
+1	TYPE	omakase sushi bars
+1	FOOD	cured salmon
+1	FOOD	omelet
+1	FOOD	mitsuba stem
+1	FOOD	abalone
+1	FOOD	abalone broth
+1	FOOD	spice paste
+1	FOOD	yuzu kosho
+1	FOOD	abalone 's
+1	FOOD	yuba
+1	FOOD	Wagyu beef
+1	FOOD	enoki
+1	FOOD	brussels sprout
+1	FOOD	cherry tomato
+1	FOOD	A5
+1	LOC	Miyazaki
+1	FOOD	A4
+1	LOC	Kagoshima
+1	FOOD	beef fat
+1	FOOD	sesame paste
+1	FOOD	toasted sesame seeds
+1	FOOD	peanut butter
+1	FOOD	salted plum
+1	FOOD	yuzu - olive
+1	DISH	chicken meatballs
+1	DISH	green tea soba noodles
+1	FOOD	Soba
+1	TYPE	soba
+1	TYPE	omakase shabu shabu restaurant
+1	EST	Florent
+1	LOC	West 38th Street
+1	TYPE	wine shop
+1	TYPE	cocktail lounge
+1	LOC	Javits Convention Center
+1	TYPE	wine store
+1	FOOD	raw sea scallop
+1	FOOD	finger lime
+1	FOOD	yellowfin tuna belly
+1	FOOD	salted lemon peel
+1	FOOD	smoked cream
+1	FOOD	broccoli sprouts
+1	FOOD	anchovy
+1	FOOD	Charred snap peas
+1	FOOD	peppery buttermilk dressing
+1	FOOD	English peas
+1	DISH	grilled pigeon
+1	FOOD	nettle puree
+1	FOOD	Agraparts
+1	FOOD	Raveneaus
+1	FOOD	Gajas
+1	DISH	ice cream with strawberries
+1	DISH	dark chocolate meringue
+1	FOOD	gelati
+1	FOOD	cone
+1	FOOD	oxtails
+1	FOOD	goat curry
+1	LOC	Flatbush
+1	LOC	Ralph Avenues
+1	DISH	stewed okra with cod
+1	FOOD	fritters of salt cod
+1	DISH	stamp and go
+1	FOOD	fish escovitch
+1	FOOD	spicy vinegar
+1	FOOD	red snapper
+1	FOOD	vinegar dressing
+1	FOOD	pickled bell peppers
+1	DISH	curried goat
+1	FOOD	curried vegetables
+1	DISH	Barbecue chicken
+1	FOOD	glaze
+1	FOOD	holiday ham
+1	FOOD	jerk
+1	FOOD	jerk chicken
+1	LOC	Eastern Parkway
+1	DISH	jerk shrimp
+1	DISH	leg of lamb
+1	DISH	Rice and peas
+1	DISH	fried plantains
+1	DISH	stewed cabbage
+1	FOOD	coconut oil
+1	DISH	baked macaroni and cheese
+1	FOOD	dried onions
+1	FOOD	Thanksgiving turkey
+1	DISH	limeade
+1	FOOD	demerara sugar
+1	DISH	sorrel punch
+1	FOOD	rum
+1	LOC	East 52nd Street
+1	FOOD	shiitake caps
+1	FOOD	bok choi stems
+1	FOOD	mirin
+1	FOOD	raw egg
+1	FOOD	beef stew
+1	EST	Shuko
+1	EST	Uchu
+1	TYPE	cocktail bars
+1	FOOD	Tora fugu
+1	FOOD	tiger puffer fish
+1	FOOD	spicy daikon mash
+1	DISH	half portion
+1	FOOD	sperm sacs
+1	FOOD	miso glaze
+1	FOOD	fudge
+1	FOOD	buttered crab meat
+1	TYPE	sushi counter
+1	TYPE	tempura counter
+1	FOOD	buckwheat seeds
+1	LOC	Montreal
+1	EST	Soba Nippon
+1	CUISINE	Americanized
+1	FOOD	soba salads
+1	DISH	soba miso
+1	FOOD	fermented buckwheat
+1	FOOD	buckwheat kernels
+1	FOOD	brownie batter
+1	FOOD	roasted nuts
+1	FOOD	negimaki
+1	DISH	beef oroshi
+1	DISH	agedashi mozzarella
+1	FOOD	fried cheese
+1	DISH	Broiled eel over rice
+1	FOOD	duck hot pot
+1	DISH	sukiyaki
+1	DISH	brouillade
+1	FOOD	grits
+1	FOOD	brouillade
+1	DISH	Calf 's
+1	DISH	Sweetbreads
+1	FOOD	veal jus
+1	FOOD	Lobster
+1	FOOD	curry butter
+1	FOOD	drippings
+1	FOOD	duck skin
+1	DISH	guinea hen terrine
+1	FOOD	meats
+1	FOOD	fat -
+1	FOOD	artichokes
+1	FOOD	celtuce stems
+1	FOOD	gratin
+1	FOOD	blood sausage
+1	FOOD	buckwheat galette
+1	FOOD	Blowfish tails
+1	FOOD	spice - bearing
+1	FOOD	iced oysters
+1	CUISINE	Burgundy
+1	FOOD	chipolata sausages
+1	DISH	smoked eel beignets
+1	FOOD	creme - fraiche
+1	DISH	Franchette
+1	DISH	pig -
+1	DISH	apple tart
+1	FOOD	Vichy Catalan
+1	FOOD	Mondariz
+1	LOC	Point Pleasant Beach ,
+1	FOOD	wild yeast
+1	FOOD	starter
+1	FOOD	Sicilian sea salt
+1	FOOD	Italian flour
+1	FOOD	margherita
+1	DISH	Concetta pie
+1	LOC	Jersey Shore
+1	DISH	Filetti
+1	DISH	Bianco
+1	FOOD	cured egg yolk
+1	DISH	panna cotta
+1	FOOD	strawberry syrup
+1	FOOD	strawberry vinegar
+1	FOOD	pistachio
+1	FOOD	sea scallop
+1	FOOD	raw lobster
+1	FOOD	citrus -
+1	LOC	Irpinia
+1	LOC	Solicchiata
+1	LOC	175 Orchard Street
+1	LOC	Stanton Street
+1	FOOD	tiramisu
+1	FOOD	craft beers
+1	LOC	Silver Lake
+1	EST	Kogi
+1	TYPE	food truck
+1	EST	Jitlada
+1	EST	Chengdu Taste
+1	EST	Vespertine
+1	LOC	Culver City
+1	EST	Night+Market
+1	LOC	Pico Boulevard
+1	LOC	Yosemite National Park
+1	LOC	University of Southern California
+1	LOC	Pathway Home
+1	LOC	Yountville
+1	LOC	Northern California
+1	LOC	Extra Place
+1	FOOD	green shiso
+1	FOOD	sardine
+1	FOOD	paprika
+1	FOOD	tandoori paste
+1	FOOD	pork sausage patties
+1	FOOD	puff pastry crust
+1	FOOD	reduction sauce
+1	DISH	pork pie
+1	FOOD	pickled daikon
+1	FOOD	grilled and buttered Martin 's hot dog
+1	DISH	pickle sandwich
+1	FOOD	spicy mirin -
+1	FOOD	mixed -
+1	FOOD	chicken neck
+1	FOOD	neck
+1	FOOD	chicken 's
+1	FOOD	grower Champagne
+1	FOOD	chenin blanc
+1	FOOD	Cote
+1	EST	Domaine Jasmin
+1	FOOD	Saumur
+1	EST	Romain Guiberteau
+1	DISH	fried zucchini
+1	FOOD	sourdough crepe
+1	DISH	chicken
+1	EST	Mad .
+1	EST	Amarcord
+1	EST	Tuscan Square
+1	LOC	Wainscott ,
+1	LOC	St. Barts
+1	TYPE	canteen
+1	LOC	SoHo
+1	EST	Milady
+1	DISH	pappa al pomodoro
+1	DISH	cacciucco
+1	FOOD	fennel -
+1	EST	Coco Pazzo Kitchen
+1	FOOD	Baked littlenecks
+1	FOOD	white clam sauce
+1	FOOD	chicken -
+1	FOOD	rigatoni
+1	DISH	spiced and roasted baby -
+1	FOOD	slaw
+1	FOOD	grilled rib
+1	DISH	Tuscan fries
+1	FOOD	fried rosemary needles
+1	FOOD	cacciucco broth
+1	EST	Morso
+1	LOC	Ed Koch Queensboro Bridge
+1	FOOD	souffles
+1	DISH	blueberry crostata
+1	FOOD	grapefruit granita
+1	EST	Locanda Verde
+1	EST	Spring
+1	EST	Le Chateaubriand
+1	EST	Rebelle
+1	FOOD	tarragon
+1	DISH	navarin of lamb
+1	FOOD	grilled baby leeks
+1	FOOD	chard stems
+1	DISH	Pan - fried
+1	FOOD	avocados
+1	FOOD	pole beans
+1	FOOD	string beans
+1	FOOD	toasted -
+1	DISH	mussels Provencal
+1	FOOD	tomato paste
+1	FOOD	roasted cherry tomatoes
+1	FOOD	toasted bread
+1	FOOD	parsley -
+1	DISH	fluke meuniere
+1	DISH	country ham sandwich
+1	EST	Bien Cuit
+1	FOOD	boursin
+1	EST	L'Atelier de Joel Robuchon
+1	FOOD	maki
+1	FOOD	pommes purees
+1	FOOD	langoustines
+1	LOC	Versailles
+1	EST	Avec
+1	LOC	Chicago
+1	EST	Ssam bar
+1	EST	Ateliers
+1	LOC	San Fernando Valley
+1	EST	Next
+1	EST	Maaemo
+1	LOC	Norway
+1	EST	Geranium
+1	LOC	Denmark
+1	DISH	grilled king crab legs
+1	FOOD	rose petal miso
+1	FOOD	chamomile -
+1	FOOD	rose petals
+1	DISH	vinegared mackerel
+1	FOOD	grilled cucumbers
+1	FOOD	fermented plums
+1	FOOD	White asparagus
+1	FOOD	reduced chicken jus
+1	FOOD	vadouvan
+1	FOOD	pine needles
+1	DISH	barbecue ribs
+1	DISH	skewered grilled lamb kebab
+1	DISH	tomato salad
+1	FOOD	squab
+1	FOOD	leg
+1	FOOD	maple jus
+1	FOOD	rye cracker
+1	FOOD	squab liver
+1	FOOD	pickled ramps
+1	LOC	Northeast
+1	FOOD	smoked beet juice
+1	FOOD	salt water taffy
+1	FOOD	beet - based
+1	FOOD	grilled peas
+1	FOOD	rose hips
+1	FOOD	bay leaf
+1	FOOD	bee - pollen
+1	EST	Living Room
+1	EST	Dining Room
+1	FOOD	reds
+1	DISH	eggplant carnitas
+1	FOOD	green strawberries
+1	TYPE	outposts
+1	LOC	East Seventh Street
+1	TYPE	butcher shops
+1	FOOD	hunter 's
+1	FOOD	halusky
+1	CUISINE	Eastern European
+1	LOC	New York University
+1	CUISINE	Cajun
+1	CUISINE	Acadiana
+1	CUISINE	Southeast Asian
+1	LOC	Bellaire Boulevard
+1	FOOD	Crayfish
+1	FOOD	xiaolongxia
+1	LOC	Hubei province
+1	FOOD	Dungeness
+1	FOOD	snow crabs
+1	FOOD	seasoning
+1	DISH	crayfish hot and spicy ,
+1	FOOD	Hot and spicy sauce
+1	FOOD	pickled chiles
+1	DISH	numbing and spicy
+1	FOOD	ma la
+1	FOOD	kimchi -
+1	DISH	thirteen special - flavor
+1	FOOD	crawfish
+1	FOOD	Snow crab
+1	CUISINE	northern
+1	DISH	King of Kings
+1	FOOD	skewers
+1	FOOD	red pepper seasoning
+1	FOOD	squid legs
+1	FOOD	lamb kidneys
+1	FOOD	pine cones
+1	DISH	Wok - fried clams in
+1	DISH	pickled radish
+1	DISH	smashed cucumbers in garlic sauce
+1	DISH	Harbin sausage
+1	FOOD	Harbin sausage
+1	FOOD	smoked pork
+1	FOOD	kielbasa
+1	DISH	raw yellowtail in ponzu under a green jalapeno wheel
+1	DISH	fried rock shrimp shimmering with spiced mayonnaise
+1	DISH	broiled black cod in miso
+1	EST	Matsuhisa
+1	LOC	Beverly Hills ,
+1	LOC	Dubai
+1	LOC	Budapest
+1	LOC	Cape Town
+1	LOC	Marbella
+1	LOC	Palo Alto
+1	DISH	tuna tataki
+1	EST	Nobus
+1	LOC	Malibu
+1	LOC	Lower Broadway
+1	TYPE	sushi restaurant
+1	EST	Next Door Nobu
+1	DISH	scallop sushi
+1	LOC	57th Street
+1	DISH	Negroni
+1	DISH	mayo - bathed
+1	FOOD	yellowtail tartare
+1	FOOD	wasabi -
+1	DISH	tiradito
+1	FOOD	lemon and yuzu juice
+1	FOOD	pureed rocoto pepper
+1	DISH	black cod
+1	DISH	lobster shiitake salads
+1	DISH	Umami Chilean sea bass
+1	DISH	Kumamoto shooters
+1	EST	Sushi Zo
+1	EST	Sushi Ginza Onodera
+1	EST	Taste of Persia NYC
+1	EST	Taste of Persia
+1	DISH	saffron rice
+1	FOOD	nigella seeds
+1	DISH	barbari
+1	FOOD	rose water
+1	FOOD	lime syrup
+1	LOC	Prospect Heights
+1	LOC	Flatbush Avenue
+1	FOOD	Roman
+1	FOOD	yogurt dips
+1	FOOD	minced shallots
+1	FOOD	sweet fried onions
+1	DISH	beef meatballs with sour cherries
+1	DISH	beef kofte
+1	FOOD	stewed split peas
+1	FOOD	saffron -
+1	LOC	Isfahan
+1	DISH	ash
+1	DISH	herb and whole - wheat
+1	DISH	smoked eggplant halves
+1	FOOD	garlic - drenched
+1	DISH	watermelon feta salad
+1	FOOD	sauce of nigella seeds crushed into mint oil
+1	DISH	Shiraz salad
+1	DISH	pico de gallo
+1	FOOD	sumac
+1	DISH	catch of the day
+1	DISH	ghalieh mahi
+1	DISH	tamarind - soured stew of fish and
+1	FOOD	whitefish
+1	FOOD	fried cilantro
+1	FOOD	fenugreek leaves
+1	DISH	flattened and griddled half chicken
+1	FOOD	barberries
+1	FOOD	sauce of dried Persian plums and saffron
+1	DISH	braised lamb shank with roasted garlic and sizzled onions
+1	FOOD	turmeric- and cinnamon -
+1	DISH	yogurt parfait with jam and pistachios
+1	DISH	rose -
+1	FOOD	Saffron and rose - water
+1	FOOD	vermicelli
+1	LOC	69 Leonard Street
+1	LOC	Kyoto
+1	TYPE	sushi parlor
+1	LOC	Ginza
+1	LOC	Shigaraki
+1	FOOD	akamutsu
+1	FOOD	somen noodles
+1	FOOD	bafun sea urchin
+1	FOOD	persimmon
+1	FOOD	daggertooth pike conger
+1	FOOD	hamo
+1	FOOD	pureed salt -
+1	FOOD	Sashimi
+1	FOOD	shioko
+1	FOOD	kanpachi
+1	CUISINE	kaiseki
+1	FOOD	Japanese eggplant
+1	FOOD	ginger shoot
+1	DISH	chawan mushi
+1	FOOD	tofu custard
+1	FOOD	spot prawns
+1	DISH	lobster chawan mushi
+1	EST	Ginza Sushi Onodera
+1	FOOD	cuttlefish
+1	FOOD	nova
+1	FOOD	o
+1	LOC	Ireland
+1	FOOD	ikura
+1	DISH	corn soup
+1	DISH	granita
+1	DISH	candied kumquats
+1	DISH	white peaches and blueberries
+1	FOOD	mochi wafer
+1	FOOD	monaka
+1	FOOD	shochus
+1	FOOD	Haitian rums
+1	LOC	Penang
+1	LOC	Milan
+1	EST	Starbucks
+1	FOOD	kopi
+1	FOOD	grounds
+1	DISH	white - chocolate
+1	FOOD	white coffee
+1	FOOD	palm oil margarine
+1	DISH	kopi -
+1	FOOD	black coffee
+1	FOOD	unsweetened condensed milk
+1	DISH	kopi tarik
+1	FOOD	milk froth
+1	LOC	East Broadway
+1	TYPE	coffee and tea parlors
+1	TYPE	kopitiam
+1	DISH	nasi lemak
+1	FOOD	pandan leaf
+1	FOOD	dried fish
+1	FOOD	mushroom -
+1	DISH	fish ball soup
+1	FOOD	ground fish
+1	FOOD	bird 's eye
+1	FOOD	Rice vermicelli
+1	DISH	French toast
+1	FOOD	Milo malt -
+1	DISH	oysters embedded in a thin browned omelet
+1	DISH	rice noodles in a chilled sesame -
+1	FOOD	spicy skate
+1	DISH	Pandan leaves wrapped around a kind of chicken sausage
+1	DISH	ground five - spice pork rolled inside bean -
+1	DISH	fried strips of mackerel sausage with a curry -
+1	DISH	pulut
+1	FOOD	pandan
+1	FOOD	sticky rice
+1	FOOD	morning glory flowers
+1	FOOD	toasted coconut sugar
+1	FOOD	coconut jam
+1	FOOD	cakes
+1	DISH	caramel - brown
+1	TYPE	tapas bar
+1	TYPE	tapas restaurant
+1	DISH	tannic milky tea
+1	DISH	blue sticky rice
+1	DISH	white coffee
+1	TYPE	coffee and tea parlor
+1	DISH	stir - fried
+1	FOOD	duck tongues
+1	LOC	Midwood
+1	LOC	Soviet republics
+1	DISH	qutab
+1	FOOD	pita
+1	FOOD	kutaby
+1	FOOD	minced , quietly spiced
+1	FOOD	greens
+1	DISH	crimped dumplings
+1	FOOD	chicken drumettes
+1	DISH	ravioli
+1	DISH	pelmeni
+1	FOOD	ground sumac
+1	FOOD	lamb hearts , kidney and
+1	DISH	djiz biz
+1	FOOD	sauce of onions and ground lamb
+1	CUISINE	Sichuanese
+1	CUISINE	Bolognese
+1	DISH	kufta
+1	FOOD	lamb broth
+1	FOOD	lamb -
+1	DISH	dushbara soup
+1	FOOD	lamb dumplings
+1	FOOD	M&Ms
+1	FOOD	Cilantro
+1	DISH	hot borscht
+1	DIET	unvegetarian
+1	FOOD	sour cream
+1	LOC	Georgia
+1	LOC	Armenia
+1	DISH	borscht
+1	LOC	Mother Russia
+1	LOC	Russia
+1	LOC	Kensington
+1	FOOD	purple grapes
+1	FOOD	stewed fruit
+1	FOOD	saffron rice
+1	DISH	plov
+1	FOOD	dried plums
+1	FOOD	apricots
+1	DISH	Winter Fun
+1	DISH	Unexpected Guests
+1	DISH	smoky eggplant mash with peppers and tomatoes
+1	FOOD	kidney beans
+1	DISH	lobio salad
+1	DISH	chicken cutlet
+1	DISH	Miracle of Village
+1	FOOD	cream sauce
+1	DISH	Mother In Laws Chicken
+1	DISH	quail
+1	DISH	grilled testicles
+1	DISH	lamb ribs
+1	DISH	marinated lamb chops
+1	DISH	chalahac
+1	DISH	lulya kebabs
+1	FOOD	vegetable skewer
+1	FOOD	blistered tomatoes
+1	DISH	homemade potatoes
+1	EST	Rainbow Room
+1	EST	Windows on the World
+1	EST	Greatest Bar on Earth
+1	LOC	International Style
+1	LOC	Manahatta
+1	LOC	Mannahatta
+1	LOC	Verrazzano -
+1	EST	Knickerbocker Club 's
+1	DISH	melon and cucumber salad with fluffy curds of feta
+1	FOOD	white balsamic vinegar
+1	FOOD	fennel bulbs
+1	FOOD	nectarine
+1	FOOD	chicken jus
+1	FOOD	Sweet black figs
+1	FOOD	apples
+1	DISH	tarte Tatin
+1	FOOD	raw pale -
+1	FOOD	hen -
+1	FOOD	La Marotte sheep cheese
+1	CUISINE	silver
+1	DISH	quenelles
+1	DISH	pike dumplings
+1	FOOD	lobster -
+1	DISH	chicken paillard
+1	DISH	veal blanquette
+1	EST	Escoffier
+1	DISH	vanilla souffle with butterscotch sauce
+1	DISH	caneles
+1	LOC	financial district
+1	LOC	Murray Hill
+1	FOOD	guk
+1	DISH	Guk
+1	FOOD	fermented tomatoes
+1	FOOD	scallop
+1	FOOD	green tomato
+1	FOOD	Korean fig vinegar
+1	FOOD	plum vinegar sauce
+1	FOOD	fermented chile
+1	FOOD	jack
+1	FOOD	soju
+1	FOOD	tangerine vinegar
+1	FOOD	young soy sauce
+1	FOOD	Chinese -
+1	FOOD	juices
+1	FOOD	Korean pears
+1	FOOD	green apples
+1	DISH	Wagyu strip loin
+1	FOOD	vinegars
+1	LOC	Koreatown
+1	FOOD	brussels sprouts
+1	DISH	roast duck with a mole sauce
+1	LOC	East 30th Street
+1	DISH	soy - marinated
+1	FOOD	red and black pepper
+1	FOOD	fried wings stuffed with fried rice
+1	FOOD	ground Sichuan peppercorns
+1	DISH	Manhattan
+1	LOC	Korea
+1	FOOD	Chongqing chicken
+1	FOOD	mung -
+1	FOOD	dan dan noodles
+1	EST	Hunan Garden
+1	EST	Hunan House
+1	DISH	egg rolls
+1	DISH	red -
+1	LOC	Hunans
+1	FOOD	mifen
+1	LOC	Hengyang
+1	FOOD	barbecued pork
+1	EST	Hometown Lu Fen
+1	FOOD	pickled red chiles in oil
+1	DISH	string bean mifen
+1	FOOD	ground Berkshire pork
+1	FOOD	pickled green beans
+1	FOOD	dried chile
+1	FOOD	wild pepper
+1	FOOD	beef soup
+1	CUISINE	Stock
+1	FOOD	soup stocks
+1	FOOD	bones
+1	DISH	fish fillet mifen
+1	FOOD	flower petals
+1	FOOD	pea shoots
+1	FOOD	purple basil
+1	EST	Part Two
+1	FOOD	steamed fish
+1	FOOD	noodly
+1	FOOD	cumin -
+1	DISH	sweet -
+1	DISH	spareribs
+1	FOOD	plum juice
+1	EST	Hao Noodle and Tea by Madam Zhu 's
+1	DISH	stir -
+1	DISH	chicken feet
+1	FOOD	julienne potatoes
+1	DISH	saute of pork and garlic topped with an egg
+1	DISH	stir - fry of pork and
+1	FOOD	bell pepper
+1	FOOD	eggplants
+1	FOOD	tuna maki
+1	FOOD	purple seaweed
+1	DISH	mung beans and barley in syrup
+1	LOC	Life Hotel
+1	LOC	West 31st Street
+1	DISH	beef ribs
+1	CUISINE	Afrocentric
+1	EST	Henry at Life Hotel by JJ
+1	LOC	Herald Square
+1	EST	Cecil
+1	TYPE	jazz supper club
+1	EST	Minton
+1	LOC	Barbados
+1	CUISINE	Pan
+1	DISH	foie gras sliders
+1	DISH	meatball pizza
+1	DISH	littleneck clams
+1	FOOD	shaved fennel
+1	FOOD	Asian pear
+1	FOOD	piri
+1	LOC	Angola
+1	LOC	Mozambique
+1	LOC	South Africa
+1	FOOD	Benne seeds
+1	FOOD	coffee beans
+1	DISH	tuna tartare
+1	FOOD	curried peanut brittle
+1	FOOD	shiso leaves
+1	CUISINE	Indo
+1	FOOD	spinach chutney
+1	DISH	collard greens and cashews tossed with a coconut dressing
+1	FOOD	collards
+1	DISH	seared salmon with rice noodles , edamame and bok
+1	LOC	Senegal
+1	DISH	shrimp and pork dumplings
+1	DISH	Harlem curry
+1	CUISINE	Bengali
+1	FOOD	seafood broth
+1	DISH	seafood boil
+1	DISH	Afropot
+1	FOOD	king crab legs
+1	DISH	Tamarind jerk chicken
+1	DISH	Dominican concon
+1	FOOD	eggplant curry
+1	FOOD	hominy broth
+1	FOOD	cilantro pistou
+1	DISH	bone -
+1	DISH	short ribs
+1	FOOD	spiced black beans
+1	FOOD	hoisin sauce
+1	DISH	Foie Crispy Treat
+1	DISH	sweet potato pie
+1	FOOD	butter crust
+1	FOOD	purple yam
+1	FOOD	Caesar salad
+1	FOOD	tap water
+1	DISH	Neapolitan pie
+1	LOC	Upper West Side
+1	DISH	Neapolitans
+1	CUISINE	Neapolitan
+1	FOOD	fresh mozzarella
+1	FOOD	raw dough
+1	FOOD	low -
+1	FOOD	pizza cheese
+1	DISH	white pizza with tomato -
+1	FOOD	two -
+1	FOOD	Basil leaves
+1	LOC	Broadway and 106th Street
+1	EST	Sorbillo
+1	EST	Ops
+1	FOOD	melted
+1	FOOD	brick -
+1	EST	Best Pizza
+1	LOC	North Brooklyn
+1	EST	L'Industrie
+1	EST	Williamsburg Pizza
+1	LOC	Gotham West Market
+1	EST	Di Fara
+1	LOC	Midwood ,
+1	DISH	pepperoni slice
+1	DISH	Coke
+1	LOC	106th Street and Amsterdam Avenue
+1	FOOD	Sicilian pizza
+1	FOOD	grilled cheese sandwich
+1	FOOD	white pies with toppings
+1	DISH	cacio e pepe Sicilian pie
+1	FOOD	four -
+1	FOOD	Gorgonzola dolce
+1	TYPE	pasta restaurant
+1	FOOD	tortelli
+1	FOOD	mascarpone
+1	CUISINE	Sardinian
+1	FOOD	malloreddus
+1	DIET	keto
+1	LOC	Domino refinery
+1	FOOD	mezze rigatoni
+1	FOOD	garlic cloves
+1	FOOD	corzetti
+1	FOOD	Red Bull
+1	FOOD	Sungold tomatoes
+1	FOOD	pasta restaurant
+1	FOOD	globe eggplant
+1	FOOD	Calabrian chiles
+1	FOOD	rosemary needles
+1	FOOD	Grilled runner beans
+1	FOOD	leeks
+1	FOOD	panzanella
+1	FOOD	roasted tomatoes
+1	FOOD	spicy honey
+1	DIET	meatless
+1	FOOD	pork sugo
+1	FOOD	strangozzi
+1	FOOD	Meat
+1	FOOD	catarratto
+1	LOC	Sicily
+1	FOOD	Corsican niellucciu
+1	FOOD	croatina -
+1	LOC	Lombardy
+1	FOOD	uva rara
+1	DISH	Lambrusco
+1	DISH	Champagne from David Leclapart
+1	TYPE	pasta -
+1	FOOD	almond
+1	FOOD	fior di latte
+1	EST	Indian Accent
+1	EST	Babu Ji
+1	DISH	naan pizzas
+1	DISH	samosa burgers
+1	FOOD	gravy -
+1	FOOD	sauceless dry curries
+1	FOOD	tandoori -
+1	FOOD	tandoori chicken
+1	LOC	Long Island City
+1	FOOD	garam masala
+1	EST	Adda ( ah DAH )
+1	EST	Rahi
+1	DISH	tandoori skate
+1	CUISINE	north Indian
+1	DISH	Saag paneer
+1	FOOD	saag
+1	FOOD	sorrel
+1	FOOD	mustard greens
+1	FOOD	fried noodles
+1	FOOD	kale fritter
+1	FOOD	battered , spiced lentil
+1	FOOD	fried smashed potatoes
+1	FOOD	dahi batata puri
+1	FOOD	chocolates
+1	DISH	Seekh kebabs
+1	CUISINE	Mumbai
+1	DISH	tandoori macchi
+1	FOOD	pompano
+1	FOOD	mustard seeds
+1	DISH	bhatti da murgh
+1	FOOD	double - marinated
+1	FOOD	poussin
+1	FOOD	red chiles
+1	FOOD	kala namak
+1	FOOD	black salt
+1	FOOD	pomegranate seeds
+1	DISH	goat biryani
+1	FOOD	biryanis
+1	FOOD	cream sauces
+1	DISH	Malvani prawn curry
+1	LOC	South Konkan coast
+1	DIET	vegetarians
+1	DISH	Delhi butter chicken
+1	DISH	rara gosht
+1	FOOD	spiced minced lamb
+1	DISH	bheja fry
+1	FOOD	goat brains
+1	FOOD	bheja fry
+1	FOOD	brains
+1	CUISINE	non
+1	DISH	Cobble Hill ,
+1	TYPE	raw bar
+1	FOOD	Wines
+1	EST	La Vara
+1	CUISINE	un
+1	DISH	octopus carpaccio
+1	FOOD	marjoram leaves
+1	FOOD	Espelette pepper
+1	FOOD	carpaccio
+1	FOOD	pink -
+1	FOOD	vanilla butter
+1	EST	Kanpai Martini
+1	FOOD	Vesper
+1	LOC	Barcelona ,
+1	FOOD	txipirones
+1	FOOD	gooseneck barnacles
+1	FOOD	sorrullitos
+1	FOOD	kanpachi collar
+1	FOOD	beef tenderloin
+1	FOOD	prego sandwich
+1	DISH	crispy tuna bake
+1	FOOD	tuna noodle casserole
+1	FOOD	fideua
+1	FOOD	paella
+1	FOOD	oil -
+1	FOOD	curry leaves
+1	FOOD	patatas bravas
+1	DISH	crab and avocado salad
+1	DISH	sauteed skate
+1	FOOD	Manzanilla
+1	FOOD	garlic chips
+1	FOOD	Seafood
+1	FOOD	wild shrimp
+1	DISH	red pozole
+1	FOOD	hominy
+1	FOOD	Saltines
+1	FOOD	canola oil
+1	FOOD	pickled shrimp
+1	FOOD	grilled bread slices
+1	FOOD	hummus - like
+1	DISH	tuna bake
+1	DISH	prego sandwich
+1	EST	Four Seasons Restaurant
+1	LOC	Park Avenue
+1	FOOD	martinis
+1	TYPE	fish cookery
+1	LOC	Hell 's
+1	EST	Gloria
+1	EST	Le Bernardin
+1	FOOD	raw scallop
+1	FOOD	citrus juices
+1	FOOD	chowder
+1	LOC	New England
+1	FOOD	cream broth
+1	FOOD	butterfat
+1	DISH	Dover sole a la meuniere
+1	FOOD	crab cake
+1	FOOD	baba au rhum
+1	FOOD	chocolate tart
+1	FOOD	hazelnut financier
+1	FOOD	roasted pears
+1	FOOD	almond financier
+1	LOC	Grand Central
+1	LOC	King 's
+1	EST	Quaglino
+1	EST	Bibendum
+1	EST	London Bluebird
+1	TYPE	cafe -
+1	FOOD	liqueurs
+1	FOOD	butternut squash soup
+1	FOOD	fluke crudo
+1	FOOD	Long Island
+1	FOOD	Burrata
+1	FOOD	Long Island burrata
+1	DISH	crispy shrimp
+1	TYPE	conveyor - belt
+1	FOOD	Yellowfin tuna poke
+1	DISH	lobster Cobb salad
+1	DISH	prawn and monkfish curry
+1	FOOD	thali
+1	FOOD	mango chutney
+1	FOOD	basmati rice
+1	FOOD	paratha
+1	DISH	fish and chips
+1	FOOD	minted peas
+1	FOOD	tartare
+1	DISH	Cornish chicken pie
+1	DISH	farmhouse pork terrine
+1	FOOD	Spammy
+1	DISH	beef Wellington
+1	FOOD	tenderloin
+1	DISH	pull - apart
+1	FOOD	baked Montgomery 's
+1	DISH	Bakewell tart
+1	FOOD	orange marmalade
+1	FOOD	frangipane
+1	FOOD	pastry shell
+1	DISH	Pimm 's
+1	FOOD	Still
+1	DISH	BrewDog I.P.A.
+1	FOOD	draft beer
+1	DISH	Chocolate Bluebird
+1	FOOD	blue -
+1	FOOD	Bulgogi
+1	TYPE	truck
+1	FOOD	Smoked kimchi
+1	FOOD	pulled pork
+1	FOOD	cheese -
+1	TYPE	outdoor food
+1	FOOD	Hwe
+1	FOOD	bo ssam
+1	FOOD	roasted pork shoulder
+1	DISH	bo ssam
+1	TYPE	salon de the
+1	FOOD	tisanes
+1	FOOD	mulberry leaves
+1	FOOD	mistletoe stems
+1	FOOD	dried wild pears
+1	FOOD	white cake
+1	FOOD	cookies
+1	FOOD	toffees
+1	TYPE	tearoom
+1	FOOD	sojus
+1	TYPE	Korean
+1	FOOD	meatball
+1	DISH	dumpling
+1	DISH	snowy bibimbap
+1	FOOD	mung bean jelly
+1	FOOD	burdock
+1	FOOD	bellflower root
+1	FOOD	king crab leg
+1	FOOD	poached pollock roe
+1	FOOD	dried -
+1	FOOD	Soy -
+1	FOOD	anchovy broth
+1	FOOD	simmered pork belly
+1	FOOD	pickled mushroom
+1	FOOD	spicy fish stew
+1	FOOD	maeun
+1	FOOD	chile paste
+1	FOOD	daktori
+1	FOOD	braised chicken
+1	FOOD	seared salmon
+1	EST	Kosaka
+1	FOOD	omakase sushi
+1	DISH	West 13th Street
+1	FOOD	minced shrimp
+1	FOOD	fried shrimp
+1	FOOD	soy jelly
+1	FOOD	browned mozzarella
+1	FOOD	kimchi pizza
+1	EST	Restaurant Collection
+1	EST	Per Se and Masa
+1	EST	Veselka
+1	TYPE	shawarma stand
+1	TYPE	vertical rotisseries
+1	TYPE	taco trucks
+1	EST	Halal Guys
+1	TYPE	carts
+1	FOOD	street -
+1	EST	Momofuku Noodle Bar
+1	FOOD	yakitori -
+1	FOOD	griddled flatbread
+1	FOOD	habanero salsa
+1	DISH	pork buns
+1	FOOD	raw white onions
+1	FOOD	shawarma
+1	FOOD	doner kebab
+1	DISH	spicy eggplant spread
+1	DISH	whipped chickpeas
+1	FOOD	Hozon
+1	FOOD	fermented chickpea paste
+1	DISH	mini
+1	FOOD	scallion cream cheese
+1	DISH	griddled mini
+1	FOOD	caper - scallion
+1	FOOD	salted cucumber
+1	FOOD	veggie cream cheese
+1	DISH	breakfast mini with mortadella
+1	FOOD	mortadella
+1	FOOD	lardo
+1	FOOD	caramelized mortadella
+1	FOOD	yellow American cheese
+1	FOOD	hot mustard
+1	FOOD	fried baloney
+1	FOOD	Taylor Ham
+1	DISH	mortadella minis
+1	FOOD	cinnamon roll
+1	FOOD	kkwabaegi
+1	FOOD	doughnut stick
+1	FOOD	cream cheese icing
+1	FOOD	fermented chickpeas
+1	FOOD	bang
+1	FOOD	bbang
+1	FOOD	ppang
+1	TYPE	shawarma joint
+1	TYPE	bread bar
+1	EST	French Laundry
+1	LOC	Evelyn Hotel
+1	FOOD	barigoule
+1	FOOD	mousseline
+1	FOOD	tete de veau
+1	FOOD	bearnaise
+1	FOOD	carnaroli risotto
+1	FOOD	garganelli verde
+1	FOOD	pecorino ginepro
+1	FOOD	stocks
+1	FOOD	fermented vegetables
+1	FOOD	pinot noir
+1	DISH	veal sirloin chop
+1	FOOD	fish terrine
+1	FOOD	bouillabaisse
+1	FOOD	liquid yolk
+1	FOOD	baby leeks
+1	FOOD	fingerlings
+1	FOOD	pioppini mushrooms
+1	DISH	Lamb saddle
+1	FOOD	fairytale eggplant
+1	FOOD	Thumbelina carrots
+1	FOOD	puree
+1	FOOD	lamb breast
+1	EST	Lincoln Ristorante
+1	EST	Leonelli Taberna
+1	DISH	lasagna
+1	FOOD	green noodles
+1	FOOD	browned bechamel
+1	TYPE	pastry shop
+1	FOOD	flatbreads
+1	FOOD	pig 's
+1	FOOD	fried quail egg
+1	FOOD	flageolets
+1	FOOD	seared duck breast
+1	FOOD	duck leg
+1	FOOD	brik pastry
+1	DISH	Lobster fra diavolo
+1	FOOD	lumache
+1	DISH	Spaghetti
+1	FOOD	grano arso
+1	FOOD	burned -
+1	FOOD	sea urchin roe
+1	FOOD	steelhead salmon
+1	FOOD	needle -
+1	FOOD	rosemary flan
+1	FOOD	candied cranberries
+1	FOOD	super
+1	DISH	2005 Bordeaux
+1	FOOD	banoffee macaron
+1	FOOD	mac and cheese
+1	FOOD	maple -
+1	EST	Frenchie to Go
+1	FOOD	charred leaves
+1	FOOD	cooked grains
+1	FOOD	Grilled baby leek greens
+1	FOOD	smoked and lemon -
+1	FOOD	Parmesan sabayon
+1	FOOD	puffed barley
+1	FOOD	piment d'Espelette
+1	FOOD	caraway brioche
+1	TYPE	deli
+1	FOOD	foie gras terrine
+1	FOOD	pastrami
+1	FOOD	skate grenobloise
+1	FOOD	white halibut
+1	FOOD	bread -
+1	FOOD	sea beans
+1	FOOD	brown butter sauce
+1	FOOD	fried sweetbreads
+1	FOOD	veal -
+1	FOOD	cauliflower
+1	LOC	Mulberry Street
+1	EST	Chefs Club
+1	EST	Decatur Bar & Popup Factory
+1	EST	In Situ
+1	LOC	San Francisco Museum of Modern Art
+1	TYPE	residencies
+1	FOOD	one
+1	LOC	Puebla
+1	TYPE	takeout joints
+1	TYPE	lunch counters
+1	FOOD	moles
+1	EST	Oaxaca
+1	DISH	mole verde
+1	FOOD	pumpkin seeds
+1	FOOD	tomatillos
+1	FOOD	mandarin duck
+1	EST	Empellon
+1	FOOD	animal crackers
+1	FOOD	plantains
+1	FOOD	enchiladas
+1	FOOD	quartered chicken
+1	FOOD	yellow rice
+1	LOC	Vernon Boulevard
+1	FOOD	margarita
+1	FOOD	tamarind
+1	FOOD	raw -
+1	FOOD	condensed milk
+1	DISH	flan
+1	DISH	guacamole
+1	DISH	two -
+1	FOOD	refried beans
+1	DISH	albondigas
+1	FOOD	cumin - laced
+1	FOOD	esquites
+1	FOOD	mayonnaise
+1	FOOD	ground chiles
+1	DISH	crab tostadas
+1	FOOD	Serrano chile
+1	FOOD	avocado salsa
+1	FOOD	orange soda
+1	FOOD	corn tortillas
+1	FOOD	braised tongue
+1	FOOD	brisket
+1	FOOD	fried , battered
+1	FOOD	salsa verde
+1	FOOD	roasted poblanos
+1	DISH	enchiladas Dona Blanca
+1	DISH	pozole
+1	DISH	pork ribs
+1	LOC	Chiapas
+1	FOOD	guajillo chiles
+1	FOOD	baby back ribs
+1	FOOD	pipian rojo
+1	DISH	chamorro de borrego
+1	FOOD	lamb shank
+1	FOOD	sauce of pulla chiles
+1	FOOD	guaje seeds
+1	FOOD	huaxmole
+1	FOOD	guaxmole
+1	FOOD	mole de guaje
+1	TYPE	chili counter
+1	TYPE	falafel cart
+1	TYPE	creperie
+1	EST	Medieval Times
+1	EST	Knife
+1	DISH	rib - eye
+1	FOOD	is
+1	FOOD	hot -
+1	EST	I Sodi
+1	LOC	Bialystok
+1	EST	Shelsky 's Brooklyn
+1	DISH	pork roll , egg and cheese
+1	FOOD	Taylor ham
+1	FOOD	cured , smoked and cooked
+1	FOOD	Griddled pork roll
+1	FOOD	cooked egg
+1	FOOD	breakfast sandwich
+1	FOOD	pork roll sandwiches
+1	FOOD	caramelized onion confit
+1	LOC	Manhattan Avenue
+1	LOC	Greenpoint
+1	LOC	Bedford Avenue
+1	LOC	Bedford
+1	FOOD	three -
+1	FOOD	manhattans
+1	FOOD	Rob Roys
+1	FOOD	smoked olives
+1	FOOD	pig 's head
+1	FOOD	Belon oysters
+1	FOOD	smoking rosemary branches
+1	FOOD	smoked rosemary hollandaise
+1	FOOD	squab and pork terrine
+1	FOOD	prunes
+1	FOOD	apricot -
+1	FOOD	pear ketchup
+1	FOOD	pearl onions
+1	FOOD	terrine
+1	CUISINE	Polish
+1	EST	Cinamoon
+1	EST	Beatrice Inn
+1	EST	Spotted Pig
+1	FOOD	Roquefort
+1	EST	Pitt Cue
+1	TYPE	outpost
+1	DISH	game -
+1	FOOD	grilled tongue
+1	FOOD	grain bowls
+1	DISH	fried lamb ribs
+1	FOOD	apple glaze
+1	FOOD	shallot
+1	FOOD	pickled prunes
+1	FOOD	port
+1	FOOD	roasted , pureed celery
+1	FOOD	bruleed pears
+1	FOOD	pheasant , leek and bacon
+1	FOOD	suet crust
+1	DISH	grilled rib - eye
+1	FOOD	pickle shallots
+1	FOOD	buttered bread crumbs
+1	DISH	roasted pumpkin mash
+1	FOOD	toasted hazelnuts
+1	DISH	grilled bread
+1	DISH	smoked whitefish salad
+1	FOOD	caramelized shallots
+1	DISH	Grilled flatbread
+1	FOOD	roasted hens
+1	DISH	Skate
+1	FOOD	smoked German butterball potatoes
+1	FOOD	fino sherry - laced
+1	DISH	salad
+1	FOOD	bitter lettuces
+1	DISH	cheeses
+1	FOOD	eggless custard
+1	FOOD	Earl Grey tea
+1	FOOD	Cara Cara orange
+1	FOOD	Earl Grey meringues
+1	FOOD	apple wine
+1	FOOD	mead
+1	DISH	cremant d'Alsace
+1	EST	Dirler Cade
+1	DISH	Sybille Kuntz riesling
+1	DISH	Olga Raffault chinon
+1	DISH	pinot noir
+1	EST	Enderle & Moll
+1	EST	Le Pavillon
+1	EST	La Cote Basque
+1	FOOD	cremes brulees
+1	FOOD	blood sausages
+1	EST	Bistro Pierre Lapin
+1	FOOD	truffled cheese spread
+1	FOOD	pork pate
+1	TYPE	immoderation
+1	EST	Harold 's Meat &
+1	EST	Harold
+1	LOC	Kentucky
+1	DISH	hot brown sandwich
+1	FOOD	Mornay sauce
+1	EST	Greenwich Grille
+1	DISH	chicken potpie
+1	FOOD	mushrooms in cream
+1	FOOD	buttered and griddled pain de mie
+1	DISH	Brie au four
+1	FOOD	baked Brie
+1	FOOD	dried figs
+1	FOOD	toasted baguette
+1	FOOD	Brie
+1	DISH	balle de matzo en consomme
+1	FOOD	chicken soup
+1	DISH	coq au vin
+1	DISH	sea scallops
+1	FOOD	endive
+1	FOOD	gnocchi
+1	FOOD	sauteed sweetbreads
+1	FOOD	black truffle
+1	FOOD	chicken dumplings
+1	FOOD	Cognac - flamed
+1	DISH	bonne femme
+1	FOOD	snail butter
+1	FOOD	sunny -
+1	FOOD	Rhone
+1	DISH	chocolate mousse
+1	FOOD	sugar crust
+1	DISH	Pavlova
+1	FOOD	meringue crust
+1	FOOD	whipped -
+1	FOOD	bright yellow passion -
+1	EST	Roberta
+1	CUISINE	Mid
+1	FOOD	griddled masa
+1	FOOD	roasted chiles
+1	EST	Mirazur
+1	LOC	French Riviera
+1	EST	Fitzcarraldo
+1	EST	Egg
+1	FOOD	whipped Alpine fontina
+1	FOOD	coffee - and
+1	DISH	potato cake
+1	FOOD	bay -
+1	DISH	dehydrated beets
+1	FOOD	marjoram -
+1	DISH	grilled carrots
+1	FOOD	chamomile sabayon
+1	FOOD	aged carrots
+1	FOOD	fig -
+1	FOOD	goat milk
+1	FOOD	frozen custard
+1	FOOD	cajeta
+1	DISH	won - ton
+1	FOOD	pork bones
+1	FOOD	yellow noodles
+1	FOOD	stewed beef
+1	FOOD	five -
+1	FOOD	fried fish skin
+1	TYPE	won -
+1	LOC	Toronto
+1	FOOD	won
+1	EST	Maxi
+1	TYPE	breakfast and lunch cafe
+1	TYPE	noodle soup shop
+1	FOOD	wrappers
+1	LOC	Second Avenue
+1	LOC	San Jose ,
+1	EST	barbecue
+1	EST	New York City
+1	EST	Han Joo Chik Naeng Myun & BBQ
+1	EST	table salad
+1	FOOD	pickled carrots
+1	FOOD	paper
+1	FOOD	nuoc cham
+1	FOOD	pineapple - and
+1	FOOD	mam nem
+1	FOOD	beef broth
+1	DISH	pho
+1	DISH	oxtail congee
+1	FOOD	Congee
+1	FOOD	chao thit bo
+1	FOOD	beef -
+1	FOOD	congee
+1	FOOD	chicken stock
+1	FOOD	braised oxtails
+1	FOOD	honey , fish
+1	FOOD	scallion greens
+1	FOOD	beefs
+1	DISH	boi tai chanh
+1	FOOD	raw beef salad
+1	FOOD	Lean eye of round
+1	FOOD	fried shallots
+1	FOOD	tangerine -
+1	FOOD	rau ram
+1	FOOD	rice paper wrappers
+1	DISH	five -
+1	FOOD	betel
+1	FOOD	seasoned ground beef
+1	DISH	bo la lot
+1	FOOD	marrow butter
+1	DISH	whole catfish
+1	FOOD	catfish
+1	FOOD	grilled lemon
+1	FOOD	sauteed shallots
+1	FOOD	bird chiles
+1	DISH	skewered and grilled okra pods
+1	DISH	grilled scallop
+1	DISH	Spring rolls
+1	FOOD	truffle hoisin dipping sauce
+1	DISH	extra - large
+1	FOOD	caramelized sea urchin mayonnaise
+1	DISH	charred sea urchin
+1	DISH	Grilled prawns
+1	FOOD	orange butter
+1	DISH	tomahawk steak
+1	DISH	catfish
+1	DISH	table salad
+1	FOOD	stir - fried
+1	FOOD	coconut water
+1	FOOD	green coconut
+1	TYPE	fish shops
+1	EST	Dominick
+1	FOOD	scamorza
+1	FOOD	soppressata
+1	FOOD	heroes
+1	FOOD	Cumin - laden
+1	TYPE	salumerias
+1	FOOD	burek
+1	FOOD	beef patty
+1	LOC	Norwood
+1	EST	Tradita
+1	LOC	Adriatic coast
+1	TYPE	Greek-
+1	TYPE	Turkish
+1	LOC	Yugoslavia
+1	LOC	Kosovo
+1	DISH	tarator
+1	FOOD	tzatziki
+1	FOOD	suxhuk
+1	FOOD	spice
+1	FOOD	unpasteurized milk
+1	FOOD	dipping sausages
+1	DISH	kacamak
+1	FOOD	lecenik
+1	FOOD	cornbread
+1	FOOD	cottage cheese
+1	DISH	fli
+1	FOOD	slow - baked
+1	DISH	mantia
+1	FOOD	baked dumplings
+1	FOOD	ground veal
+1	FOOD	mantia
+1	DISH	qofte
+1	FOOD	red pepper
+1	DISH	qebapa
+1	FOOD	cevapi
+1	LOC	Balkans
+1	FOOD	Veal
+1	FOOD	clay -
+1	DISH	veal tava
+1	FOOD	meat -
+1	FOOD	smoked meat
+1	DISH	Skanderbeg
+1	FOOD	Skanderbeg
+1	FOOD	chicken cordon bleu
+1	DISH	syrup -
+1	DISH	nut cake
+1	DISH	haxhimak
+1	DISH	sugar cookie
+1	DISH	sheqerpare
+1	TYPE	kaiseki restaurant
+1	FOOD	short -
+1	FOOD	nikiri
+1	FOOD	lotus root
+1	FOOD	cherry leaves
+1	FOOD	white kimchi
+1	DISH	tuna roll
+1	FOOD	ice cream cone
+1	EST	Sushi Nakazawa
+1	LOC	East Coast
+1	LOC	Long Island
+1	LOC	North Carolina
+1	FOOD	bluefin tuna
+1	TYPE	sushi restaurants
+1	EST	Gen Yamamoto
+1	FOOD	Barrel -
+1	FOOD	mikan orange
+1	FOOD	sparkling wine
+1	FOOD	Orange juice
+1	TYPE	cocktail bar
+1	LOC	Flatiron Building
+1	FOOD	concentrated soy
+1	FOOD	sansho pepper
+1	FOOD	pureed apples
+1	FOOD	truffle -
+1	DISH	croquette
+1	FOOD	rice ball
+1	FOOD	New England clam chowder
+1	FOOD	young bamboo shoots
+1	FOOD	arancino
+1	FOOD	lamb shoulder
+1	FOOD	baby harukei turnip
+1	FOOD	licorice whip
+1	LOC	Hudson Valley
+1	FOOD	topneck clams
+1	DISH	Long Island
+1	EST	n
+1	EST	Kyo Ya
+1	EST	Kajitsu
+1	LOC	East 39th Street
+1	FOOD	fresh
+1	FOOD	vanilla
+1	TYPE	brewery
+1	DISH	seafood curry over rice
+1	DISH	short ramen noodles in king crab broth
+1	DISH	soba
+1	FOOD	wasabi blossoms
+1	FOOD	broccoli florets
+1	TYPE	food -
+1	FOOD	coffee -
+1	FOOD	meat sauce
+1	FOOD	hot wiener
+1	FOOD	grilled pizza
+1	EST	Emily
+1	FOOD	pan pizza
+1	LOC	Citi Field
+1	FOOD	saltine
+1	DISH	margheritas
+1	FOOD	Sauces
+1	FOOD	garlic -
+1	FOOD	Peking duck pancake
+1	FOOD	fried julienned leeks
+1	FOOD	Olive oil
+1	FOOD	sourdough starter
+1	DISH	Beech Vibes
+1	FOOD	duxelles
+1	FOOD	pickled beech mushrooms
+1	FOOD	pissaladiere
+1	FOOD	duxelles pizza
+1	FOOD	unpickled white mushrooms
+1	DISH	Neapolitan margherita
+1	DISH	margarita
+1	DISH	Classic
+1	DISH	iceberg -
+1	FOOD	ranch dressing
+1	DISH	frisee salad
+1	FOOD	fried artichokes
+1	DISH	radiatore
+1	DISH	spaghetti con vongole con dashi
+1	DISH	cheesecake with banana pudding
+1	DISH	stuffies
+1	FOOD	baked stuffed littlenecks
+1	FOOD	cherrystones
+1	FOOD	clam
+1	DISH	smoked mackerel
+1	FOOD	fresh - fried
+1	FOOD	spiced piri -
+1	FOOD	Johnnycakes
+1	FOOD	fried cornmeal mush
+1	LOC	Atlantic Coast
+1	CUISINE	Cornish
+1	DISH	barbecued game hen
+1	EST	Cozy Corner
+1	DISH	fried hot chicken
+1	EST	Prince
+1	LOC	Nashville
+1	FOOD	seasoned flour
+1	FOOD	spicy oil
+1	FOOD	Tabasco hot honey
+1	DISH	smoked , fried
+1	LOC	Battery Park City
+1	FOOD	habanero
+1	FOOD	Sichuan peppercorn
+1	FOOD	Aleppo pepper
+1	FOOD	Tabasco sauce
+1	TYPE	barbecue
+1	FOOD	Time Warner Center
+1	DISH	Chef Rocco 's Game Changing
+1	DISH	Rocco 's Game
+1	FOOD	oats
+1	FOOD	psyllium -
+1	FOOD	wheat flour
+1	DIET	free of gluten
+1	FOOD	browned nuts
+1	DISH	Life - Changing Loaf
+1	DISH	Game Changing Nut & Seed Bread
+1	FOOD	smoked gravlax
+1	FOOD	coconut creme fraiche
+1	DISH	acorn - fed ,
+1	DISH	chilled Maine sea urchins served on the spiky half
+1	CUISINE	East Asian
+1	DISH	bay scallops and sea urchin
+1	FOOD	mustard oil
+1	DISH	bluefin chu - toro stirred with golden
+1	DISH	yellowfin tartare
+1	FOOD	macadamias
+1	LOC	Peconic Bay
+1	FOOD	maitake mushrooms
+1	FOOD	fava bean
+1	FOOD	guts
+1	FOOD	coconut nectar
+1	DISH	risotto with red shrimp
+1	FOOD	black truffles
+1	DISH	Norwegian salmon
+1	FOOD	cashew sauce
+1	FOOD	goose fat
+1	DISH	rib
+1	EST	The Standard
+1	FOOD	chilled seafood
+1	LOC	Park Slope ,
+1	TYPE	minichains
+1	FOOD	banh mi
+1	FOOD	burritos
+1	FOOD	lobster rolls
+1	FOOD	grilled oysters
+1	FOOD	seaweed butter
+1	DISH	zucchini -
+1	FOOD	bean sprouts
+1	FOOD	seolleongtang
+1	FOOD	jajangmyeon
+1	EST	Danji
+1	EST	Oiji
+1	LOC	Park Slope
+1	CUISINE	South Korean
+1	DISH	pork and beef bulgogis with ssamjang and lettuce
+1	DISH	pan -
+1	FOOD	high - fat
+1	EST	Sweetgreen
+1	DISH	hwe dup bap
+1	FOOD	perilla leaves
+1	FOOD	cured salmon eggs
+1	DISH	white fish fillets
+1	FOOD	scallion
+1	FOOD	egg batter
+1	DISH	saeng seon jeon
+1	DISH	mackerel , grilled or
+1	DISH	fried scallops
+1	FOOD	tartar sauce
+1	LOC	Jeju island
+1	FOOD	Korean fried chicken
+1	FOOD	dokdoritang
+1	FOOD	potato starch
+1	FOOD	yangnyeom chile sauce
+1	DISH	beignets
+1	FOOD	powdered sugar
+1	EST	Cafe du Monde
+1	DISH	grilled oysters
+1	DISH	rice cake fundido
+1	FOOD	sliced jalapenos
+1	FOOD	Oaxacan cheese
+1	CUISINE	Tex
+1	LOC	Whole Foods Market
+1	FOOD	onsen egg
+1	FOOD	yuzu -
+1	FOOD	Camembert
+1	EST	Yuji Ramen
+1	DISH	bacon -
+1	DISH	" tunakotsu
+1	FOOD	soup ramen
+1	TYPE	ramen shop
+1	EST	Nakamura
+1	FOOD	noodle soup
+1	FOOD	Broth
+1	TYPE	noodle shop
+1	FOOD	oil noodle
+1	FOOD	lard
+1	FOOD	tare
+1	FOOD	Italian -
+1	DISH	fried beef cutlets
+1	EST	Beefst
+1	FOOD	sliced roast beef
+1	FOOD	pork sauce
+1	FOOD	fermented bamboo
+1	DISH	duck
+1	FOOD	moulard duck
+1	FOOD	duck juices
+1	DISH	foie gras topped with pistachios and truffle oil
+1	DISH	duck mazemen
+1	FOOD	spicy cod roe
+1	TYPE	ramen
+1	DISH	Sea urchin perched on tiny corners of toast
+1	DISH	sardines on toast
+1	FOOD	chile flakes
+1	DISH	raw scallops with yuzu juice
+1	DISH	avocado salad
+1	FOOD	tempura flakes
+1	DISH	umami kombu fries
+1	FOOD	powdered shio kombu
+1	EST	McDonald
+1	FOOD	shio kombu
+1	LOC	NoLIta
+1	LOC	Qatar
+1	DISH	pork skewers
+1	FOOD	pickled watermelon radishes
+1	FOOD	lime leaf
+1	DISH	chicken satay
+1	FOOD	red curry
+1	DISH	Jimbaran -
+1	FOOD	Littlenecks
+1	FOOD	garlic paste
+1	DISH	clams oreganata
+1	FOOD	pickled red chile
+1	DISH	hearts -
+1	FOOD	mango vinaigrette
+1	FOOD	lime -
+1	DISH	bakwan jagung
+1	FOOD	corn kernels
+1	FOOD	shallots
+1	DISH	nasi goreng
+1	DISH	gado gado
+1	FOOD	avocado
+1	FOOD	peanut dressing
+1	DISH	lobster and basil with wavy noodles
+1	FOOD	calamansi vinaigrette
+1	DISH	steamed black sea bass
+1	DISH	yellow chicken
+1	FOOD	yellow curry
+1	DISH	cod "
+1	FOOD	fiddlehead ferns
+1	DISH	purple - yam ice cream with banana cake and
+1	DISH	pandan custard under passion -
+1	DISH	assorted exotic fruit
+1	FOOD	Lychee
+1	FOOD	dragon fruit
+1	FOOD	spicy syrup of tamarind and palm sugar
+1	LOC	Astoria ,
+1	LOC	Pinones
+1	LOC	San Juan
+1	DISH	flattened cod fritters
+1	FOOD	corn muffin
+1	FOOD	Goya 's
+1	FOOD	mashed salt cod
+1	FOOD	fish taffy
+1	LOC	South Bronx
+1	LOC	Museum of the Moving Image
+1	FOOD	tropical -
+1	DISH	Kola Champagne
+1	DISH	Coco Rico
+1	DISH	Malta India
+1	FOOD	Puerto Rican soft drinks
+1	FOOD	mofongo
+1	FOOD	sancocho
+1	TYPE	cuchifritos parlors
+1	TYPE	cocina criolla luncheonettes
+1	LOC	the Bronx
+1	LOC	East Harlem
+1	EST	Casa Adela
+1	FOOD	chickens
+1	LOC	Avenue C
+1	FOOD	tostones
+1	FOOD	mojo de ajo
+1	DISH	sorullitos
+1	DISH	hush puppies
+1	DISH	alcapurrias
+1	FOOD	picadillo
+1	FOOD	mashed fried plantains
+1	FOOD	Pasteles
+1	FOOD	tamales
+1	FOOD	green plantains
+1	FOOD	taro root
+1	FOOD	kabocha squash
+1	FOOD	stewed pork shoulder
+1	FOOD	green olives
+1	DISH	chicharrones de pollo
+1	FOOD	cider vinegar
+1	FOOD	garlic powder
+1	FOOD	achiote - tinted
+1	LOC	Mayaguez
+1	FOOD	guava barbecue sauce
+1	DISH	Grilled pork chops splashed with mojo
+1	DISH	grilled chicken breasts
+1	DISH	Baked pork ribs in a sweet barbecue sauce
+1	DISH	brick of pastelon
+1	DISH	sancocho
+1	DISH	vegetable root soup
+1	FOOD	yuca
+1	FOOD	squash broth
+1	FOOD	heavy cream
+1	FOOD	mashed plantains
+1	FOOD	sliced roast pork
+1	FOOD	meringue icing
+1	FOOD	pasteles
+1	EST	Frank Pepe Pizzeria Napoletana
+1	LOC	Massachusetts
+1	EST	Lombardi
+1	LOC	Staten Island
+1	EST	Motorino
+1	EST	the Clam
+1	LOC	West Haven
+1	FOOD	abeetz
+1	EST	Pepe
+1	FOOD	cracked red pepper
+1	DISH	clam pizza
+1	DISH	plain pie
+1	FOOD	grated cheese
+1	LOC	Interstate 95
+1	LOC	179 Union Avenue ( Main Street ) ,
+1	DISH	braised -
+1	EST	Aquavit
+1	DISH	miniature saffron waffle
+1	FOOD	cannoli
+1	FOOD	taleggio
+1	FOOD	fennel pesto
+1	DISH	prosecco marshmallow
+1	FOOD	lasagnas
+1	DISH	chicken cacciatore
+1	FOOD	guinea hen breast
+1	FOOD	braised leg meat
+1	FOOD	Roman -
+1	FOOD	semolina
+1	DISH	cacciatore
+1	FOOD	salsify
+1	FOOD	M&M.
+1	DISH	grilled -
+1	DIET	plant
+1	FOOD	Italian aperitifs
+1	DISH	conical tortellini
+1	FOOD	nettles
+1	FOOD	spring -
+1	DISH	spring minestrone
+1	FOOD	raviolo
+1	FOOD	fazzoletto
+1	FOOD	poached mussels
+1	FOOD	sauce of mussel juices , white wine , butter
+1	DISH	mussel pasta
+1	FOOD	quince paste
+1	FOOD	griddled brioche
+1	DISH	olive oil -
+1	FOOD	amaro
+1	DISH	citrus salad
+1	DIET	without gluten
+1	DISH	Barolo
+1	LOC	Piemonte
+1	DISH	Friuli
+1	DISH	Valle d'Aosta
+1	TYPE	tiki bar
+1	EST	Blue Hill at Stone Barns
+1	LOC	Hanon
+1	TYPE	udon shop
+1	LOC	Union Avenue
+1	EST	Kellogg 's
+1	LOC	Kamakura
+1	FOOD	wheat germ
+1	FOOD	white flour
+1	FOOD	whole wheat
+1	FOOD	germ
+1	FOOD	dashi -
+1	FOOD	sasauchi
+1	FOOD	powdered barley shoots
+1	FOOD	leaves of kuma
+1	FOOD	bamboo
+1	FOOD	sasa
+1	FOOD	speckled zenryufun
+1	FOOD	green sasauchi
+1	FOOD	peanut - buttery
+1	FOOD	dashi - based
+1	FOOD	dipping noodles
+1	DISH	seiro udon
+1	FOOD	hot duck soup
+1	FOOD	cold noodles
+1	FOOD	whipped mountain yam
+1	LOC	Williamsburg
+1	TYPE	noodle mill
+1	DISH	tempura
+1	TYPE	sea salt
+1	FOOD	fried blowfish tails
+1	FOOD	mushroom
+1	FOOD	hot soups
+1	DISH	plain broth
+1	FOOD	curry soup
+1	FOOD	washugyu beef
+1	FOOD	ume
+1	DISH	soup of shaved beef and onions
+1	DISH	French dip jus
+1	FOOD	grated yuzu peel
+1	DISH	beef
+1	DISH	mentaiko pasta
+1	FOOD	Kewpie mayonnaise
+1	DISH	Sun Noodle
+1	FOOD	shochu
+1	LOC	New Yorkers
+1	FOOD	natural wines
+1	FOOD	French red
+1	DISH	Japanese omelet
+1	DISH	curry soup
+1	DISH	tofu blancmange
+1	FOOD	red bean paste
+1	DISH	iced oolong
+1	FOOD	hojicha
+1	DISH	foam tea
+1	DISH	cheese tea
+1	DISH	Guinness
+1	LOC	Las Vegas
+1	EST	Nishi
+1	DISH	galbi
+1	FOOD	raclette
+1	EST	Le Bec
+1	EST	Gaon
+1	EST	Chunjinam
+1	FOOD	sushi rolls
+1	DISH	pickled vegetable kimbap
+1	FOOD	beets
+1	DISH	kimbap filled with chives , pickled daikon , citrus jelly and a buttery pink vein of foie
+1	EST	Momofukuland
+1	DISH	madai tartare
+1	FOOD	gejang
+1	FOOD	Blue crab legs and claw
+1	FOOD	crab 's
+1	FOOD	shell
+1	DISH	hwedupbap
+1	DISH	doenjang jjigae
+1	FOOD	braised fermented bean paste
+1	DISH	yesterday 's stinky soybean
+1	FOOD	French
+1	DISH	soft tofu with soy syrup
+1	FOOD	crust of caramelized sugar
+1	FOOD	fried cod
+1	DISH	boiled chicken
+1	FOOD	dark meat
+1	EST	Momofukus
+1	EST	Gunther Seeger NY
+1	LOC	70 Pine Street
+1	EST	Manresa
+1	LOC	Los Gatos , Calif
+1	DISH	yogurt cheesecake
+1	FOOD	spring strawberries
+1	FOOD	strawberry sorbet
+1	FOOD	pistachio crumble
+1	DISH	chocolate tart
+1	FOOD	chocolate crust
+1	FOOD	dark chocolate
+1	FOOD	churros
+1	FOOD	Gruyere sauce
+1	DISH	fritters
+1	FOOD	gougeres
+1	FOOD	pull -
+1	FOOD	dried olives
+1	FOOD	olive tapenade
+1	FOOD	sundae
+1	FOOD	Satsuma ice cream
+1	FOOD	marshmallowy meringue
+1	FOOD	honeycomb candy
+1	DISH	iced Wellfleet oysters
+1	FOOD	cucumber jelly
+1	FOOD	jalapeno
+1	FOOD	purple shiso
+1	FOOD	white bean hummus
+1	FOOD	melted '
+1	FOOD	tartares
+1	FOOD	toasted walnuts
+1	FOOD	rye croutons
+1	FOOD	raw snapper
+1	FOOD	grapefruit
+1	FOOD	orange
+1	DISH	chicken liver ragu
+1	FOOD	cavatelli
+1	FOOD	jicama
+1	FOOD	grilled chicken
+1	FOOD	citrus marinade
+1	FOOD	puree - slash - hot sauce of fermented
+1	LOC	Greece
+1	LOC	New Zealand
+1	LOC	Germany
+1	DISH	banh beo
+1	FOOD	Banh beo
+1	FOOD	steamed rice
+1	FOOD	tapioca flours
+1	FOOD	green oil
+1	FOOD	Thai chile
+1	FOOD	rehydrated dried shrimp
+1	FOOD	fried tofu skin
+1	FOOD	pork rinds
+1	EST	Hanoi House
+1	LOC	Dalat ,
+1	EST	Battersby
+1	DISH	Banh beo
+1	EST	Hue
+1	DISH	Banh it ram
+1	FOOD	coconut - soaked mash of mung beans
+1	DISH	Banh khot
+1	FOOD	Ritz cracker
+1	FOOD	sauteed mushrooms
+1	FOOD	coconut cream
+1	DISH	cha ca la Vong
+1	DISH	turmeric - and
+1	FOOD	beef fillet
+1	DISH	soupless pho noodles
+1	FOOD	bitter greens
+1	FOOD	Maggi Seasoning
+1	FOOD	marinated hanger steak
+1	FOOD	grilled shrimp
+1	DISH	green papaya salad
+1	DISH	grilled corn in fish sauce
+1	FOOD	Sriracha
+1	DISH	che
+1	FOOD	che
+1	FOOD	tapioca
+1	DISH	White Tiger
+1	LOC	West Side
+1	LOC	10th Avenue
+1	DISH	eggplant Parmesan
+1	DISH	New Zealand salmon
+1	LOC	Hudson
+1	TYPE	country clubs
+1	DISH	Dover sole
+1	DISH	oysters Rockefeller
+1	TYPE	country club
+1	DISH	Pendennis Club
+1	DISH	Tritter rickey
+1	DISH	Nantucket
+1	DISH	French onion dip
+1	FOOD	fried potato chips
+1	FOOD	Parker House rolls
+1	FOOD	Chiclets
+1	DISH	New England clam chowder
+1	DISH	Avocado Louie
+1	FOOD	Thousand Island dressing
+1	DISH	warm soft boiled egg
+1	FOOD	buckwheat blin
+1	FOOD	osetra caviar
+1	DISH	chilled prawn cocktail
+1	FOOD	crab
+1	DISH	Lobster thermidor
+1	DISH	Dover sole meuniere
+1	LOC	Pebble Beach
+1	DISH	roast chicken for two
+1	FOOD	jus
+1	DISH	lemon meringue tart
+1	DISH	chocolate cake
+1	FOOD	devil 's food
+1	TYPE	American
+1	FOOD	lambs '
+1	FOOD	ears
+1	FOOD	tongues
+1	FOOD	cheeks
+1	FOOD	eyeballs
+1	FOOD	kelle paca
+1	DISH	Queens
+1	DISH	bourekas
+1	DISH	fava dip
+1	DISH	braised lamb over eggplant
+1	FOOD	charred eggplant
+1	EST	Sip Sak
+1	LOC	Turtle Bay
+1	CUISINE	Cypriot
+1	FOOD	cappuccino
+1	FOOD	Soups
+1	FOOD	braises
+1	DISH	kofte
+1	FOOD	minced and skewered meats
+1	EST	Taci 's
+1	EST	Liman
+1	FOOD	bass
+1	DISH	hunkar begendi
+1	FOOD	peppers
+1	EST	Ali nazik
+1	FOOD	red and green peppers
+1	DISH	roasted lamb and rice
+1	FOOD	pilaf
+1	FOOD	cinnamon
+1	FOOD	manti
+1	DISH	nigella - dotted
+1	FOOD	puree of dried favas
+1	FOOD	mashed eggplant
+1	FOOD	strained -
+1	DISH	cacik
+1	FOOD	white beans
+1	FOOD	bourekas
+1	FOOD	poached leeks
+1	FOOD	poached artichokes
+1	FOOD	grilled octopus
+1	FOOD	puddings
+1	FOOD	sugar syrup
+1	FOOD	baklava
+1	FOOD	butternut squash
+1	DISH	Turkish lemonade
+1	FOOD	lemonade
+1	LOC	Times Square Edition hotel
+1	LOC	47th Street
+1	DISH	Blanquette de Limoux
+1	DISH	2006 brut
+1	EST	Dom Perignon
+1	FOOD	aperitif
+1	LOC	Marriott International
+1	DIET	Edition
+1	DISH	fried -
+1	EST	Nix
+1	DISH	ramen - style
+1	EST	Loyal
+1	FOOD	jellied chile oil
+1	DISH	cauliflower mille
+1	FOOD	chilled mezcal cream
+1	FOOD	sturgeon caviar
+1	FOOD	custard of sunflower -
+1	FOOD	raw bluefin tuna
+1	FOOD	turnip greens
+1	FOOD	grated horseradish
+1	DISH	fava agnolotti
+1	FOOD	vinegar -
+1	FOOD	Parmesan -
+1	FOOD	squid -
+1	FOOD	Asparagus
+1	FOOD	shaved cedar
+1	FOOD	country bacon
+1	DISH	sweet potato
+1	FOOD	sourdough
+1	FOOD	wakame seaweed
+1	FOOD	aged -
+1	FOOD	roasted duck breast
+1	FOOD	powdered herbes de Provence
+1	FOOD	pine nuts
+1	FOOD	cranberry beans
+1	EST	Clocktower
+1	FOOD	buckwheat pastry crust
+1	FOOD	pastry cream
+1	FOOD	parsnips
+1	FOOD	mousse
+1	FOOD	English - pea
+1	FOOD	sour -
+1	DISH	deep -
+1	DISH	carrot Bolognese
+1	DISH	billboard burger
+1	EST	Terrace and Outdoor Gardens
+1	EST	Paradise Club
+1	FOOD	foie gras gravy
+1	LOC	Adam Clayton Powell Jr. Boulevard
+1	LOC	Striver 's
+1	FOOD	buttermilk batter
+1	FOOD	pizzelle
+1	FOOD	truffled maple syrup
+1	FOOD	jalapenos
+1	FOOD	bananas
+1	FOOD	seared filet
+1	FOOD	melted cheese
+1	LOC	East Passyunk Avenue
+1	CUISINE	casual American vernacular
+1	DISH	chicken and waffles
+1	FOOD	jalapeno -
+1	FOOD	pizzelles
+1	FOOD	waffles
+1	FOOD	macaroni and cheese
+1	FOOD	bacon marmalade
+1	DISH	pan - seared ,
+1	FOOD	cherry compote
+1	DISH	beef tenderloin
+1	DISH	lobster salad
+1	DISH	pan - seared dorade and
+1	EST	Red Rooster Harlem
+1	DISH	Triflin '
+1	FOOD	Hostess cakes
+1	FOOD	English trifle
+1	FOOD	Urfa pepper
+1	FOOD	brandied cherries
+1	DISH	potato chips
+1	FOOD	arugula sauce
+1	FOOD	poached pear
+1	FOOD	sparkling rose
+1	FOOD	lobster salad
+1	FOOD	tuna tartares
+1	FOOD	shiso
+1	EST	JoJo
+1	FOOD	Parmesan crust
+1	EST	Nougatine
+1	DISH	Parmesan -
+1	EST	Mark
+1	FOOD	Lime juice
+1	FOOD	cherry vinegar
+1	FOOD	balsamic
+1	TYPE	casual , all
+1	LOC	T.W.A. terminal
+1	LOC	Kennedy International Airport
+1	LOC	TWA Hotel
+1	LOC	Fulton Fish Market
+1	FOOD	dried strawberries
+1	FOOD	fresh summer berries
+1	LOC	La Guardia
+1	EST	Pool
+1	LOC	Brooklyn Bridge
+1	DISH	sea trout tartare
+1	FOOD	raw oysters
+1	FOOD	White ponzu
+1	FOOD	habanero vinaigrette
+1	DISH	Manhattan clam chowder
+1	FOOD	sesame -
+1	FOOD	salsa of coriander and jalapeno
+1	DISH	fish stew
+1	DISH	red snapper ceviche in watermelon juice
+1	DISH	salmon in a cumin - coriander
+1	DISH	sea bass and carrots
+1	FOOD	lemon -
+1	DISH	fish and crisps
+1	FOOD	flounder
+1	FOOD	buckwheat batter
+1	FOOD	mashed fresh peas
+1	FOOD	saffron aioli
+1	DISH	whole black bass
+1	FOOD	tomato concasse
+1	FOOD	sauce choron
+1	CUISINE	pre
+1	DISH	whole fish en croute
+1	DISH	kale salad
+1	DISH	Meyer lemon pudding
+1	FOOD	lemon meringue tart
+1	DISH	apricot pie
+1	FOOD	crisp
+1	FOOD	oatmeal streusel
+1	LOC	East 20th Street
+1	FOOD	tortellini in brodo
+1	FOOD	minced and blended pork
+1	FOOD	turkey gravy
+1	FOOD	melted Parmigiano
+1	FOOD	canned chicken broth
+1	FOOD	McDonald 's all
+1	FOOD	maccheroni al pettine
+1	FOOD	melted Brie
+1	FOOD	fonduta
+1	FOOD	tortelloni
+1	FOOD	melted brown butter
+1	FOOD	sage leaves
+1	FOOD	ragus
+1	DISH	meat -
+1	FOOD	ravioli
+1	LOC	Parma
+1	FOOD	crema di Parmigiano
+1	FOOD	Alfredo sauce
+1	FOOD	25 - year
+1	DISH	memories of a mortadella sandwich
+1	DISH	cherry season in Vignola
+1	FOOD	stracciatella
+1	FOOD	almond milk
+1	DISH	cow grazing in Emilia
+1	FOOD	sirloin
+1	FOOD	sauce of sweet red peppers
+1	DISH	Grandma walking through forest in Emilia
+1	FOOD	mushroom puree
+1	FOOD	snap -
+1	FOOD	spinach pasta
+1	FOOD	braised leeks
+1	EST	Hosteria Giusti
+1	FOOD	salted pork
+1	FOOD	gnocchi fritti
+1	EST	Antica Moka
+1	EST	All'Enoteca
+1	LOC	Piedmont
+1	TYPE	trattorias
+1	TYPE	enotecas
+1	TYPE	osterias
+1	FOOD	stewed cannellini beans
+1	FOOD	black garlic zabaglione
+1	FOOD	rock shrimp
+1	FOOD	strozzapreti
+1	EST	Ferrari 's Italian Villa & Chop
+1	FOOD	onion soup
+1	FOOD	garlic butter
+1	TYPE	brasseries
+1	DISH	Gruyere omelet
+1	LOC	Savoie
+1	FOOD	Scotch and soda
+1	DISH	baba au rhum
+1	FOOD	booze
+1	FOOD	whipped Chantilly cream
+1	TYPE	fast food
+1	DISH	salad of pickled herring and carrots
+1	EST	Brasserie Lipp
+1	DISH	country pate
+1	FOOD	gumdrops
+1	FOOD	pate
+1	FOOD	boudin
+1	FOOD	pureed potatoes
+1	FOOD	chilled king crab legs
+1	FOOD	half roast chicken
+1	FOOD	roast chicken
+1	DISH	duck in olives
+1	EST	Allard
+1	DISH	trout amandine
+1	FOOD	steamed mussels
+1	FOOD	lemon broth
+1	FOOD	steamed branzino
+1	FOOD	summer vegetables
+1	DISH	steak frites
+1	DISH	Low Countryish wild red shrimp on grits
+1	FOOD	sweet corn off the cob
+1	EST	saffron -
+1	FOOD	sai ua
+1	LOC	Chiang Mai
+1	FOOD	Calabrian sausage
+1	DISH	elk osso buco
+1	FOOD	wild hare
+1	FOOD	blood
+1	FOOD	lievre a la royale
+1	FOOD	venison
+1	FOOD	preserved lemons
+1	FOOD	ground lamb
+1	FOOD	camel
+1	FOOD	muffuletta
+1	TYPE	taco stands
+1	DISH	tacos de guisado
+1	DISH	sandwiches de guisado
+1	FOOD	cilantro stems
+1	FOOD	orange juice
+1	FOOD	banana leaf
+1	FOOD	cochinita pibil
+1	LOC	Yucatan
+1	LOC	St. Marks Place
+1	DISH	It 's What
+1	DISH	120 BPM
+1	FOOD	bison heart
+1	FOOD	smoked pork rib
+1	FOOD	dry rose
+1	FOOD	coleslaw
+1	FOOD	habanero -
+1	DISH	McRib
+1	LOC	Midwest
+1	FOOD	roasts
+1	DISH	elk osso buco sandwich
+1	DISH	rainbow unicorn ice cream sundae
+1	EST	William Barnacle Tavern
+1	DISH	Italian fruit soda
+1	FOOD	ice water
+1	DISH	Death in the Afternoon
+1	DISH	camel sandwich
+1	LOC	Lower Manhattan
+1	LOC	Downtown Flushing
+1	EST	Little Sheep Hot Pot
+1	LOC	Inner Mongolia
+1	TYPE	all
+1	EST	Mister Hotpot
+1	EST	Liuyishou Hot Pot
+1	FOOD	spiced beef tallow
+1	FOOD	winter -
+1	FOOD	melon
+1	EST	Tang Hotpot
+1	FOOD	dried red chiles
+1	EST	Da Long Yi Hot Pot
+1	LOC	Sichuan
+1	EST	Da Long Yis
+1	FOOD	mushroom broth
+1	EST	Tang
+1	FOOD	Kungfu beef tripe
+1	FOOD	tofu skins
+1	FOOD	fried dough sticks
+1	FOOD	youtiao
+1	DISH	fried bun
+1	FOOD	hard - cooked
+1	FOOD	rabbit kidneys
+1	FOOD	duck intestine
+1	FOOD	duck intestines
+1	FOOD	flattened artery
+1	FOOD	geoduck
+1	DISH	vegetable platter
+1	FOOD	king oyster mushrooms
+1	FOOD	crown daisy greens
+1	FOOD	orange roe
+1	FOOD	Wagyu rib
+1	FOOD	New Zealand lamb
+1	FOOD	Kurobuta pork belly
+1	FOOD	flounder fillets
+1	FOOD	mala
+1	FOOD	white rice
+1	FOOD	fresh watermelon juice
+1	FOOD	poke
+1	TYPE	fast
+1	TYPE	counter
+1	LOC	Gansevoort Market food hall
+1	LOC	Canal Street Market
+1	LOC	Norwalk ,
+1	FOOD	citrus - marinated
+1	FOOD	sweet potatoes
+1	FOOD	Andean corn
+1	DISH	salad bowls
+1	FOOD	leche de tigre marinade
+1	DISH	ceviche clasico
+1	FOOD	rocoto chiles
+1	FOOD	rocotos
+1	FOOD	aji amarillo chiles
+1	DISH	ceviche mixto
+1	DISH	clasico
+1	DISH	mixto
+1	FOOD	avocado puree
+1	FOOD	wedding cake
+1	LOC	Gansevoort Market
+1	LOC	Upper East Side
+1	EST	Mission Ceviche Restaurant & Bar
+1	FOOD	grilled skewers
+1	DISH	anticuchos
+1	DISH	grilled beef heart
+1	FOOD	rocoto sauce
+1	FOOD	fried blue potato chips
+1	FOOD	choclo corn
+1	FOOD	rocoto
+1	FOOD	blue potatoes
+1	FOOD	choclo
+1	LOC	Argentina
+1	DISH	shrimp anticuchos
+1	FOOD	huancaina
+1	FOOD	spicy yellow cheese sauce
+1	LOC	Peru
+1	FOOD	queso dip
+1	FOOD	grilled scallops
+1	FOOD	Parmesan fondue
+1	DISH	beef -
+1	DISH	octopus causa
+1	FOOD	yellow chiles
+1	FOOD	Peruvian black olives
+1	FOOD	aji panca paste
+1	FOOD	purple Peruvian potatoes
+1	DISH	classic ceviche
+1	DISH	octopus leg
+1	DISH	strawberry -
+1	DISH	Peruvian paella
+1	DISH	aji de gallina
+1	FOOD	shredded chicken breast
+1	FOOD	aji amarillo sauce
+1	DISH	seco norteno
+1	DISH	cilantro sauce
+1	FOOD	ceviches
+1	TYPE	fast -
+1	DISH	" Nikkei
+1	FOOD	ponzu sauce
+1	FOOD	aji amarilllo
+1	FOOD	togarashi
+1	FOOD	watermelon
+1	FOOD	ginger foam
+1	FOOD	vegetarian ceviche
+1	DISH	pisco sour
+1	DISH	purple
+1	DISH	chicha morada
+1	DISH	chilcano
+1	FOOD	pisco
+1	FOOD	lime juice
+1	FOOD	ginger ale
+1	FOOD	ginger beer
+1	FOOD	Chicha morada
+1	FOOD	lucuma foam
+1	FOOD	candied pecan crumbs
+1	DISH	har gow
+1	DISH	turnip cake
+1	DISH	Wagyu -
+1	FOOD	steamed buns
+1	FOOD	steamed dumplings
+1	FOOD	stir
+1	EST	DaDong
+1	EST	Hao Noodle
+1	LOC	Beijing
+1	LOC	Bloomberg Building
+1	LOC	East 58th and 59th Streets
+1	FOOD	Lamb
+1	DISH	cumin -
+1	DISH	Red Lantern
+1	FOOD	dried peppers
+1	FOOD	fried soft -
+1	FOOD	jelly beans
+1	FOOD	crabs
+1	FOOD	Old Bay
+1	FOOD	Fermented chiles
+1	FOOD	steamed halibut
+1	FOOD	red bell pepper
+1	DISH	halibut red star noodles
+1	DISH	Kou shui chicken
+1	FOOD	rice vinegar
+1	FOOD	sweet wasabi sauce
+1	FOOD	steamed asparagus stalks
+1	FOOD	white sesame sauce
+1	FOOD	bao
+1	FOOD	white sesame cream
+1	FOOD	salted caramel
+1	FOOD	lightly sweetened soy milk
+1	FOOD	soybeans
+1	FOOD	sgroppino
+1	LOC	Grove Street
+1	DISH	tuna tramezzino
+1	TYPE	omakase hideaways
+1	LOC	Brazil
+1	TYPE	neo
+1	FOOD	mushroom marmalade
+1	FOOD	mushroom tart
+1	FOOD	melted fennel
+1	FOOD	black lentils
+1	FOOD	smoked trout roe
+1	FOOD	pistachio -
+1	FOOD	coconut mousse
+1	FOOD	Kaluga caviar
+1	DISH	foie gras torchon
+1	DISH	mushrooms with gnocchi
+1	FOOD	aged Comte
+1	EST	Red Hook
+1	EST	Hometown Bar
+1	FOOD	smoked briskets
+1	FOOD	shoulders
+1	FOOD	fried
+1	TYPE	emporium
+1	LOC	Van Brunt Street
+1	TYPE	corner bar
+1	LOC	Texas Hill Country
+1	DISH	cheeseburger
+1	FOOD	hamburgers
+1	DISH	the New York City pub burger
+1	FOOD	ground
+1	EST	P.J. Clarke
+1	EST	JG Melon and Fanelli Cafe
+1	EST	Donovan 's
+1	DISH	Red Hook Tavern burger
+1	DISH	steakhouse burger
+1	DISH	pub burger
+1	FOOD	toasted and buttered hard roll
+1	FOOD	patties
+1	FOOD	browned meat
+1	FOOD	white onion
+1	FOOD	half - sour
+1	FOOD	golden chicken gravy
+1	FOOD	half
+1	DISH	country -
+1	DISH	wedge salad
+1	EST	Lugeresque
+1	FOOD	roasted corn
+1	DISH	skin - fermented Moravian
+1	FOOD	queso
+1	FOOD	sparkling red
+1	LOC	Maryland
+1	LOC	wine
+1	DISH	Radikon
+1	DISH	Marcel Lapierre
+1	DISH	Frank Cornelissen
+1	DISH	Subject to Change
+1	LOC	Forestville ,
+1	FOOD	low - alcohol
+1	DISH	Moon Juice
+1	EST	Other Half
+1	EST	Folksbier
+1	EST	Threes Brewing
+1	FOOD	light and dark ales
+1	DISH	A Tribute To McSorleys Ale House
+1	EST	John 's of Bleecker
+1	EST	Keste
+1	EST	Lucali
+1	FOOD	wheat berries
+1	FOOD	sourdough starters
+1	EST	F&F Pizzeria
+1	FOOD	starter dough
+1	DISH	pizza al taglio
+1	EST	Ray
+1	LOC	Palisade Avenue
+1	LOC	Jersey City Heights
+1	FOOD	red and yellow peppers
+1	FOOD	Concord grapes
+1	FOOD	rosemary
+1	DISH	grape pizza
+1	FOOD	Sicilian olive oil
+1	FOOD	hazelnuts
+1	LOC	Pittsburgh
+1	LOC	Jersey City
+1	FOOD	Italian sodas
+1	TYPE	trattoria
+1	DISH	tripe stewed in spicy tomato sauce
+1	DISH	meatballs
+1	DISH	mortadella sandwich
+1	DISH	beans
+1	FOOD	scarlet runners
+1	FOOD	sweet red peppers
+1	FOOD	peperoni cruschi
+1	FOOD	sourdough bread
+1	FOOD	peaches
+1	DISH	cantaloupe pudding
+1	DISH	Tristar strawberry sorbet
+1	FOOD	anise - seed
+1	DISH	pasta with clams
+1	TYPE	clam bars
+1	EST	Randazzo
+1	DISH	tagliatelle with clams
+1	FOOD	tagliatelle
+1	FOOD	mustard beurre blanc
+1	FOOD	Mustard beurre blanc
+1	FOOD	salmon fillet
+1	FOOD	French ham
+1	TYPE	grill
+1	DISH	divorced sea bream
+1	FOOD	bream
+1	FOOD	red sauce
+1	FOOD	green sauce
+1	DISH	pescado a la talla
+1	LOC	Mexico City
+1	DISH	huevos divorciados
+1	FOOD	fried eggs
+1	FOOD	salsas
+1	FOOD	adobo
+1	FOOD	Catalan romesco
+1	FOOD	parsley salsa
+1	FOOD	French pistou
+1	FOOD	taloa
+1	FOOD	cornmeal cake
+1	LOC	Bayonne
+1	LOC	Bilbao
+1	DISH	taloa
+1	DISH	Mount Gay and tonic
+1	DISH	lobster
+1	DISH	smoked potato puree
+1	DISH	Basque potato salad
+1	DISH	charcoal - grilled swordfish with mint salsa verde , fennel
+1	DISH	chicken andouille
+1	DISH	corn -
+1	FOOD	Calabrian chile oil
+1	FOOD	salsa of chopped cucumbers , seaweed and fermented serrano
+1	DISH	fried cod cheeks
+1	FOOD	romesco aioli
+1	FOOD	crab salad
+1	FOOD	gribiche
+1	FOOD	smoked potato pancake
+1	DISH	apple galette
+1	FOOD	Swiss -
+1	EST	Edelweiss Creamery
+1	LOC	Wisconsin
+1	FOOD	Pedro Ximenez sherry
+1	FOOD	Swiss cheese
+1	LOC	Orchard Street
+1	DISH	Kinilaw
+1	FOOD	calamansi and cane vinegar marinade
+1	FOOD	bird's -
+1	FOOD	bay scallops
+1	DISH	fried pork - and
+1	DISH	pinsec frito
+1	DISH	pinsit frito
+1	FOOD	fried wrapper
+1	FOOD	Won tons
+1	DISH	pancit molo
+1	FOOD	ground pork
+1	FOOD	salsa of raw mangoes , charred onions and
+1	TYPE	Filipino
+1	DISH	doughnut
+1	FOOD	ube
+1	FOOD	Cristal
+1	FOOD	gold
+1	DISH	fried milkfish in pritong isda
+1	FOOD	calamansi juice
+1	FOOD	marinated chayote
+1	DISH	adobong manok
+1	FOOD	roasted chicken
+1	FOOD	smoked eggplant
+1	FOOD	grilled eggplant
+1	FOOD	marrow
+1	FOOD	stewed oxtails
+1	FOOD	laing
+1	FOOD	kale
+1	FOOD	taro leaves
+1	FOOD	smoked fish
+1	FOOD	dried baby shrimp
+1	DISH	calamansi soda
+1	FOOD	artichoke liqueur
+1	FOOD	bitters
+1	DISH	A La Bira
+1	FOOD	kakigori
+1	FOOD	patbingsu
+1	DISH	halo
+1	FOOD	coconut sorbet
+1	FOOD	coconut jellies
+1	FOOD	silvana
+1	FOOD	cookie
+1	FOOD	cashew meringues
+1	FOOD	cashew crumbs
+1	FOOD	gold leaf
+1	DISH	broiled dry -
+1	LOC	South Williamsburg
+1	FOOD	tallow
+1	DISH	sliced porterhouse
+1	DISH	rib steak
+1	DISH	steak
+1	TYPE	bodega
+1	FOOD	steak sauce
+1	FOOD	corn syrup
+1	DISH	fries
+1	DISH	German fried potatoes
+1	DISH	burger
+1	DISH	medium -
+1	FOOD	fillet
+1	FOOD	T
+1	FOOD	strip
+1	DISH	porterhouse
+1	DISH	sliced tomatoes
+1	DISH	porterhouse for four
+1	FOOD	sole

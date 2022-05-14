@@ -40,6 +40,9 @@ This file contains all annotations from all annotators in CONLL format.
 ### [`adjudicated_annotations.txt`](data/adjudicated_annotations.txt)
 This file contains adjudicated annotations in CONLL format.
 
+### [`counts.txt`](data/counts.txt)
+This file contains counts of entities in [`adjudicated_annotations.txt`](data/adjudicated_annotations.txt).
+
 ### [`final_data_splits`](data/final_data_splits)
 This directory contains the train, dev, and test sets for the adjudicated annotations.
 
