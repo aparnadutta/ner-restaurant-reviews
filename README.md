@@ -22,9 +22,8 @@ It includes [`url_list.txt`](data/html_reviews/url_list.txt) listing the corresp
 
 ### [`raw_data`](data/raw_data)
 This directory contains txt files for a processed dataset of New York Times food reviews.
-It includes [`cleaned_reviews.json`](data/raw_data/cleaned_reviews.json) containing
-[`edit_cleaned_reviews.json`](data/raw_data/edit_cleaned_reviews.json)
-[`unprocessed_URLs.txt`](data/raw_data/unprocessed_URLs.txt)
+It includes [`cleaned_reviews.json`](data/raw_data/cleaned_reviews.json) and [`edit_cleaned_reviews.json`](data/raw_data/edit_cleaned_reviews.json), which contain all of the processed food review data.
+It includes [`unprocessed_URLs.txt`](data/raw_data/unprocessed_URLs.txt), listing any unprocessed URLs.
 
 ### [`tags.json`](data/tags.json)
 This file contains entity types to import into an annotation tool.
